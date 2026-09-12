@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MegaDona Express — Analizador de ventas</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --panel: #171a21;
+    --border: #2a2e38;
+    --text: #e8e9ec;
+    --muted: #9099a8;
+    --accent: #4f8cff;
+    --accent-hover: #3d76e0;
+    --ok: #35c26b;
+    --err: #ef5350;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  .card {
+    width: 100%;
+    max-width: 420px;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 32px;
+  }
+  h1 {
+    font-size: 1.3rem;
+    margin: 0 0 6px;
+  }
+  p.subtitle {
+    color: var(--muted);
+    margin: 0 0 24px;
+    font-size: 0.9rem;
+  }
+  label {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+  select {
+    width: 100%;
+    padding: 10px 12px;
+    background: #0f1115;
+    color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    font-size: 0.95rem;
+    margin-bottom: 20px;
+  }
+  button {
+    width: 100%;
+    padding: 12px;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s ease;
+  }
+  button:hover:not(:disabled) { background: var(--accent-hover); }
+  button:disabled { opacity: 0.6; cursor: not-allowed; }
+ 
+  .status {
+    margin-top: 16px;
+    font-size: 0.9rem;
+    display: none;
+    padding: 10px 12px;
+    border-radius: 8px;
+  }
+  .status.show { display: block; }
+  .status.loading { background: #1c2230; color: var(--muted); }
+  .status.success { background: rgba(53, 194, 107, 0.12); color: var(--ok); }
+  .status.error { background: rgba(239, 83, 80, 0.12); color: var(--err); }
+</style>
+</head>
+<body>
+ 
+<div class="card">
+  <h1>MegaDona Express</h1>
+  <p class="subtitle">Elige una dona y genera un análisis de ventas y desperdicio. El resultado llega a Slack.</p>
+ 
+  <label for="producto">Producto</label>
+  <select id="producto">
+    <option value="Glaseada Clásica">Glaseada Clásica</option>
+    <option value="Chocolate Rellena">Chocolate Rellena</option>
+    <option value="Azúcar y Canela">Azúcar y Canela</option>
+    <option value="Fresa Rellena">Fresa Rellena</option>
+    <option value="Multigrano">Multigrano</option>
+  </select>
+ 
+  <button id="btnAnalizar">Analizar</button>
+ 
+  <div id="status" class="status"></div>
+</div>
+ 
+<script>
+  // Cambia esto por el host real donde Aldeb corra el backend (FastAPI).
+  const BACKEND_URL = "http://localhost:8000/analizar";
+ 
+  const btn = document.getElementById("btnAnalizar");
+  const select = document.getElementById("producto");
+  const statusEl = document.getElementById("status");
+ 
+  function setStatus(text, type) {
+    statusEl.textContent = text;
+    statusEl.className = "status show " + type;
+  }
+ 
+  btn.addEventListener("click", async () => {
+    const producto = select.value;
+ 
+    btn.disabled = true;
+    setStatus("Analizando \"" + producto + "\"...", "loading");
+ 
+    try {
+      const res = await fetch(BACKEND_URL, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ producto: producto }),
+      });
+ 
+      if (!res.ok) {
+        throw new Error("El backend respondió con estado " + res.status);
+      }
+ 
+      // Se asume que el backend responde algo como { "mensaje": "Revisa en Slack" }
+      const data = await res.json();
+      setStatus(data.mensaje || "Listo. Revisa en Slack.", "success");
+    } catch (err) {
+      console.error(err);
+      setStatus("Error al analizar: " + err.message, "error");
+    } finally {
+      btn.disabled = false;
+    }
+  });
+</script>
+ 
+</body>
+</html>
