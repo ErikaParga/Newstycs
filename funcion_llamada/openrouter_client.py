@@ -111,6 +111,8 @@ Contexto externo (búsqueda web reciente):
     respuesta.raise_for_status()
     data = respuesta.json()
 
+    print("Respuesta completa de OpenRouter:", json.dumps(data, indent=2, ensure_ascii=False))
+
     contenido = data["choices"][0]["message"]["content"]
 
     try:
