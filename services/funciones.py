@@ -1,4 +1,6 @@
 import pandas as pd
+import requests
+import os
 
 _df = pd.read_csv("datos/ventas_donas.csv")
 
@@ -57,3 +59,114 @@ def construir_contexto(producto: str) -> dict:
         "historico": historico
     }
 
+
+def construir_blocks(resultado: dict) -> list:
+    recomendacion = resultado["recomendacion"]
+    plan = resultado["plan_de_accion"]
+    comparacion = resultado["comparacion"]
+
+    fuentes = resultado.get("fuentes_externas", [])
+
+    # Convertir las URLs en enlaces de Slack
+    fuentes_texto = "\n".join(
+        f"• <{url}|Fuente {i + 1}>"
+        for i, url in enumerate(fuentes)
+    )
+
+    blocks = [
+        {
+            "type": "header",
+            "text": {
+                "type": "plain_text",
+                "text": "Análisis de demanda"
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": (
+                    "*Diagnóstico*\n"
+                    f"{resultado['diagnostico']}"
+                )
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": (
+                    "*Recomendación de producción*\n"
+                    f"• Escenario bajo: *{recomendacion['escenario_bajo']} unidades*\n"
+                    f"• Escenario esperado: *{recomendacion['escenario_esperado']} unidades*\n"
+                    f"• Escenario alto: *{recomendacion['escenario_alto']} unidades*"
+                )
+            }
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": (
+                    "*Explicación*\n"
+                    f"{resultado['explicacion']}"
+                )
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": (
+                    "*Plan de acción*\n"
+                    f"*Qué hacer:* {plan['que_hacer']}\n"
+                    f"*Cuándo:* {plan['cuando']}\n"
+                    f"*Riesgo si no se sigue:* {plan['riesgo_si_no_se_sigue']}"
+                )
+            }
+        },
+        {
+            "type": "divider"
+        },
+        {
+            "type": "section",
+            "text": {
+                "type": "mrkdwn",
+                "text": (
+                    "*Comparación*\n"
+                    f"Fórmula ingenua: *{comparacion['formula_ingenua_unidades']} unidades*\n"
+                    f"Agente: *{comparacion['agente_unidades']} unidades*\n"
+                    f"Diferencia: *{comparacion['diferencia_unidades']} unidades*\n"
+                    f"Ahorro estimado: *${comparacion['ahorro_estimado_pesos']:,.2f} MXN*"
+                )
+            }
+        }
+    ]
+
+    if fuentes_texto:
+        blocks.extend([
+            {"type": "divider"},
+            {
+                "type": "section",
+                "text": {
+                    "type": "mrkdwn",
+                    "text": f"*🔗 Fuentes externas*\n{fuentes_texto}"
+                }
+            }
+        ])
+
+    return blocks
+
+def enviar_a_slack(blocks: list) -> None:
+    webhook_url = os.getenv("SLACK_WEBHOOK_URL")
+
+    response = requests.post(
+        webhook_url,
+        json={"blocks": blocks},
+        timeout=10
+    )
+
+    response.raise_for_status()
