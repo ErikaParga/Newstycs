@@ -1,0 +1,1826 @@
+fecha,dia_semana,producto,unidades_producidas_formula_ingenua,unidades_vendidas,unidades_desperdiciadas,ventas_perdidas_por_faltante,precio_unitario,costo_produccion_unitario,en_promocion,evento_especial,ingreso,costo_desperdicio_pesos
+2025-01-01,Wednesday,Glaseada Clásica,220,220,0,24,18,6.5,False,Quincena,3960,0.0
+2025-01-02,Thursday,Glaseada Clásica,244,201,43,0,18,6.5,False,,3618,279.5
+2025-01-03,Friday,Glaseada Clásica,222,222,0,36,18,6.5,False,,3996,0.0
+2025-01-04,Saturday,Glaseada Clásica,234,234,0,85,18,6.5,False,,4212,0.0
+2025-01-05,Sunday,Glaseada Clásica,256,256,0,54,18,6.5,False,,4608,0.0
+2025-01-06,Monday,Glaseada Clásica,266,150,116,0,18,6.5,False,,2700,754.0
+2025-01-07,Tuesday,Glaseada Clásica,247,184,63,0,18,6.5,False,,3312,409.5
+2025-01-08,Wednesday,Glaseada Clásica,238,184,54,0,18,6.5,False,,3312,351.0
+2025-01-09,Thursday,Glaseada Clásica,229,229,0,253,18,6.5,False,Día de la Policía,4122,0.0
+2025-01-10,Friday,Glaseada Clásica,270,270,0,9,18,6.5,False,,4860,0.0
+2025-01-11,Saturday,Glaseada Clásica,273,273,0,90,18,6.5,False,,4914,0.0
+2025-01-12,Sunday,Glaseada Clásica,279,279,0,12,18,6.5,False,,5022,0.0
+2025-01-13,Monday,Glaseada Clásica,276,143,133,0,18,6.5,False,,2574,864.5
+2025-01-14,Tuesday,Glaseada Clásica,275,156,119,0,18,6.5,False,,2808,773.5
+2025-01-15,Wednesday,Glaseada Clásica,271,234,37,0,18,6.5,False,Quincena,4212,240.5
+2025-01-16,Thursday,Glaseada Clásica,278,203,75,0,18,6.5,False,,3654,487.5
+2025-01-17,Friday,Glaseada Clásica,238,238,0,2,18,6.5,False,,4284,0.0
+2025-01-18,Saturday,Glaseada Clásica,233,233,0,102,18,6.5,False,,4194,0.0
+2025-01-19,Sunday,Glaseada Clásica,229,229,0,31,18,6.5,False,,4122,0.0
+2025-01-20,Monday,Glaseada Clásica,224,161,63,0,18,6.5,False,,2898,409.5
+2025-01-21,Tuesday,Glaseada Clásica,227,189,38,0,18,6.5,False,,3402,247.0
+2025-01-22,Wednesday,Glaseada Clásica,232,186,46,0,18,6.5,False,,3348,299.0
+2025-01-23,Thursday,Glaseada Clásica,225,182,43,0,18,6.5,False,,3276,279.5
+2025-01-24,Friday,Glaseada Clásica,222,222,0,15,18,6.5,False,,3996,0.0
+2025-01-25,Saturday,Glaseada Clásica,221,221,0,108,18,6.5,False,,3978,0.0
+2025-01-26,Sunday,Glaseada Clásica,221,221,0,56,18,6.5,False,,3978,0.0
+2025-01-27,Monday,Glaseada Clásica,223,146,77,0,18,6.5,False,,2628,500.5
+2025-01-28,Tuesday,Glaseada Clásica,221,181,40,0,18,6.5,False,,3258,260.0
+2025-01-29,Wednesday,Glaseada Clásica,220,167,53,0,18,6.5,False,,3006,344.5
+2025-01-30,Thursday,Glaseada Clásica,217,217,0,36,18,6.5,False,Quincena,3906,0.0
+2025-01-31,Friday,Glaseada Clásica,227,227,0,91,18,6.5,False,Quincena,4086,0.0
+2025-02-01,Saturday,Glaseada Clásica,239,239,0,168,18,6.5,False,Quincena,4302,0.0
+2025-02-02,Sunday,Glaseada Clásica,250,250,0,31,18,6.5,False,,4500,0.0
+2025-02-03,Monday,Glaseada Clásica,250,123,127,0,18,6.5,False,,2214,825.5
+2025-02-04,Tuesday,Glaseada Clásica,247,173,74,0,18,6.5,False,,3114,481.0
+2025-02-05,Wednesday,Glaseada Clásica,246,176,70,0,18,6.5,False,,3168,455.0
+2025-02-06,Thursday,Glaseada Clásica,247,207,40,0,18,6.5,False,,3726,260.0
+2025-02-07,Friday,Glaseada Clásica,241,241,0,12,18,6.5,False,,4338,0.0
+2025-02-08,Saturday,Glaseada Clásica,231,231,0,96,18,6.5,False,,4158,0.0
+2025-02-09,Sunday,Glaseada Clásica,220,220,0,104,18,6.5,False,,3960,0.0
+2025-02-10,Monday,Glaseada Clásica,226,149,77,0,18,6.5,False,,2682,500.5
+2025-02-11,Tuesday,Glaseada Clásica,230,189,41,0,18,6.5,False,,3402,266.5
+2025-02-12,Wednesday,Glaseada Clásica,232,187,45,0,18,6.5,False,,3366,292.5
+2025-02-13,Thursday,Glaseada Clásica,234,182,52,0,18,6.5,False,,3276,338.0
+2025-02-14,Friday,Glaseada Clásica,230,230,0,59,18,6.5,False,,4140,0.0
+2025-02-15,Saturday,Glaseada Clásica,235,235,0,111,18,6.5,False,Quincena,4230,0.0
+2025-02-16,Sunday,Glaseada Clásica,238,238,0,46,18,6.5,False,,4284,0.0
+2025-02-17,Monday,Glaseada Clásica,232,161,71,0,18,6.5,False,,2898,461.5
+2025-02-18,Tuesday,Glaseada Clásica,234,234,0,9,18,6.5,True,,4212,0.0
+2025-02-19,Wednesday,Glaseada Clásica,242,201,41,0,18,6.5,False,,3618,266.5
+2025-02-20,Thursday,Glaseada Clásica,244,202,42,0,18,6.5,False,,3636,273.0
+2025-02-21,Friday,Glaseada Clásica,247,247,0,32,18,6.5,False,,4446,0.0
+2025-02-22,Saturday,Glaseada Clásica,245,245,0,72,18,6.5,False,,4410,0.0
+2025-02-23,Sunday,Glaseada Clásica,241,241,0,40,18,6.5,False,,4338,0.0
+2025-02-24,Monday,Glaseada Clásica,241,151,90,0,18,6.5,False,,2718,585.0
+2025-02-25,Tuesday,Glaseada Clásica,239,159,80,0,18,6.5,False,,2862,520.0
+2025-02-26,Wednesday,Glaseada Clásica,227,213,14,0,18,6.5,False,,3834,91.0
+2025-02-27,Thursday,Glaseada Clásica,229,216,13,0,18,6.5,False,,3888,84.5
+2025-02-28,Friday,Glaseada Clásica,231,231,0,89,18,6.5,False,,4158,0.0
+2025-03-01,Saturday,Glaseada Clásica,237,237,0,125,18,6.5,False,Quincena,4266,0.0
+2025-03-02,Sunday,Glaseada Clásica,243,243,0,75,18,6.5,False,,4374,0.0
+2025-03-03,Monday,Glaseada Clásica,248,153,95,0,18,6.5,False,,2754,617.5
+2025-03-04,Tuesday,Glaseada Clásica,249,181,68,0,18,6.5,False,,3258,442.0
+2025-03-05,Wednesday,Glaseada Clásica,252,185,67,0,18,6.5,False,,3330,435.5
+2025-03-06,Thursday,Glaseada Clásica,248,208,40,0,18,6.5,False,,3744,260.0
+2025-03-07,Friday,Glaseada Clásica,247,247,0,16,18,6.5,False,,4446,0.0
+2025-03-08,Saturday,Glaseada Clásica,239,239,0,86,18,6.5,False,,4302,0.0
+2025-03-09,Sunday,Glaseada Clásica,233,233,0,79,18,6.5,False,,4194,0.0
+2025-03-10,Monday,Glaseada Clásica,232,205,27,0,18,6.5,True,,3690,175.5
+2025-03-11,Tuesday,Glaseada Clásica,240,185,55,0,18,6.5,False,,3330,357.5
+2025-03-12,Wednesday,Glaseada Clásica,240,183,57,0,18,6.5,False,,3294,370.5
+2025-03-13,Thursday,Glaseada Clásica,240,240,0,32,18,6.5,True,,4320,0.0
+2025-03-14,Friday,Glaseada Clásica,249,249,0,22,18,6.5,False,,4482,0.0
+2025-03-15,Saturday,Glaseada Clásica,250,250,0,134,18,6.5,False,Quincena,4500,0.0
+2025-03-16,Sunday,Glaseada Clásica,259,259,0,38,18,6.5,False,,4662,0.0
+2025-03-17,Monday,Glaseada Clásica,257,132,125,0,18,6.5,False,,2376,812.5
+2025-03-18,Tuesday,Glaseada Clásica,246,171,75,0,18,6.5,False,,3078,487.5
+2025-03-19,Wednesday,Glaseada Clásica,244,200,44,0,18,6.5,False,,3600,286.0
+2025-03-20,Thursday,Glaseada Clásica,247,194,53,0,18,6.5,False,,3492,344.5
+2025-03-21,Friday,Glaseada Clásica,236,236,0,36,18,6.5,False,,4248,0.0
+2025-03-22,Saturday,Glaseada Clásica,236,236,0,86,18,6.5,False,,4248,0.0
+2025-03-23,Sunday,Glaseada Clásica,227,227,0,49,18,6.5,False,,4086,0.0
+2025-03-24,Monday,Glaseada Clásica,224,148,76,0,18,6.5,False,,2664,494.0
+2025-03-25,Tuesday,Glaseada Clásica,226,156,70,0,18,6.5,False,,2808,455.0
+2025-03-26,Wednesday,Glaseada Clásica,224,210,14,0,18,6.5,False,,3780,91.0
+2025-03-27,Thursday,Glaseada Clásica,225,225,0,21,18,6.5,False,,4050,0.0
+2025-03-28,Friday,Glaseada Clásica,233,233,0,16,18,6.5,False,,4194,0.0
+2025-03-29,Saturday,Glaseada Clásica,230,230,0,120,18,6.5,False,,4140,0.0
+2025-03-30,Sunday,Glaseada Clásica,234,234,0,81,18,6.5,False,Quincena,4212,0.0
+2025-03-31,Monday,Glaseada Clásica,239,176,63,0,18,6.5,False,Quincena,3168,409.5
+2025-04-01,Tuesday,Glaseada Clásica,243,243,0,70,18,6.5,True,Quincena,4374,0.0
+2025-04-02,Wednesday,Glaseada Clásica,266,171,95,0,18,6.5,False,,3078,617.5
+2025-04-03,Thursday,Glaseada Clásica,260,225,35,0,18,6.5,False,,4050,227.5
+2025-04-04,Friday,Glaseada Clásica,257,257,0,54,18,6.5,False,,4626,0.0
+2025-04-05,Saturday,Glaseada Clásica,266,266,0,37,18,6.5,False,,4788,0.0
+2025-04-06,Sunday,Glaseada Clásica,259,259,0,19,18,6.5,False,,4662,0.0
+2025-04-07,Monday,Glaseada Clásica,254,147,107,0,18,6.5,False,,2646,695.5
+2025-04-08,Tuesday,Glaseada Clásica,250,197,53,0,18,6.5,False,,3546,344.5
+2025-04-09,Wednesday,Glaseada Clásica,233,209,24,0,18,6.5,False,,3762,156.0
+2025-04-10,Thursday,Glaseada Clásica,239,227,12,0,18,6.5,False,,4086,78.0
+2025-04-11,Friday,Glaseada Clásica,239,239,0,36,18,6.5,False,,4302,0.0
+2025-04-12,Saturday,Glaseada Clásica,234,234,0,108,18,6.5,False,,4212,0.0
+2025-04-13,Sunday,Glaseada Clásica,239,239,0,61,18,6.5,False,,4302,0.0
+2025-04-14,Monday,Glaseada Clásica,242,127,115,0,18,6.5,False,,2286,747.5
+2025-04-15,Tuesday,Glaseada Clásica,240,206,34,0,18,6.5,False,Quincena,3708,221.0
+2025-04-16,Wednesday,Glaseada Clásica,241,213,28,0,18,6.5,False,,3834,182.0
+2025-04-17,Thursday,Glaseada Clásica,241,223,18,0,18,6.5,False,,4014,117.0
+2025-04-18,Friday,Glaseada Clásica,241,241,0,29,18,6.5,False,,4338,0.0
+2025-04-19,Saturday,Glaseada Clásica,240,240,0,38,18,6.5,False,,4320,0.0
+2025-04-20,Sunday,Glaseada Clásica,231,231,0,325,18,6.5,False,Feria Local de Primavera,4158,0.0
+2025-04-21,Monday,Glaseada Clásica,268,263,5,0,18,6.5,True,Feria Local de Primavera,4734,32.5
+2025-04-22,Tuesday,Glaseada Clásica,287,287,0,22,18,6.5,False,Feria Local de Primavera,5166,0.0
+2025-04-23,Wednesday,Glaseada Clásica,302,302,0,34,18,6.5,False,Feria Local de Primavera,5436,0.0
+2025-04-24,Thursday,Glaseada Clásica,319,319,0,35,18,6.5,False,Feria Local de Primavera,5742,0.0
+2025-04-25,Friday,Glaseada Clásica,338,338,0,69,18,6.5,False,Feria Local de Primavera,6084,0.0
+2025-04-26,Saturday,Glaseada Clásica,358,358,0,118,18,6.5,False,Feria Local de Primavera,6444,0.0
+2025-04-27,Sunday,Glaseada Clásica,386,386,0,104,18,6.5,False,Feria Local de Primavera,6948,0.0
+2025-04-28,Monday,Glaseada Clásica,376,255,121,0,18,6.5,False,Feria Local de Primavera,4590,786.5
+2025-04-29,Tuesday,Glaseada Clásica,375,268,107,0,18,6.5,False,Feria Local de Primavera,4824,695.5
+2025-04-30,Wednesday,Glaseada Clásica,369,305,64,0,18,6.5,False,Feria Local de Primavera,5490,416.0
+2025-05-01,Thursday,Glaseada Clásica,365,261,104,0,18,6.5,False,Quincena,4698,676.0
+2025-05-02,Friday,Glaseada Clásica,352,275,77,0,18,6.5,False,,4950,500.5
+2025-05-03,Saturday,Glaseada Clásica,333,319,14,0,18,6.5,False,,5742,91.0
+2025-05-04,Sunday,Glaseada Clásica,310,301,9,0,18,6.5,False,,5418,58.5
+2025-05-05,Monday,Glaseada Clásica,283,152,131,0,18,6.5,False,,2736,851.5
+2025-05-06,Tuesday,Glaseada Clásica,269,211,58,0,18,6.5,False,,3798,377.0
+2025-05-07,Wednesday,Glaseada Clásica,261,193,68,0,18,6.5,False,,3474,442.0
+2025-05-08,Thursday,Glaseada Clásica,245,216,29,0,18,6.5,False,,3888,188.5
+2025-05-09,Friday,Glaseada Clásica,238,238,0,27,18,6.5,False,,4284,0.0
+2025-05-10,Saturday,Glaseada Clásica,237,237,0,99,18,6.5,False,,4266,0.0
+2025-05-11,Sunday,Glaseada Clásica,239,239,0,151,18,6.5,True,,4302,0.0
+2025-05-12,Monday,Glaseada Clásica,252,159,93,0,18,6.5,False,,2862,604.5
+2025-05-13,Tuesday,Glaseada Clásica,253,183,70,0,18,6.5,False,,3294,455.0
+2025-05-14,Wednesday,Glaseada Clásica,249,189,60,0,18,6.5,False,,3402,390.0
+2025-05-15,Thursday,Glaseada Clásica,248,248,0,13,18,6.5,False,Quincena,4464,0.0
+2025-05-16,Friday,Glaseada Clásica,255,255,0,62,18,6.5,False,,4590,0.0
+2025-05-17,Saturday,Glaseada Clásica,262,262,0,60,18,6.5,False,,4716,0.0
+2025-05-18,Sunday,Glaseada Clásica,260,260,0,49,18,6.5,False,,4680,0.0
+2025-05-19,Monday,Glaseada Clásica,249,166,83,0,18,6.5,False,,2988,539.5
+2025-05-20,Tuesday,Glaseada Clásica,250,186,64,0,18,6.5,False,,3348,416.0
+2025-05-21,Wednesday,Glaseada Clásica,250,218,32,0,18,6.5,False,,3924,208.0
+2025-05-22,Thursday,Glaseada Clásica,254,210,44,0,18,6.5,False,,3780,286.0
+2025-05-23,Friday,Glaseada Clásica,247,247,0,40,18,6.5,False,,4446,0.0
+2025-05-24,Saturday,Glaseada Clásica,243,243,0,88,18,6.5,False,,4374,0.0
+2025-05-25,Sunday,Glaseada Clásica,244,244,0,151,18,6.5,True,,4392,0.0
+2025-05-26,Monday,Glaseada Clásica,256,163,93,0,18,6.5,False,,2934,604.5
+2025-05-27,Tuesday,Glaseada Clásica,256,179,77,0,18,6.5,False,,3222,500.5
+2025-05-28,Wednesday,Glaseada Clásica,255,182,73,0,18,6.5,False,,3276,474.5
+2025-05-29,Thursday,Glaseada Clásica,250,243,7,0,18,6.5,False,,4374,45.5
+2025-05-30,Friday,Glaseada Clásica,254,254,0,103,18,6.5,False,Quincena,4572,0.0
+2025-05-31,Saturday,Glaseada Clásica,264,264,0,70,18,6.5,False,Quincena,4752,0.0
+2025-06-01,Sunday,Glaseada Clásica,265,265,0,202,18,6.5,True,Quincena,4770,0.0
+2025-06-02,Monday,Glaseada Clásica,275,169,106,0,18,6.5,False,,3042,689.0
+2025-06-03,Tuesday,Glaseada Clásica,276,188,88,0,18,6.5,False,,3384,572.0
+2025-06-04,Wednesday,Glaseada Clásica,277,191,86,0,18,6.5,False,,3438,559.0
+2025-06-05,Thursday,Glaseada Clásica,278,233,45,0,18,6.5,False,,4194,292.5
+2025-06-06,Friday,Glaseada Clásica,277,277,0,483,18,6.5,False,Día Nacional de la Dona,4986,0.0
+2025-06-07,Saturday,Glaseada Clásica,335,319,16,0,18,6.5,False,,5742,104.0
+2025-06-08,Sunday,Glaseada Clásica,332,290,42,0,18,6.5,False,,5220,273.0
+2025-06-09,Monday,Glaseada Clásica,307,147,160,0,18,6.5,False,,2646,1040.0
+2025-06-10,Tuesday,Glaseada Clásica,304,178,126,0,18,6.5,False,,3204,819.0
+2025-06-11,Wednesday,Glaseada Clásica,303,214,89,0,18,6.5,True,,3852,578.5
+2025-06-12,Thursday,Glaseada Clásica,306,191,115,0,18,6.5,False,,3438,747.5
+2025-06-13,Friday,Glaseada Clásica,300,288,12,0,18,6.5,False,,5184,78.0
+2025-06-14,Saturday,Glaseada Clásica,232,232,0,121,18,6.5,False,,4176,0.0
+2025-06-15,Sunday,Glaseada Clásica,237,237,0,83,18,6.5,False,Quincena,4266,0.0
+2025-06-16,Monday,Glaseada Clásica,242,158,84,0,18,6.5,False,,2844,546.0
+2025-06-17,Tuesday,Glaseada Clásica,243,187,56,0,18,6.5,False,,3366,364.0
+2025-06-18,Wednesday,Glaseada Clásica,244,193,51,0,18,6.5,False,,3474,331.5
+2025-06-19,Thursday,Glaseada Clásica,241,241,0,0,18,6.5,False,,4338,0.0
+2025-06-20,Friday,Glaseada Clásica,249,249,0,88,18,6.5,False,,4482,0.0
+2025-06-21,Saturday,Glaseada Clásica,256,256,0,85,18,6.5,False,,4608,0.0
+2025-06-22,Sunday,Glaseada Clásica,254,254,0,60,18,6.5,False,,4572,0.0
+2025-06-23,Monday,Glaseada Clásica,253,151,102,0,18,6.5,False,,2718,663.0
+2025-06-24,Tuesday,Glaseada Clásica,252,202,50,0,18,6.5,False,,3636,325.0
+2025-06-25,Wednesday,Glaseada Clásica,254,198,56,0,18,6.5,False,,3564,364.0
+2025-06-26,Thursday,Glaseada Clásica,255,201,54,0,18,6.5,False,,3618,351.0
+2025-06-27,Friday,Glaseada Clásica,249,249,0,10,18,6.5,False,,4482,0.0
+2025-06-28,Saturday,Glaseada Clásica,238,238,0,86,18,6.5,False,,4284,0.0
+2025-06-29,Sunday,Glaseada Clásica,236,236,0,41,18,6.5,False,,4248,0.0
+2025-06-30,Monday,Glaseada Clásica,230,164,66,0,18,6.5,False,Quincena,2952,429.0
+2025-07-01,Tuesday,Glaseada Clásica,232,206,26,0,18,6.5,False,Quincena,3708,169.0
+2025-07-02,Wednesday,Glaseada Clásica,233,188,45,0,18,6.5,False,,3384,292.5
+2025-07-03,Thursday,Glaseada Clásica,231,230,1,0,18,6.5,False,,4140,6.5
+2025-07-04,Friday,Glaseada Clásica,235,235,0,39,18,6.5,False,,4230,0.0
+2025-07-05,Saturday,Glaseada Clásica,238,238,0,73,18,6.5,False,,4284,0.0
+2025-07-06,Sunday,Glaseada Clásica,236,236,0,31,18,6.5,False,,4248,0.0
+2025-07-07,Monday,Glaseada Clásica,234,168,66,0,18,6.5,False,,3024,429.0
+2025-07-08,Tuesday,Glaseada Clásica,235,185,50,0,18,6.5,False,,3330,325.0
+2025-07-09,Wednesday,Glaseada Clásica,232,205,27,0,18,6.5,False,,3690,175.5
+2025-07-10,Thursday,Glaseada Clásica,234,231,3,0,18,6.5,False,,4158,19.5
+2025-07-11,Friday,Glaseada Clásica,234,234,0,28,18,6.5,False,,4212,0.0
+2025-07-12,Saturday,Glaseada Clásica,233,233,0,108,18,6.5,False,,4194,0.0
+2025-07-13,Sunday,Glaseada Clásica,237,237,0,68,18,6.5,False,,4266,0.0
+2025-07-14,Monday,Glaseada Clásica,242,137,105,0,18,6.5,False,,2466,682.5
+2025-07-15,Tuesday,Glaseada Clásica,238,207,31,0,18,6.5,False,Quincena,3726,201.5
+2025-07-16,Wednesday,Glaseada Clásica,241,208,33,0,18,6.5,False,,3744,214.5
+2025-07-17,Thursday,Glaseada Clásica,242,239,3,0,18,6.5,False,,4302,19.5
+2025-07-18,Friday,Glaseada Clásica,243,243,0,116,18,6.5,False,,4374,0.0
+2025-07-19,Saturday,Glaseada Clásica,257,257,0,142,18,6.5,False,,4626,0.0
+2025-07-20,Sunday,Glaseada Clásica,265,265,0,42,18,6.5,False,,4770,0.0
+2025-07-21,Monday,Glaseada Clásica,265,155,110,0,18,6.5,False,,2790,715.0
+2025-07-22,Tuesday,Glaseada Clásica,268,187,81,0,18,6.5,False,,3366,526.5
+2025-07-23,Wednesday,Glaseada Clásica,265,189,76,0,18,6.5,False,,3402,494.0
+2025-07-24,Thursday,Glaseada Clásica,262,237,25,0,18,6.5,False,,4266,162.5
+2025-07-25,Friday,Glaseada Clásica,262,262,0,59,18,6.5,False,,4716,0.0
+2025-07-26,Saturday,Glaseada Clásica,256,256,0,71,18,6.5,False,,4608,0.0
+2025-07-27,Sunday,Glaseada Clásica,246,246,0,44,18,6.5,False,,4428,0.0
+2025-07-28,Monday,Glaseada Clásica,244,148,96,0,18,6.5,False,,2664,624.0
+2025-07-29,Tuesday,Glaseada Clásica,243,157,86,0,18,6.5,False,,2826,559.0
+2025-07-30,Wednesday,Glaseada Clásica,238,235,3,0,18,6.5,False,Quincena,4230,19.5
+2025-07-31,Thursday,Glaseada Clásica,245,245,0,53,18,6.5,False,Quincena,4410,0.0
+2025-08-01,Friday,Glaseada Clásica,254,254,0,89,18,6.5,False,Quincena,4572,0.0
+2025-08-02,Saturday,Glaseada Clásica,257,257,0,56,18,6.5,False,,4626,0.0
+2025-08-03,Sunday,Glaseada Clásica,255,255,0,55,18,6.5,False,,4590,0.0
+2025-08-04,Monday,Glaseada Clásica,258,162,96,0,18,6.5,False,,2916,624.0
+2025-08-05,Tuesday,Glaseada Clásica,260,186,74,0,18,6.5,False,,3348,481.0
+2025-08-06,Wednesday,Glaseada Clásica,264,188,76,0,18,6.5,False,,3384,494.0
+2025-08-07,Thursday,Glaseada Clásica,257,226,31,0,18,6.5,False,,4068,201.5
+2025-08-08,Friday,Glaseada Clásica,247,247,0,48,18,6.5,False,,4446,0.0
+2025-08-09,Saturday,Glaseada Clásica,240,240,0,111,18,6.5,False,,4320,0.0
+2025-08-10,Sunday,Glaseada Clásica,245,245,0,86,18,6.5,False,,4410,0.0
+2025-08-11,Monday,Glaseada Clásica,248,145,103,0,18,6.5,False,,2610,669.5
+2025-08-12,Tuesday,Glaseada Clásica,246,187,59,0,18,6.5,False,,3366,383.5
+2025-08-13,Wednesday,Glaseada Clásica,246,204,42,0,18,6.5,False,,3672,273.0
+2025-08-14,Thursday,Glaseada Clásica,248,237,11,0,18,6.5,False,,4266,71.5
+2025-08-15,Friday,Glaseada Clásica,250,250,0,93,18,6.5,False,Quincena,4500,0.0
+2025-08-16,Saturday,Glaseada Clásica,257,257,0,113,18,6.5,False,,4626,0.0
+2025-08-17,Sunday,Glaseada Clásica,260,260,0,56,18,6.5,False,,4680,0.0
+2025-08-18,Monday,Glaseada Clásica,257,177,80,0,18,6.5,True,,3186,520.0
+2025-08-19,Tuesday,Glaseada Clásica,262,213,49,0,18,6.5,False,,3834,318.5
+2025-08-20,Wednesday,Glaseada Clásica,266,193,73,0,18,6.5,False,,3474,474.5
+2025-08-21,Thursday,Glaseada Clásica,264,247,17,0,18,6.5,False,,4446,110.5
+2025-08-22,Friday,Glaseada Clásica,266,266,0,66,18,6.5,False,,4788,0.0
+2025-08-23,Saturday,Glaseada Clásica,264,264,0,62,18,6.5,False,,4752,0.0
+2025-08-24,Sunday,Glaseada Clásica,258,258,0,17,18,6.5,False,,4644,0.0
+2025-08-25,Monday,Glaseada Clásica,252,198,54,0,18,6.5,True,,3564,351.0
+2025-08-26,Tuesday,Glaseada Clásica,255,238,17,0,18,6.5,True,,4284,110.5
+2025-08-27,Wednesday,Glaseada Clásica,258,213,45,0,18,6.5,False,,3834,292.5
+2025-08-28,Thursday,Glaseada Clásica,261,178,83,0,18,6.5,False,,3204,539.5
+2025-08-29,Friday,Glaseada Clásica,251,251,0,58,18,6.5,False,,4518,0.0
+2025-08-30,Saturday,Glaseada Clásica,248,248,0,131,18,6.5,False,Quincena,4464,0.0
+2025-08-31,Sunday,Glaseada Clásica,256,256,0,62,18,6.5,False,Quincena,4608,0.0
+2025-09-01,Monday,Glaseada Clásica,262,180,82,0,18,6.5,False,Quincena,3240,533.0
+2025-09-02,Tuesday,Glaseada Clásica,259,182,77,0,18,6.5,False,,3276,500.5
+2025-09-03,Wednesday,Glaseada Clásica,251,220,31,0,18,6.5,False,,3960,201.5
+2025-09-04,Thursday,Glaseada Clásica,252,238,14,0,18,6.5,False,,4284,91.0
+2025-09-05,Friday,Glaseada Clásica,261,261,0,22,18,6.5,False,,4698,0.0
+2025-09-06,Saturday,Glaseada Clásica,257,257,0,102,18,6.5,False,,4626,0.0
+2025-09-07,Sunday,Glaseada Clásica,254,254,0,50,18,6.5,False,,4572,0.0
+2025-09-08,Monday,Glaseada Clásica,252,185,67,0,18,6.5,False,,3330,435.5
+2025-09-09,Tuesday,Glaseada Clásica,253,181,72,0,18,6.5,False,,3258,468.0
+2025-09-10,Wednesday,Glaseada Clásica,253,219,34,0,18,6.5,False,,3942,221.0
+2025-09-11,Thursday,Glaseada Clásica,253,238,15,0,18,6.5,False,,4284,97.5
+2025-09-12,Friday,Glaseada Clásica,253,253,0,35,18,6.5,False,,4554,0.0
+2025-09-13,Saturday,Glaseada Clásica,253,253,0,71,18,6.5,False,,4554,0.0
+2025-09-14,Sunday,Glaseada Clásica,248,248,0,65,18,6.5,False,,4464,0.0
+2025-09-15,Monday,Glaseada Clásica,250,171,79,0,18,6.5,False,Quincena,3078,513.5
+2025-09-16,Tuesday,Glaseada Clásica,248,224,24,0,18,6.5,False,,4032,156.0
+2025-09-17,Wednesday,Glaseada Clásica,254,160,94,0,18,6.5,False,,2880,611.0
+2025-09-18,Thursday,Glaseada Clásica,245,231,14,0,18,6.5,False,,4158,91.0
+2025-09-19,Friday,Glaseada Clásica,244,244,0,51,18,6.5,False,,4392,0.0
+2025-09-20,Saturday,Glaseada Clásica,245,245,0,128,18,6.5,False,,4410,0.0
+2025-09-21,Sunday,Glaseada Clásica,252,252,0,91,18,6.5,False,,4536,0.0
+2025-09-22,Monday,Glaseada Clásica,257,159,98,0,18,6.5,False,,2862,637.0
+2025-09-23,Tuesday,Glaseada Clásica,255,191,64,0,18,6.5,False,,3438,416.0
+2025-09-24,Wednesday,Glaseada Clásica,250,197,53,0,18,6.5,False,,3546,344.5
+2025-09-25,Thursday,Glaseada Clásica,256,235,21,0,18,6.5,False,,4230,136.5
+2025-09-26,Friday,Glaseada Clásica,256,256,0,77,18,6.5,False,,4608,0.0
+2025-09-27,Saturday,Glaseada Clásica,262,262,0,58,18,6.5,False,,4716,0.0
+2025-09-28,Sunday,Glaseada Clásica,254,254,0,90,18,6.5,False,,4572,0.0
+2025-09-29,Monday,Glaseada Clásica,254,170,84,0,18,6.5,False,,3060,546.0
+2025-09-30,Tuesday,Glaseada Clásica,256,217,39,0,18,6.5,False,Quincena,3906,253.5
+2025-10-01,Wednesday,Glaseada Clásica,259,226,33,0,18,6.5,False,Quincena,4068,214.5
+2025-10-02,Thursday,Glaseada Clásica,264,226,38,0,18,6.5,False,,4068,247.0
+2025-10-03,Friday,Glaseada Clásica,262,262,0,47,18,6.5,False,,4716,0.0
+2025-10-04,Saturday,Glaseada Clásica,259,259,0,78,18,6.5,False,,4662,0.0
+2025-10-05,Sunday,Glaseada Clásica,261,261,0,76,18,6.5,False,,4698,0.0
+2025-10-06,Monday,Glaseada Clásica,260,141,119,0,18,6.5,False,,2538,773.5
+2025-10-07,Tuesday,Glaseada Clásica,256,207,49,0,18,6.5,False,,3726,318.5
+2025-10-08,Wednesday,Glaseada Clásica,255,187,68,0,18,6.5,False,,3366,442.0
+2025-10-09,Thursday,Glaseada Clásica,249,237,12,0,18,6.5,False,,4266,78.0
+2025-10-10,Friday,Glaseada Clásica,251,251,0,92,18,6.5,False,,4518,0.0
+2025-10-11,Saturday,Glaseada Clásica,256,256,0,46,18,6.5,False,,4608,0.0
+2025-10-12,Sunday,Glaseada Clásica,251,251,0,46,18,6.5,False,,4518,0.0
+2025-10-13,Monday,Glaseada Clásica,245,166,79,0,18,6.5,False,,2988,513.5
+2025-10-14,Tuesday,Glaseada Clásica,248,176,72,0,18,6.5,False,,3168,468.0
+2025-10-15,Wednesday,Glaseada Clásica,244,244,0,1,18,6.5,False,Quincena,4392,0.0
+2025-10-16,Thursday,Glaseada Clásica,252,217,35,0,18,6.5,False,,3906,227.5
+2025-10-17,Friday,Glaseada Clásica,249,249,0,14,18,6.5,False,,4482,0.0
+2025-10-18,Saturday,Glaseada Clásica,238,238,0,164,18,6.5,False,,4284,0.0
+2025-10-19,Sunday,Glaseada Clásica,252,252,0,61,18,6.5,False,,4536,0.0
+2025-10-20,Monday,Glaseada Clásica,255,146,109,0,18,6.5,False,,2628,708.5
+2025-10-21,Tuesday,Glaseada Clásica,252,191,61,0,18,6.5,False,,3438,396.5
+2025-10-22,Wednesday,Glaseada Clásica,254,196,58,0,18,6.5,False,,3528,377.0
+2025-10-23,Thursday,Glaseada Clásica,247,219,28,0,18,6.5,False,,3942,182.0
+2025-10-24,Friday,Glaseada Clásica,247,247,0,93,18,6.5,False,,4446,0.0
+2025-10-25,Saturday,Glaseada Clásica,258,258,0,85,18,6.5,False,,4644,0.0
+2025-10-26,Sunday,Glaseada Clásica,250,250,0,84,18,6.5,False,,4500,0.0
+2025-10-27,Monday,Glaseada Clásica,253,163,90,0,18,6.5,False,,2934,585.0
+2025-10-28,Tuesday,Glaseada Clásica,255,200,55,0,18,6.5,False,,3600,357.5
+2025-10-29,Wednesday,Glaseada Clásica,256,190,66,0,18,6.5,False,,3420,429.0
+2025-10-30,Thursday,Glaseada Clásica,256,247,9,0,18,6.5,False,Quincena,4446,58.5
+2025-10-31,Friday,Glaseada Clásica,260,260,0,85,18,6.5,False,Quincena,4680,0.0
+2025-11-01,Saturday,Glaseada Clásica,260,260,0,183,18,6.5,False,Quincena,4680,0.0
+2025-11-02,Sunday,Glaseada Clásica,275,275,0,9,18,6.5,False,,4950,0.0
+2025-11-03,Monday,Glaseada Clásica,267,137,130,0,18,6.5,False,,2466,845.0
+2025-11-04,Tuesday,Glaseada Clásica,264,203,61,0,18,6.5,False,,3654,396.5
+2025-11-05,Wednesday,Glaseada Clásica,264,218,46,0,18,6.5,False,,3924,299.0
+2025-11-06,Thursday,Glaseada Clásica,268,231,37,0,18,6.5,False,,4158,240.5
+2025-11-07,Friday,Glaseada Clásica,266,266,0,45,18,6.5,False,,4788,0.0
+2025-11-08,Saturday,Glaseada Clásica,261,261,0,74,18,6.5,False,,4698,0.0
+2025-11-09,Sunday,Glaseada Clásica,246,246,0,90,18,6.5,False,,4428,0.0
+2025-11-10,Monday,Glaseada Clásica,253,136,117,0,18,6.5,False,,2448,760.5
+2025-11-11,Tuesday,Glaseada Clásica,253,215,38,0,18,6.5,False,,3870,247.0
+2025-11-12,Wednesday,Glaseada Clásica,255,199,56,0,18,6.5,False,,3582,364.0
+2025-11-13,Thursday,Glaseada Clásica,252,252,0,31,18,6.5,False,,4536,0.0
+2025-11-14,Friday,Glaseada Clásica,259,259,0,63,18,6.5,False,,4662,0.0
+2025-11-15,Saturday,Glaseada Clásica,261,261,0,183,18,6.5,False,Quincena,4698,0.0
+2025-11-16,Sunday,Glaseada Clásica,276,276,0,62,18,6.5,False,,4968,0.0
+2025-11-17,Monday,Glaseada Clásica,277,162,115,0,18,6.5,False,,2916,747.5
+2025-11-18,Tuesday,Glaseada Clásica,280,219,61,0,18,6.5,False,,3942,396.5
+2025-11-19,Wednesday,Glaseada Clásica,281,222,59,0,18,6.5,False,,3996,383.5
+2025-11-20,Thursday,Glaseada Clásica,284,260,24,0,18,6.5,False,,4680,156.0
+2025-11-21,Friday,Glaseada Clásica,281,281,0,27,18,6.5,False,,5058,0.0
+2025-11-22,Saturday,Glaseada Clásica,279,279,0,67,18,6.5,False,,5022,0.0
+2025-11-23,Sunday,Glaseada Clásica,265,265,0,91,18,6.5,False,,4770,0.0
+2025-11-24,Monday,Glaseada Clásica,268,166,102,0,18,6.5,False,,2988,663.0
+2025-11-25,Tuesday,Glaseada Clásica,268,225,43,0,18,6.5,False,,4050,279.5
+2025-11-26,Wednesday,Glaseada Clásica,269,221,48,0,18,6.5,False,,3978,312.0
+2025-11-27,Thursday,Glaseada Clásica,269,230,39,0,18,6.5,False,,4140,253.5
+2025-11-28,Friday,Glaseada Clásica,265,265,0,65,18,6.5,False,,4770,0.0
+2025-11-29,Saturday,Glaseada Clásica,268,268,0,110,18,6.5,False,,4824,0.0
+2025-11-30,Sunday,Glaseada Clásica,272,272,0,111,18,6.5,False,Quincena,4896,0.0
+2025-12-01,Monday,Glaseada Clásica,276,187,89,0,18,6.5,False,Quincena,3366,578.5
+2025-12-02,Tuesday,Glaseada Clásica,279,181,98,0,18,6.5,False,,3258,637.0
+2025-12-03,Wednesday,Glaseada Clásica,273,220,53,0,18,6.5,False,,3960,344.5
+2025-12-04,Thursday,Glaseada Clásica,273,215,58,0,18,6.5,False,,3870,377.0
+2025-12-05,Friday,Glaseada Clásica,271,271,0,34,18,6.5,False,,4878,0.0
+2025-12-06,Saturday,Glaseada Clásica,267,267,0,143,18,6.5,False,,4806,0.0
+2025-12-07,Sunday,Glaseada Clásica,272,272,0,47,18,6.5,False,,4896,0.0
+2025-12-08,Monday,Glaseada Clásica,262,175,87,0,18,6.5,False,,3150,565.5
+2025-12-09,Tuesday,Glaseada Clásica,261,193,68,0,18,6.5,False,,3474,442.0
+2025-12-10,Wednesday,Glaseada Clásica,262,210,52,0,18,6.5,False,,3780,338.0
+2025-12-11,Thursday,Glaseada Clásica,261,236,25,0,18,6.5,False,,4248,162.5
+2025-12-12,Friday,Glaseada Clásica,264,264,0,67,18,6.5,False,,4752,0.0
+2025-12-13,Saturday,Glaseada Clásica,268,268,0,118,18,6.5,False,,4824,0.0
+2025-12-14,Sunday,Glaseada Clásica,264,264,0,113,18,6.5,True,,4752,0.0
+2025-12-15,Monday,Glaseada Clásica,273,196,77,0,18,6.5,False,Quincena,3528,500.5
+2025-12-16,Tuesday,Glaseada Clásica,276,211,65,0,18,6.5,False,,3798,422.5
+2025-12-17,Wednesday,Glaseada Clásica,278,191,87,0,18,6.5,False,,3438,565.5
+2025-12-18,Thursday,Glaseada Clásica,275,275,0,71,18,6.5,True,,4950,0.0
+2025-12-19,Friday,Glaseada Clásica,291,291,0,53,18,6.5,False,,5238,0.0
+2025-12-20,Saturday,Glaseada Clásica,293,293,0,67,18,6.5,False,,5274,0.0
+2025-12-21,Sunday,Glaseada Clásica,289,289,0,23,18,6.5,False,,5202,0.0
+2025-12-22,Monday,Glaseada Clásica,280,145,135,0,18,6.5,False,,2610,877.5
+2025-12-23,Tuesday,Glaseada Clásica,273,205,68,0,18,6.5,False,,3690,442.0
+2025-12-24,Wednesday,Glaseada Clásica,272,229,43,0,18,6.5,False,,4122,279.5
+2025-12-25,Thursday,Glaseada Clásica,277,230,47,0,18,6.5,False,,4140,305.5
+2025-12-26,Friday,Glaseada Clásica,261,261,0,68,18,6.5,False,,4698,0.0
+2025-12-27,Saturday,Glaseada Clásica,259,259,0,124,18,6.5,False,,4662,0.0
+2025-12-28,Sunday,Glaseada Clásica,262,262,0,61,18,6.5,False,,4716,0.0
+2025-12-29,Monday,Glaseada Clásica,263,156,107,0,18,6.5,False,,2808,695.5
+2025-12-30,Tuesday,Glaseada Clásica,265,235,30,0,18,6.5,False,Quincena,4230,195.0
+2025-12-31,Wednesday,Glaseada Clásica,269,260,9,0,18,6.5,False,Quincena,4680,58.5
+2025-01-01,Wednesday,Chocolate Rellena,160,149,11,0,24,9.0,False,Quincena,3576,99.0
+2025-01-02,Thursday,Chocolate Rellena,149,138,11,0,24,9.0,False,,3312,99.0
+2025-01-03,Friday,Chocolate Rellena,144,144,0,39,24,9.0,False,,3456,0.0
+2025-01-04,Saturday,Chocolate Rellena,157,157,0,70,24,9.0,False,,3768,0.0
+2025-01-05,Sunday,Chocolate Rellena,174,174,0,13,24,9.0,False,,4176,0.0
+2025-01-06,Monday,Chocolate Rellena,177,98,79,0,24,9.0,False,,2352,711.0
+2025-01-07,Tuesday,Chocolate Rellena,164,113,51,0,24,9.0,False,,2712,459.0
+2025-01-08,Wednesday,Chocolate Rellena,156,140,16,0,24,9.0,False,,3360,144.0
+2025-01-09,Thursday,Chocolate Rellena,155,155,0,182,24,9.0,False,Día de la Policía,3720,0.0
+2025-01-10,Friday,Chocolate Rellena,184,184,0,18,24,9.0,False,,4416,0.0
+2025-01-11,Saturday,Chocolate Rellena,186,186,0,28,24,9.0,False,,4464,0.0
+2025-01-12,Sunday,Chocolate Rellena,184,184,0,14,24,9.0,False,,4416,0.0
+2025-01-13,Monday,Chocolate Rellena,186,96,90,0,24,9.0,False,,2304,810.0
+2025-01-14,Tuesday,Chocolate Rellena,186,122,64,0,24,9.0,False,,2928,576.0
+2025-01-15,Wednesday,Chocolate Rellena,187,120,67,0,24,9.0,False,Quincena,2880,603.0
+2025-01-16,Thursday,Chocolate Rellena,184,152,32,0,24,9.0,False,,3648,288.0
+2025-01-17,Friday,Chocolate Rellena,158,158,0,53,24,9.0,False,,3792,0.0
+2025-01-18,Saturday,Chocolate Rellena,159,159,0,63,24,9.0,False,,3816,0.0
+2025-01-19,Sunday,Chocolate Rellena,160,160,0,42,24,9.0,False,,3840,0.0
+2025-01-20,Monday,Chocolate Rellena,161,104,57,0,24,9.0,False,,2496,513.0
+2025-01-21,Tuesday,Chocolate Rellena,162,119,43,0,24,9.0,False,,2856,387.0
+2025-01-22,Wednesday,Chocolate Rellena,161,141,20,0,24,9.0,False,,3384,180.0
+2025-01-23,Thursday,Chocolate Rellena,164,147,17,0,24,9.0,False,,3528,153.0
+2025-01-24,Friday,Chocolate Rellena,164,164,0,56,24,9.0,False,,3936,0.0
+2025-01-25,Saturday,Chocolate Rellena,165,165,0,37,24,9.0,False,,3960,0.0
+2025-01-26,Sunday,Chocolate Rellena,162,162,0,65,24,9.0,False,,3888,0.0
+2025-01-27,Monday,Chocolate Rellena,166,110,56,0,24,9.0,False,,2640,504.0
+2025-01-28,Tuesday,Chocolate Rellena,167,131,36,0,24,9.0,False,,3144,324.0
+2025-01-29,Wednesday,Chocolate Rellena,168,152,16,0,24,9.0,False,,3648,144.0
+2025-01-30,Thursday,Chocolate Rellena,170,170,0,24,24,9.0,False,Quincena,4080,0.0
+2025-01-31,Friday,Chocolate Rellena,177,177,0,96,24,9.0,False,Quincena,4248,0.0
+2025-02-01,Saturday,Chocolate Rellena,184,184,0,76,24,9.0,False,Quincena,4416,0.0
+2025-02-02,Sunday,Chocolate Rellena,192,188,4,0,24,9.0,False,,4512,36.0
+2025-02-03,Monday,Chocolate Rellena,187,90,97,0,24,9.0,False,,2160,873.0
+2025-02-04,Tuesday,Chocolate Rellena,184,125,59,0,24,9.0,False,,3000,531.0
+2025-02-05,Wednesday,Chocolate Rellena,183,148,35,0,24,9.0,False,,3552,315.0
+2025-02-06,Thursday,Chocolate Rellena,183,139,44,0,24,9.0,False,,3336,396.0
+2025-02-07,Friday,Chocolate Rellena,175,175,0,27,24,9.0,False,,4200,0.0
+2025-02-08,Saturday,Chocolate Rellena,165,165,0,47,24,9.0,False,,3960,0.0
+2025-02-09,Sunday,Chocolate Rellena,158,158,0,66,24,9.0,False,,3792,0.0
+2025-02-10,Monday,Chocolate Rellena,163,129,34,0,24,9.0,True,,3096,306.0
+2025-02-11,Tuesday,Chocolate Rellena,168,141,27,0,24,9.0,False,,3384,243.0
+2025-02-12,Wednesday,Chocolate Rellena,171,148,23,0,24,9.0,False,,3552,207.0
+2025-02-13,Thursday,Chocolate Rellena,171,164,7,0,24,9.0,False,,3936,63.0
+2025-02-14,Friday,Chocolate Rellena,174,174,0,32,24,9.0,False,,4176,0.0
+2025-02-15,Saturday,Chocolate Rellena,175,175,0,116,24,9.0,False,Quincena,4200,0.0
+2025-02-16,Sunday,Chocolate Rellena,186,186,0,11,24,9.0,False,,4464,0.0
+2025-02-17,Monday,Chocolate Rellena,182,110,72,0,24,9.0,False,,2640,648.0
+2025-02-18,Tuesday,Chocolate Rellena,180,152,28,0,24,9.0,False,,3648,252.0
+2025-02-19,Wednesday,Chocolate Rellena,181,162,19,0,24,9.0,False,,3888,171.0
+2025-02-20,Thursday,Chocolate Rellena,183,157,26,0,24,9.0,False,,3768,234.0
+2025-02-21,Friday,Chocolate Rellena,182,182,0,6,24,9.0,False,,4368,0.0
+2025-02-22,Saturday,Chocolate Rellena,180,180,0,85,24,9.0,False,,4320,0.0
+2025-02-23,Sunday,Chocolate Rellena,176,176,0,28,24,9.0,False,,4224,0.0
+2025-02-24,Monday,Chocolate Rellena,177,120,57,0,24,9.0,False,,2880,513.0
+2025-02-25,Tuesday,Chocolate Rellena,178,134,44,0,24,9.0,False,,3216,396.0
+2025-02-26,Wednesday,Chocolate Rellena,176,142,34,0,24,9.0,False,,3408,306.0
+2025-02-27,Thursday,Chocolate Rellena,173,173,0,2,24,9.0,False,,4152,0.0
+2025-02-28,Friday,Chocolate Rellena,175,175,0,29,24,9.0,False,,4200,0.0
+2025-03-01,Saturday,Chocolate Rellena,178,178,0,99,24,9.0,False,Quincena,4272,0.0
+2025-03-02,Sunday,Chocolate Rellena,179,179,0,91,24,9.0,True,,4296,0.0
+2025-03-03,Monday,Chocolate Rellena,189,94,95,0,24,9.0,False,,2256,855.0
+2025-03-04,Tuesday,Chocolate Rellena,185,139,46,0,24,9.0,False,,3336,414.0
+2025-03-05,Wednesday,Chocolate Rellena,186,142,44,0,24,9.0,False,,3408,396.0
+2025-03-06,Thursday,Chocolate Rellena,186,186,0,31,24,9.0,True,,4464,0.0
+2025-03-07,Friday,Chocolate Rellena,192,192,0,14,24,9.0,False,,4608,0.0
+2025-03-08,Saturday,Chocolate Rellena,192,192,0,30,24,9.0,False,,4608,0.0
+2025-03-09,Sunday,Chocolate Rellena,184,184,0,17,24,9.0,False,,4416,0.0
+2025-03-10,Monday,Chocolate Rellena,174,93,81,0,24,9.0,False,,2232,729.0
+2025-03-11,Tuesday,Chocolate Rellena,174,126,48,0,24,9.0,False,,3024,432.0
+2025-03-12,Wednesday,Chocolate Rellena,172,145,27,0,24,9.0,False,,3480,243.0
+2025-03-13,Thursday,Chocolate Rellena,173,160,13,0,24,9.0,False,,3840,117.0
+2025-03-14,Friday,Chocolate Rellena,165,165,0,34,24,9.0,False,,3960,0.0
+2025-03-15,Saturday,Chocolate Rellena,164,164,0,103,24,9.0,False,Quincena,3936,0.0
+2025-03-16,Sunday,Chocolate Rellena,170,170,0,35,24,9.0,False,,4080,0.0
+2025-03-17,Monday,Chocolate Rellena,171,135,36,0,24,9.0,True,,3240,324.0
+2025-03-18,Tuesday,Chocolate Rellena,177,141,36,0,24,9.0,False,,3384,324.0
+2025-03-19,Wednesday,Chocolate Rellena,179,123,56,0,24,9.0,False,,2952,504.0
+2025-03-20,Thursday,Chocolate Rellena,176,162,14,0,24,9.0,False,,3888,126.0
+2025-03-21,Friday,Chocolate Rellena,176,176,0,23,24,9.0,False,,4224,0.0
+2025-03-22,Saturday,Chocolate Rellena,176,176,0,47,24,9.0,False,,4224,0.0
+2025-03-23,Sunday,Chocolate Rellena,170,170,0,43,24,9.0,False,,4080,0.0
+2025-03-24,Monday,Chocolate Rellena,171,106,65,0,24,9.0,False,,2544,585.0
+2025-03-25,Tuesday,Chocolate Rellena,167,135,32,0,24,9.0,False,,3240,288.0
+2025-03-26,Wednesday,Chocolate Rellena,166,132,34,0,24,9.0,False,,3168,306.0
+2025-03-27,Thursday,Chocolate Rellena,167,167,0,0,24,9.0,False,,4008,0.0
+2025-03-28,Friday,Chocolate Rellena,168,168,0,37,24,9.0,False,,4032,0.0
+2025-03-29,Saturday,Chocolate Rellena,169,169,0,86,24,9.0,False,,4056,0.0
+2025-03-30,Sunday,Chocolate Rellena,173,173,0,32,24,9.0,False,Quincena,4152,0.0
+2025-03-31,Monday,Chocolate Rellena,172,132,40,0,24,9.0,False,Quincena,3168,360.0
+2025-04-01,Tuesday,Chocolate Rellena,176,152,24,0,24,9.0,False,Quincena,3648,216.0
+2025-04-02,Wednesday,Chocolate Rellena,178,173,5,0,24,9.0,True,,4152,45.0
+2025-04-03,Thursday,Chocolate Rellena,184,159,25,0,24,9.0,False,,3816,225.0
+2025-04-04,Friday,Chocolate Rellena,183,183,0,13,24,9.0,False,,4392,0.0
+2025-04-05,Saturday,Chocolate Rellena,182,182,0,55,24,9.0,False,,4368,0.0
+2025-04-06,Sunday,Chocolate Rellena,179,179,0,37,24,9.0,False,,4296,0.0
+2025-04-07,Monday,Chocolate Rellena,181,122,59,0,24,9.0,False,,2928,531.0
+2025-04-08,Tuesday,Chocolate Rellena,179,140,39,0,24,9.0,False,,3360,351.0
+2025-04-09,Wednesday,Chocolate Rellena,178,133,45,0,24,9.0,False,,3192,405.0
+2025-04-10,Thursday,Chocolate Rellena,172,158,14,0,24,9.0,False,,3792,126.0
+2025-04-11,Friday,Chocolate Rellena,172,172,0,62,24,9.0,False,,4128,0.0
+2025-04-12,Saturday,Chocolate Rellena,177,177,0,78,24,9.0,False,,4248,0.0
+2025-04-13,Sunday,Chocolate Rellena,180,180,0,70,24,9.0,False,,4320,0.0
+2025-04-14,Monday,Chocolate Rellena,185,121,64,0,24,9.0,False,,2904,576.0
+2025-04-15,Tuesday,Chocolate Rellena,184,147,37,0,24,9.0,False,Quincena,3528,333.0
+2025-04-16,Wednesday,Chocolate Rellena,185,120,65,0,24,9.0,False,,2880,585.0
+2025-04-17,Thursday,Chocolate Rellena,184,163,21,0,24,9.0,False,,3912,189.0
+2025-04-18,Friday,Chocolate Rellena,184,184,0,59,24,9.0,False,,4416,0.0
+2025-04-19,Saturday,Chocolate Rellena,186,186,0,69,24,9.0,False,,4464,0.0
+2025-04-20,Sunday,Chocolate Rellena,186,186,0,167,24,9.0,False,Feria Local de Primavera,4464,0.0
+2025-04-21,Monday,Chocolate Rellena,200,188,12,0,24,9.0,False,Feria Local de Primavera,4512,108.0
+2025-04-22,Tuesday,Chocolate Rellena,210,179,31,0,24,9.0,False,Feria Local de Primavera,4296,279.0
+2025-04-23,Wednesday,Chocolate Rellena,214,214,0,95,24,9.0,True,Feria Local de Primavera,5136,0.0
+2025-04-24,Thursday,Chocolate Rellena,241,241,0,13,24,9.0,False,Feria Local de Primavera,5784,0.0
+2025-04-25,Friday,Chocolate Rellena,254,254,0,158,24,9.0,True,Feria Local de Primavera,6096,0.0
+2025-04-26,Saturday,Chocolate Rellena,279,279,0,87,24,9.0,False,Feria Local de Primavera,6696,0.0
+2025-04-27,Sunday,Chocolate Rellena,294,294,0,38,24,9.0,False,Feria Local de Primavera,7056,0.0
+2025-04-28,Monday,Chocolate Rellena,291,161,130,0,24,9.0,False,Feria Local de Primavera,3864,1170.0
+2025-04-29,Tuesday,Chocolate Rellena,288,209,79,0,24,9.0,False,Feria Local de Primavera,5016,711.0
+2025-04-30,Wednesday,Chocolate Rellena,292,234,58,0,24,9.0,False,Feria Local de Primavera,5616,522.0
+2025-05-01,Thursday,Chocolate Rellena,281,171,110,0,24,9.0,False,Quincena,4104,990.0
+2025-05-02,Friday,Chocolate Rellena,269,217,52,0,24,9.0,False,,5208,468.0
+2025-05-03,Saturday,Chocolate Rellena,241,241,0,8,24,9.0,False,,5784,0.0
+2025-05-04,Sunday,Chocolate Rellena,225,197,28,0,24,9.0,False,,4728,252.0
+2025-05-05,Monday,Chocolate Rellena,205,103,102,0,24,9.0,False,,2472,918.0
+2025-05-06,Tuesday,Chocolate Rellena,197,116,81,0,24,9.0,False,,2784,729.0
+2025-05-07,Wednesday,Chocolate Rellena,184,149,35,0,24,9.0,False,,3576,315.0
+2025-05-08,Thursday,Chocolate Rellena,172,150,22,0,24,9.0,False,,3600,198.0
+2025-05-09,Friday,Chocolate Rellena,169,169,0,53,24,9.0,False,,4056,0.0
+2025-05-10,Saturday,Chocolate Rellena,169,169,0,99,24,9.0,False,,4056,0.0
+2025-05-11,Sunday,Chocolate Rellena,172,172,0,29,24,9.0,False,,4128,0.0
+2025-05-12,Monday,Chocolate Rellena,173,106,67,0,24,9.0,False,,2544,603.0
+2025-05-13,Tuesday,Chocolate Rellena,173,129,44,0,24,9.0,False,,3096,396.0
+2025-05-14,Wednesday,Chocolate Rellena,175,152,23,0,24,9.0,False,,3648,207.0
+2025-05-15,Thursday,Chocolate Rellena,175,175,0,20,24,9.0,False,Quincena,4200,0.0
+2025-05-16,Friday,Chocolate Rellena,182,182,0,4,24,9.0,False,,4368,0.0
+2025-05-17,Saturday,Chocolate Rellena,177,177,0,73,24,9.0,False,,4248,0.0
+2025-05-18,Sunday,Chocolate Rellena,174,174,0,42,24,9.0,False,,4176,0.0
+2025-05-19,Monday,Chocolate Rellena,176,152,24,0,24,9.0,True,,3648,216.0
+2025-05-20,Tuesday,Chocolate Rellena,183,122,61,0,24,9.0,False,,2928,549.0
+2025-05-21,Wednesday,Chocolate Rellena,182,140,42,0,24,9.0,False,,3360,378.0
+2025-05-22,Thursday,Chocolate Rellena,180,170,10,0,24,9.0,False,,4080,90.0
+2025-05-23,Friday,Chocolate Rellena,177,177,0,66,24,9.0,False,,4248,0.0
+2025-05-24,Saturday,Chocolate Rellena,185,185,0,46,24,9.0,False,,4440,0.0
+2025-05-25,Sunday,Chocolate Rellena,182,182,0,26,24,9.0,False,,4368,0.0
+2025-05-26,Monday,Chocolate Rellena,181,114,67,0,24,9.0,False,,2736,603.0
+2025-05-27,Tuesday,Chocolate Rellena,175,137,38,0,24,9.0,False,,3288,342.0
+2025-05-28,Wednesday,Chocolate Rellena,178,142,36,0,24,9.0,False,,3408,324.0
+2025-05-29,Thursday,Chocolate Rellena,178,151,27,0,24,9.0,False,,3624,243.0
+2025-05-30,Friday,Chocolate Rellena,175,175,0,102,24,9.0,False,Quincena,4200,0.0
+2025-05-31,Saturday,Chocolate Rellena,180,180,0,127,24,9.0,False,Quincena,4320,0.0
+2025-06-01,Sunday,Chocolate Rellena,191,191,0,51,24,9.0,False,Quincena,4584,0.0
+2025-06-02,Monday,Chocolate Rellena,196,111,85,0,24,9.0,False,,2664,765.0
+2025-06-03,Tuesday,Chocolate Rellena,195,147,48,0,24,9.0,False,,3528,432.0
+2025-06-04,Wednesday,Chocolate Rellena,197,157,40,0,24,9.0,False,,3768,360.0
+2025-06-05,Thursday,Chocolate Rellena,199,167,32,0,24,9.0,False,,4008,288.0
+2025-06-06,Friday,Chocolate Rellena,201,201,0,325,24,9.0,False,Día Nacional de la Dona,4824,0.0
+2025-06-07,Saturday,Chocolate Rellena,237,237,0,45,24,9.0,False,,5688,0.0
+2025-06-08,Sunday,Chocolate Rellena,233,212,21,0,24,9.0,False,,5088,189.0
+2025-06-09,Monday,Chocolate Rellena,229,111,118,0,24,9.0,False,,2664,1062.0
+2025-06-10,Tuesday,Chocolate Rellena,229,131,98,0,24,9.0,False,,3144,882.0
+2025-06-11,Wednesday,Chocolate Rellena,227,154,73,0,24,9.0,False,,3696,657.0
+2025-06-12,Thursday,Chocolate Rellena,226,155,71,0,24,9.0,False,,3720,639.0
+2025-06-13,Friday,Chocolate Rellena,224,224,0,2,24,9.0,False,,5376,0.0
+2025-06-14,Saturday,Chocolate Rellena,182,182,0,88,24,9.0,False,,4368,0.0
+2025-06-15,Sunday,Chocolate Rellena,180,180,0,89,24,9.0,False,Quincena,4320,0.0
+2025-06-16,Monday,Chocolate Rellena,188,101,87,0,24,9.0,False,,2424,783.0
+2025-06-17,Tuesday,Chocolate Rellena,187,132,55,0,24,9.0,False,,3168,495.0
+2025-06-18,Wednesday,Chocolate Rellena,187,136,51,0,24,9.0,False,,3264,459.0
+2025-06-19,Thursday,Chocolate Rellena,184,162,22,0,24,9.0,False,,3888,198.0
+2025-06-20,Friday,Chocolate Rellena,185,185,0,8,24,9.0,False,,4440,0.0
+2025-06-21,Saturday,Chocolate Rellena,180,180,0,49,24,9.0,False,,4320,0.0
+2025-06-22,Sunday,Chocolate Rellena,175,175,0,115,24,9.0,True,,4200,0.0
+2025-06-23,Monday,Chocolate Rellena,178,121,57,0,24,9.0,False,,2904,513.0
+2025-06-24,Tuesday,Chocolate Rellena,180,149,31,0,24,9.0,False,,3576,279.0
+2025-06-25,Wednesday,Chocolate Rellena,183,142,41,0,24,9.0,False,,3408,369.0
+2025-06-26,Thursday,Chocolate Rellena,184,158,26,0,24,9.0,False,,3792,234.0
+2025-06-27,Friday,Chocolate Rellena,183,183,0,55,24,9.0,False,,4392,0.0
+2025-06-28,Saturday,Chocolate Rellena,190,190,0,90,24,9.0,False,,4560,0.0
+2025-06-29,Sunday,Chocolate Rellena,197,197,0,22,24,9.0,False,,4728,0.0
+2025-06-30,Monday,Chocolate Rellena,187,124,63,0,24,9.0,False,Quincena,2976,567.0
+2025-07-01,Tuesday,Chocolate Rellena,187,149,38,0,24,9.0,False,Quincena,3576,342.0
+2025-07-02,Wednesday,Chocolate Rellena,187,146,41,0,24,9.0,False,,3504,369.0
+2025-07-03,Thursday,Chocolate Rellena,188,170,18,0,24,9.0,False,,4080,162.0
+2025-07-04,Friday,Chocolate Rellena,189,189,0,17,24,9.0,False,,4536,0.0
+2025-07-05,Saturday,Chocolate Rellena,185,185,0,82,24,9.0,False,,4440,0.0
+2025-07-06,Sunday,Chocolate Rellena,183,183,0,24,24,9.0,False,,4392,0.0
+2025-07-07,Monday,Chocolate Rellena,181,119,62,0,24,9.0,False,,2856,558.0
+2025-07-08,Tuesday,Chocolate Rellena,181,155,26,0,24,9.0,False,,3720,234.0
+2025-07-09,Wednesday,Chocolate Rellena,181,151,30,0,24,9.0,False,,3624,270.0
+2025-07-10,Thursday,Chocolate Rellena,182,150,32,0,24,9.0,False,,3600,288.0
+2025-07-11,Friday,Chocolate Rellena,179,179,0,24,24,9.0,False,,4296,0.0
+2025-07-12,Saturday,Chocolate Rellena,179,179,0,69,24,9.0,False,,4296,0.0
+2025-07-13,Sunday,Chocolate Rellena,176,176,0,41,24,9.0,False,,4224,0.0
+2025-07-14,Monday,Chocolate Rellena,178,117,61,0,24,9.0,False,,2808,549.0
+2025-07-15,Tuesday,Chocolate Rellena,177,175,2,0,24,9.0,False,Quincena,4200,18.0
+2025-07-16,Wednesday,Chocolate Rellena,180,157,23,0,24,9.0,False,,3768,207.0
+2025-07-17,Thursday,Chocolate Rellena,181,169,12,0,24,9.0,False,,4056,108.0
+2025-07-18,Friday,Chocolate Rellena,184,184,0,25,24,9.0,False,,4416,0.0
+2025-07-19,Saturday,Chocolate Rellena,185,185,0,58,24,9.0,False,,4440,0.0
+2025-07-20,Sunday,Chocolate Rellena,184,184,0,44,24,9.0,False,,4416,0.0
+2025-07-21,Monday,Chocolate Rellena,185,128,57,0,24,9.0,False,,3072,513.0
+2025-07-22,Tuesday,Chocolate Rellena,187,157,30,0,24,9.0,False,,3768,270.0
+2025-07-23,Wednesday,Chocolate Rellena,184,175,9,0,24,9.0,False,,4200,81.0
+2025-07-24,Thursday,Chocolate Rellena,187,173,14,0,24,9.0,False,,4152,126.0
+2025-07-25,Friday,Chocolate Rellena,188,188,0,111,24,9.0,True,,4512,0.0
+2025-07-26,Saturday,Chocolate Rellena,200,200,0,36,24,9.0,False,,4800,0.0
+2025-07-27,Sunday,Chocolate Rellena,199,199,0,18,24,9.0,False,,4776,0.0
+2025-07-28,Monday,Chocolate Rellena,198,131,67,0,24,9.0,True,,3144,603.0
+2025-07-29,Tuesday,Chocolate Rellena,198,133,65,0,24,9.0,False,,3192,585.0
+2025-07-30,Wednesday,Chocolate Rellena,195,170,25,0,24,9.0,False,Quincena,4080,225.0
+2025-07-31,Thursday,Chocolate Rellena,194,188,6,0,24,9.0,False,Quincena,4512,54.0
+2025-08-01,Friday,Chocolate Rellena,196,196,0,28,24,9.0,False,Quincena,4704,0.0
+2025-08-02,Saturday,Chocolate Rellena,186,186,0,38,24,9.0,False,,4464,0.0
+2025-08-03,Sunday,Chocolate Rellena,184,184,0,53,24,9.0,False,,4416,0.0
+2025-08-04,Monday,Chocolate Rellena,187,104,83,0,24,9.0,False,,2496,747.0
+2025-08-05,Tuesday,Chocolate Rellena,183,148,35,0,24,9.0,False,,3552,315.0
+2025-08-06,Wednesday,Chocolate Rellena,185,148,37,0,24,9.0,False,,3552,333.0
+2025-08-07,Thursday,Chocolate Rellena,182,159,23,0,24,9.0,False,,3816,207.0
+2025-08-08,Friday,Chocolate Rellena,178,178,0,35,24,9.0,False,,4272,0.0
+2025-08-09,Saturday,Chocolate Rellena,176,176,0,91,24,9.0,False,,4224,0.0
+2025-08-10,Sunday,Chocolate Rellena,182,182,0,37,24,9.0,False,,4368,0.0
+2025-08-11,Monday,Chocolate Rellena,180,118,62,0,24,9.0,False,,2832,558.0
+2025-08-12,Tuesday,Chocolate Rellena,182,153,29,0,24,9.0,False,,3672,261.0
+2025-08-13,Wednesday,Chocolate Rellena,182,119,63,0,24,9.0,False,,2856,567.0
+2025-08-14,Thursday,Chocolate Rellena,178,178,0,8,24,9.0,False,,4272,0.0
+2025-08-15,Friday,Chocolate Rellena,182,182,0,60,24,9.0,False,Quincena,4368,0.0
+2025-08-16,Saturday,Chocolate Rellena,186,186,0,91,24,9.0,False,,4464,0.0
+2025-08-17,Sunday,Chocolate Rellena,188,188,0,40,24,9.0,False,,4512,0.0
+2025-08-18,Monday,Chocolate Rellena,189,99,90,0,24,9.0,False,,2376,810.0
+2025-08-19,Tuesday,Chocolate Rellena,186,129,57,0,24,9.0,False,,3096,513.0
+2025-08-20,Wednesday,Chocolate Rellena,183,134,49,0,24,9.0,False,,3216,441.0
+2025-08-21,Thursday,Chocolate Rellena,185,153,32,0,24,9.0,False,,3672,288.0
+2025-08-22,Friday,Chocolate Rellena,180,180,0,33,24,9.0,False,,4320,0.0
+2025-08-23,Saturday,Chocolate Rellena,176,176,0,48,24,9.0,False,,4224,0.0
+2025-08-24,Sunday,Chocolate Rellena,169,169,0,76,24,9.0,False,,4056,0.0
+2025-08-25,Monday,Chocolate Rellena,171,115,56,0,24,9.0,False,,2760,504.0
+2025-08-26,Tuesday,Chocolate Rellena,173,155,18,0,24,9.0,False,,3720,162.0
+2025-08-27,Wednesday,Chocolate Rellena,177,169,8,0,24,9.0,False,,4056,72.0
+2025-08-28,Thursday,Chocolate Rellena,182,182,0,60,24,9.0,True,,4368,0.0
+2025-08-29,Friday,Chocolate Rellena,195,195,0,52,24,9.0,False,,4680,0.0
+2025-08-30,Saturday,Chocolate Rellena,200,200,0,129,24,9.0,False,Quincena,4800,0.0
+2025-08-31,Sunday,Chocolate Rellena,215,213,2,0,24,9.0,False,Quincena,5112,18.0
+2025-09-01,Monday,Chocolate Rellena,210,129,81,0,24,9.0,False,Quincena,3096,729.0
+2025-09-02,Tuesday,Chocolate Rellena,212,104,108,0,24,9.0,False,,2496,972.0
+2025-09-03,Wednesday,Chocolate Rellena,205,150,55,0,24,9.0,False,,3600,495.0
+2025-09-04,Thursday,Chocolate Rellena,202,165,37,0,24,9.0,False,,3960,333.0
+2025-09-05,Friday,Chocolate Rellena,191,191,0,47,24,9.0,False,,4584,0.0
+2025-09-06,Saturday,Chocolate Rellena,190,190,0,76,24,9.0,False,,4560,0.0
+2025-09-07,Sunday,Chocolate Rellena,181,181,0,50,24,9.0,False,,4344,0.0
+2025-09-08,Monday,Chocolate Rellena,183,104,79,0,24,9.0,False,,2496,711.0
+2025-09-09,Tuesday,Chocolate Rellena,180,180,0,1,24,9.0,True,,4320,0.0
+2025-09-10,Wednesday,Chocolate Rellena,191,158,33,0,24,9.0,False,,3792,297.0
+2025-09-11,Thursday,Chocolate Rellena,192,179,13,0,24,9.0,False,,4296,117.0
+2025-09-12,Friday,Chocolate Rellena,194,194,0,4,24,9.0,False,,4656,0.0
+2025-09-13,Saturday,Chocolate Rellena,188,188,0,49,24,9.0,False,,4512,0.0
+2025-09-14,Sunday,Chocolate Rellena,184,184,0,51,24,9.0,False,,4416,0.0
+2025-09-15,Monday,Chocolate Rellena,185,134,51,0,24,9.0,False,Quincena,3216,459.0
+2025-09-16,Tuesday,Chocolate Rellena,189,145,44,0,24,9.0,False,,3480,396.0
+2025-09-17,Wednesday,Chocolate Rellena,184,144,40,0,24,9.0,False,,3456,360.0
+2025-09-18,Thursday,Chocolate Rellena,182,171,11,0,24,9.0,False,,4104,99.0
+2025-09-19,Friday,Chocolate Rellena,181,181,0,60,24,9.0,False,,4344,0.0
+2025-09-20,Saturday,Chocolate Rellena,187,187,0,94,24,9.0,False,,4488,0.0
+2025-09-21,Sunday,Chocolate Rellena,193,193,0,25,24,9.0,False,,4632,0.0
+2025-09-22,Monday,Chocolate Rellena,191,112,79,0,24,9.0,False,,2688,711.0
+2025-09-23,Tuesday,Chocolate Rellena,187,156,31,0,24,9.0,False,,3744,279.0
+2025-09-24,Wednesday,Chocolate Rellena,189,149,40,0,24,9.0,False,,3576,360.0
+2025-09-25,Thursday,Chocolate Rellena,190,187,3,0,24,9.0,False,,4488,27.0
+2025-09-26,Friday,Chocolate Rellena,192,192,0,48,24,9.0,False,,4608,0.0
+2025-09-27,Saturday,Chocolate Rellena,192,192,0,62,24,9.0,False,,4608,0.0
+2025-09-28,Sunday,Chocolate Rellena,188,188,0,45,24,9.0,False,,4512,0.0
+2025-09-29,Monday,Chocolate Rellena,190,118,72,0,24,9.0,False,,2832,648.0
+2025-09-30,Tuesday,Chocolate Rellena,191,162,29,0,24,9.0,False,Quincena,3888,261.0
+2025-10-01,Wednesday,Chocolate Rellena,192,170,22,0,24,9.0,False,Quincena,4080,198.0
+2025-10-02,Thursday,Chocolate Rellena,195,171,24,0,24,9.0,False,,4104,216.0
+2025-10-03,Friday,Chocolate Rellena,193,193,0,5,24,9.0,False,,4632,0.0
+2025-10-04,Saturday,Chocolate Rellena,187,187,0,107,24,9.0,True,,4488,0.0
+2025-10-05,Sunday,Chocolate Rellena,192,192,0,26,24,9.0,False,,4608,0.0
+2025-10-06,Monday,Chocolate Rellena,190,99,91,0,24,9.0,False,,2376,819.0
+2025-10-07,Tuesday,Chocolate Rellena,187,139,48,0,24,9.0,False,,3336,432.0
+2025-10-08,Wednesday,Chocolate Rellena,184,143,41,0,24,9.0,False,,3432,369.0
+2025-10-09,Thursday,Chocolate Rellena,180,174,6,0,24,9.0,False,,4176,54.0
+2025-10-10,Friday,Chocolate Rellena,181,181,0,29,24,9.0,False,,4344,0.0
+2025-10-11,Saturday,Chocolate Rellena,182,182,0,90,24,9.0,False,,4368,0.0
+2025-10-12,Sunday,Chocolate Rellena,179,179,0,25,24,9.0,False,,4296,0.0
+2025-10-13,Monday,Chocolate Rellena,177,110,67,0,24,9.0,False,,2640,603.0
+2025-10-14,Tuesday,Chocolate Rellena,179,129,50,0,24,9.0,False,,3096,450.0
+2025-10-15,Wednesday,Chocolate Rellena,177,177,0,23,24,9.0,False,Quincena,4248,0.0
+2025-10-16,Thursday,Chocolate Rellena,186,149,37,0,24,9.0,False,,3576,333.0
+2025-10-17,Friday,Chocolate Rellena,182,182,0,42,24,9.0,False,,4368,0.0
+2025-10-18,Saturday,Chocolate Rellena,184,184,0,84,24,9.0,False,,4416,0.0
+2025-10-19,Sunday,Chocolate Rellena,183,183,0,8,24,9.0,False,,4392,0.0
+2025-10-20,Monday,Chocolate Rellena,182,127,55,0,24,9.0,False,,3048,495.0
+2025-10-21,Tuesday,Chocolate Rellena,184,152,32,0,24,9.0,False,,3648,288.0
+2025-10-22,Wednesday,Chocolate Rellena,187,137,50,0,24,9.0,False,,3288,450.0
+2025-10-23,Thursday,Chocolate Rellena,178,178,0,31,24,9.0,True,,4272,0.0
+2025-10-24,Friday,Chocolate Rellena,187,187,0,48,24,9.0,False,,4488,0.0
+2025-10-25,Saturday,Chocolate Rellena,188,188,0,50,24,9.0,False,,4512,0.0
+2025-10-26,Sunday,Chocolate Rellena,184,184,0,52,24,9.0,False,,4416,0.0
+2025-10-27,Monday,Chocolate Rellena,191,111,80,0,24,9.0,False,,2664,720.0
+2025-10-28,Tuesday,Chocolate Rellena,188,141,47,0,24,9.0,False,,3384,423.0
+2025-10-29,Wednesday,Chocolate Rellena,187,139,48,0,24,9.0,False,,3336,432.0
+2025-10-30,Thursday,Chocolate Rellena,187,187,0,7,24,9.0,False,Quincena,4488,0.0
+2025-10-31,Friday,Chocolate Rellena,185,185,0,76,24,9.0,False,Quincena,4440,0.0
+2025-11-01,Saturday,Chocolate Rellena,189,189,0,112,24,9.0,False,Quincena,4536,0.0
+2025-11-02,Sunday,Chocolate Rellena,198,198,0,44,24,9.0,False,,4752,0.0
+2025-11-03,Monday,Chocolate Rellena,198,127,71,0,24,9.0,False,,3048,639.0
+2025-11-04,Tuesday,Chocolate Rellena,201,137,64,0,24,9.0,False,,3288,576.0
+2025-11-05,Wednesday,Chocolate Rellena,200,152,48,0,24,9.0,False,,3648,432.0
+2025-11-06,Thursday,Chocolate Rellena,202,186,16,0,24,9.0,False,,4464,144.0
+2025-11-07,Friday,Chocolate Rellena,201,201,0,11,24,9.0,False,,4824,0.0
+2025-11-08,Saturday,Chocolate Rellena,194,194,0,47,24,9.0,False,,4656,0.0
+2025-11-09,Sunday,Chocolate Rellena,185,185,0,49,24,9.0,False,,4440,0.0
+2025-11-10,Monday,Chocolate Rellena,184,114,70,0,24,9.0,False,,2736,630.0
+2025-11-11,Tuesday,Chocolate Rellena,182,128,54,0,24,9.0,False,,3072,486.0
+2025-11-12,Wednesday,Chocolate Rellena,181,158,23,0,24,9.0,False,,3792,207.0
+2025-11-13,Thursday,Chocolate Rellena,182,173,9,0,24,9.0,False,,4152,81.0
+2025-11-14,Friday,Chocolate Rellena,180,180,0,61,24,9.0,False,,4320,0.0
+2025-11-15,Saturday,Chocolate Rellena,184,184,0,106,24,9.0,False,Quincena,4416,0.0
+2025-11-16,Sunday,Chocolate Rellena,191,191,0,45,24,9.0,False,,4584,0.0
+2025-11-17,Monday,Chocolate Rellena,191,135,56,0,24,9.0,False,,3240,504.0
+2025-11-18,Tuesday,Chocolate Rellena,194,162,32,0,24,9.0,False,,3888,288.0
+2025-11-19,Wednesday,Chocolate Rellena,199,166,33,0,24,9.0,False,,3984,297.0
+2025-11-20,Thursday,Chocolate Rellena,200,187,13,0,24,9.0,False,,4488,117.0
+2025-11-21,Friday,Chocolate Rellena,202,202,0,27,24,9.0,False,,4848,0.0
+2025-11-22,Saturday,Chocolate Rellena,201,201,0,46,24,9.0,False,,4824,0.0
+2025-11-23,Sunday,Chocolate Rellena,195,195,0,69,24,9.0,False,,4680,0.0
+2025-11-24,Monday,Chocolate Rellena,199,113,86,0,24,9.0,False,,2712,774.0
+2025-11-25,Tuesday,Chocolate Rellena,195,166,29,0,24,9.0,False,,3984,261.0
+2025-11-26,Wednesday,Chocolate Rellena,196,153,43,0,24,9.0,False,,3672,387.0
+2025-11-27,Thursday,Chocolate Rellena,194,179,15,0,24,9.0,False,,4296,135.0
+2025-11-28,Friday,Chocolate Rellena,193,193,0,50,24,9.0,False,,4632,0.0
+2025-11-29,Saturday,Chocolate Rellena,195,195,0,63,24,9.0,False,,4680,0.0
+2025-11-30,Sunday,Chocolate Rellena,197,197,0,91,24,9.0,False,Quincena,4728,0.0
+2025-12-01,Monday,Chocolate Rellena,200,155,45,0,24,9.0,False,Quincena,3720,405.0
+2025-12-02,Tuesday,Chocolate Rellena,206,136,70,0,24,9.0,False,,3264,630.0
+2025-12-03,Wednesday,Chocolate Rellena,202,160,42,0,24,9.0,False,,3840,378.0
+2025-12-04,Thursday,Chocolate Rellena,203,165,38,0,24,9.0,False,,3960,342.0
+2025-12-05,Friday,Chocolate Rellena,201,201,0,40,24,9.0,False,,4824,0.0
+2025-12-06,Saturday,Chocolate Rellena,200,200,0,76,24,9.0,False,,4800,0.0
+2025-12-07,Sunday,Chocolate Rellena,203,203,0,1,24,9.0,False,,4872,0.0
+2025-12-08,Monday,Chocolate Rellena,191,114,77,0,24,9.0,False,,2736,693.0
+2025-12-09,Tuesday,Chocolate Rellena,185,146,39,0,24,9.0,False,,3504,351.0
+2025-12-10,Wednesday,Chocolate Rellena,187,168,19,0,24,9.0,False,,4032,171.0
+2025-12-11,Thursday,Chocolate Rellena,188,177,11,0,24,9.0,False,,4248,99.0
+2025-12-12,Friday,Chocolate Rellena,189,189,0,45,24,9.0,False,,4536,0.0
+2025-12-13,Saturday,Chocolate Rellena,188,188,0,86,24,9.0,False,,4512,0.0
+2025-12-14,Sunday,Chocolate Rellena,188,188,0,30,24,9.0,False,,4512,0.0
+2025-12-15,Monday,Chocolate Rellena,190,132,58,0,24,9.0,False,Quincena,3168,522.0
+2025-12-16,Tuesday,Chocolate Rellena,193,142,51,0,24,9.0,False,,3408,459.0
+2025-12-17,Wednesday,Chocolate Rellena,192,139,53,0,24,9.0,False,,3336,477.0
+2025-12-18,Thursday,Chocolate Rellena,188,175,13,0,24,9.0,False,,4200,117.0
+2025-12-19,Friday,Chocolate Rellena,188,188,0,70,24,9.0,False,,4512,0.0
+2025-12-20,Saturday,Chocolate Rellena,191,191,0,34,24,9.0,False,,4584,0.0
+2025-12-21,Sunday,Chocolate Rellena,184,184,0,93,24,9.0,False,,4416,0.0
+2025-12-22,Monday,Chocolate Rellena,193,115,78,0,24,9.0,False,,2760,702.0
+2025-12-23,Tuesday,Chocolate Rellena,190,133,57,0,24,9.0,False,,3192,513.0
+2025-12-24,Wednesday,Chocolate Rellena,189,147,42,0,24,9.0,False,,3528,378.0
+2025-12-25,Thursday,Chocolate Rellena,190,169,21,0,24,9.0,False,,4056,189.0
+2025-12-26,Friday,Chocolate Rellena,189,189,0,127,24,9.0,True,,4536,0.0
+2025-12-27,Saturday,Chocolate Rellena,197,197,0,61,24,9.0,False,,4728,0.0
+2025-12-28,Sunday,Chocolate Rellena,202,202,0,30,24,9.0,False,,4848,0.0
+2025-12-29,Monday,Chocolate Rellena,196,125,71,0,24,9.0,False,,3000,639.0
+2025-12-30,Tuesday,Chocolate Rellena,197,165,32,0,24,9.0,False,Quincena,3960,288.0
+2025-12-31,Wednesday,Chocolate Rellena,202,178,24,0,24,9.0,False,Quincena,4272,216.0
+2025-01-01,Wednesday,Azúcar y Canela,140,140,0,19,16,5.5,True,Quincena,2240,0.0
+2025-01-02,Thursday,Azúcar y Canela,159,135,24,0,16,5.5,False,,2160,132.0
+2025-01-03,Friday,Azúcar y Canela,147,147,0,16,16,5.5,False,,2352,0.0
+2025-01-04,Saturday,Azúcar y Canela,152,152,0,57,16,5.5,False,,2432,0.0
+2025-01-05,Sunday,Azúcar y Canela,166,166,0,13,16,5.5,False,,2656,0.0
+2025-01-06,Monday,Azúcar y Canela,169,78,91,0,16,5.5,False,,1248,500.5
+2025-01-07,Tuesday,Azúcar y Canela,154,98,56,0,16,5.5,False,,1568,308.0
+2025-01-08,Wednesday,Azúcar y Canela,146,113,33,0,16,5.5,False,,1808,181.5
+2025-01-09,Thursday,Azúcar y Canela,139,139,0,185,16,5.5,False,Día de la Policía,2224,0.0
+2025-01-10,Friday,Azúcar y Canela,166,166,0,31,16,5.5,False,,2656,0.0
+2025-01-11,Saturday,Azúcar y Canela,171,171,0,30,16,5.5,False,,2736,0.0
+2025-01-12,Sunday,Azúcar y Canela,170,170,0,37,16,5.5,False,,2720,0.0
+2025-01-13,Monday,Azúcar y Canela,174,84,90,0,16,5.5,False,,1344,495.0
+2025-01-14,Tuesday,Azúcar y Canela,175,102,73,0,16,5.5,False,,1632,401.5
+2025-01-15,Wednesday,Azúcar y Canela,175,143,32,0,16,5.5,False,Quincena,2288,176.0
+2025-01-16,Thursday,Azúcar y Canela,180,140,40,0,16,5.5,False,,2240,220.0
+2025-01-17,Friday,Azúcar y Canela,153,153,0,23,16,5.5,False,,2448,0.0
+2025-01-18,Saturday,Azúcar y Canela,150,150,0,49,16,5.5,False,,2400,0.0
+2025-01-19,Sunday,Azúcar y Canela,150,150,0,26,16,5.5,False,,2400,0.0
+2025-01-20,Monday,Azúcar y Canela,146,105,41,0,16,5.5,True,,1680,225.5
+2025-01-21,Tuesday,Azúcar y Canela,149,120,29,0,16,5.5,False,,1920,159.5
+2025-01-22,Wednesday,Azúcar y Canela,151,130,21,0,16,5.5,False,,2080,115.5
+2025-01-23,Thursday,Azúcar y Canela,149,131,18,0,16,5.5,False,,2096,99.0
+2025-01-24,Friday,Azúcar y Canela,148,148,0,11,16,5.5,False,,2368,0.0
+2025-01-25,Saturday,Azúcar y Canela,146,146,0,60,16,5.5,False,,2336,0.0
+2025-01-26,Sunday,Azúcar y Canela,147,147,0,13,16,5.5,False,,2352,0.0
+2025-01-27,Monday,Azúcar y Canela,144,83,61,0,16,5.5,False,,1328,335.5
+2025-01-28,Tuesday,Azúcar y Canela,141,125,16,0,16,5.5,False,,2000,88.0
+2025-01-29,Wednesday,Azúcar y Canela,142,126,16,0,16,5.5,False,,2016,88.0
+2025-01-30,Thursday,Azúcar y Canela,141,141,0,10,16,5.5,False,Quincena,2256,0.0
+2025-01-31,Friday,Azúcar y Canela,144,144,0,45,16,5.5,False,Quincena,2304,0.0
+2025-02-01,Saturday,Azúcar y Canela,149,149,0,84,16,5.5,False,Quincena,2384,0.0
+2025-02-02,Sunday,Azúcar y Canela,152,152,0,29,16,5.5,False,,2432,0.0
+2025-02-03,Monday,Azúcar y Canela,155,90,65,0,16,5.5,False,,1440,357.5
+2025-02-04,Tuesday,Azúcar y Canela,156,102,54,0,16,5.5,False,,1632,297.0
+2025-02-05,Wednesday,Azúcar y Canela,153,119,34,0,16,5.5,False,,1904,187.0
+2025-02-06,Thursday,Azúcar y Canela,152,131,21,0,16,5.5,False,,2096,115.5
+2025-02-07,Friday,Azúcar y Canela,149,149,0,25,16,5.5,False,,2384,0.0
+2025-02-08,Saturday,Azúcar y Canela,147,147,0,49,16,5.5,False,,2352,0.0
+2025-02-09,Sunday,Azúcar y Canela,142,142,0,12,16,5.5,False,,2272,0.0
+2025-02-10,Monday,Azúcar y Canela,138,97,41,0,16,5.5,False,,1552,225.5
+2025-02-11,Tuesday,Azúcar y Canela,139,117,22,0,16,5.5,False,,1872,121.0
+2025-02-12,Wednesday,Azúcar y Canela,141,112,29,0,16,5.5,False,,1792,159.5
+2025-02-13,Thursday,Azúcar y Canela,140,140,0,19,16,5.5,False,,2240,0.0
+2025-02-14,Friday,Azúcar y Canela,144,144,0,12,16,5.5,False,,2304,0.0
+2025-02-15,Saturday,Azúcar y Canela,142,142,0,73,16,5.5,False,Quincena,2272,0.0
+2025-02-16,Sunday,Azúcar y Canela,144,144,0,33,16,5.5,False,,2304,0.0
+2025-02-17,Monday,Azúcar y Canela,148,98,50,0,16,5.5,False,,1568,275.0
+2025-02-18,Tuesday,Azúcar y Canela,148,97,51,0,16,5.5,False,,1552,280.5
+2025-02-19,Wednesday,Azúcar y Canela,145,132,13,0,16,5.5,False,,2112,71.5
+2025-02-20,Thursday,Azúcar y Canela,148,148,0,8,16,5.5,False,,2368,0.0
+2025-02-21,Friday,Azúcar y Canela,147,147,0,43,16,5.5,False,,2352,0.0
+2025-02-22,Saturday,Azúcar y Canela,152,152,0,98,16,5.5,False,,2432,0.0
+2025-02-23,Sunday,Azúcar y Canela,157,157,0,32,16,5.5,False,,2512,0.0
+2025-02-24,Monday,Azúcar y Canela,159,92,67,0,16,5.5,False,,1472,368.5
+2025-02-25,Tuesday,Azúcar y Canela,158,135,23,0,16,5.5,True,,2160,126.5
+2025-02-26,Wednesday,Azúcar y Canela,163,124,39,0,16,5.5,False,,1984,214.5
+2025-02-27,Thursday,Azúcar y Canela,162,151,11,0,16,5.5,False,,2416,60.5
+2025-02-28,Friday,Azúcar y Canela,162,162,0,24,16,5.5,False,,2592,0.0
+2025-03-01,Saturday,Azúcar y Canela,161,161,0,83,16,5.5,False,Quincena,2576,0.0
+2025-03-02,Sunday,Azúcar y Canela,160,160,0,18,16,5.5,False,,2560,0.0
+2025-03-03,Monday,Azúcar y Canela,159,102,57,0,16,5.5,False,,1632,313.5
+2025-03-04,Tuesday,Azúcar y Canela,160,119,41,0,16,5.5,False,,1904,225.5
+2025-03-05,Wednesday,Azúcar y Canela,158,120,38,0,16,5.5,False,,1920,209.0
+2025-03-06,Thursday,Azúcar y Canela,157,120,37,0,16,5.5,False,,1920,203.5
+2025-03-07,Friday,Azúcar y Canela,153,153,0,11,16,5.5,False,,2448,0.0
+2025-03-08,Saturday,Azúcar y Canela,150,150,0,56,16,5.5,False,,2400,0.0
+2025-03-09,Sunday,Azúcar y Canela,144,144,0,69,16,5.5,False,,2304,0.0
+2025-03-10,Monday,Azúcar y Canela,149,83,66,0,16,5.5,False,,1328,363.0
+2025-03-11,Tuesday,Azúcar y Canela,146,107,39,0,16,5.5,False,,1712,214.5
+2025-03-12,Wednesday,Azúcar y Canela,145,127,18,0,16,5.5,False,,2032,99.0
+2025-03-13,Thursday,Azúcar y Canela,146,145,1,0,16,5.5,False,,2320,5.5
+2025-03-14,Friday,Azúcar y Canela,149,149,0,55,16,5.5,False,,2384,0.0
+2025-03-15,Saturday,Azúcar y Canela,155,155,0,88,16,5.5,False,Quincena,2480,0.0
+2025-03-16,Sunday,Azúcar y Canela,160,160,0,35,16,5.5,False,,2560,0.0
+2025-03-17,Monday,Azúcar y Canela,158,94,64,0,16,5.5,False,,1504,352.0
+2025-03-18,Tuesday,Azúcar y Canela,159,116,43,0,16,5.5,False,,1856,236.5
+2025-03-19,Wednesday,Azúcar y Canela,161,117,44,0,16,5.5,False,,1872,242.0
+2025-03-20,Thursday,Azúcar y Canela,159,149,10,0,16,5.5,False,,2384,55.0
+2025-03-21,Friday,Azúcar y Canela,160,160,0,50,16,5.5,False,,2560,0.0
+2025-03-22,Saturday,Azúcar y Canela,161,161,0,55,16,5.5,False,,2576,0.0
+2025-03-23,Sunday,Azúcar y Canela,157,157,0,28,16,5.5,False,,2512,0.0
+2025-03-24,Monday,Azúcar y Canela,155,89,66,0,16,5.5,False,,1424,363.0
+2025-03-25,Tuesday,Azúcar y Canela,155,108,47,0,16,5.5,False,,1728,258.5
+2025-03-26,Wednesday,Azúcar y Canela,153,133,20,0,16,5.5,False,,2128,110.0
+2025-03-27,Thursday,Azúcar y Canela,156,135,21,0,16,5.5,False,,2160,115.5
+2025-03-28,Friday,Azúcar y Canela,154,154,0,2,16,5.5,False,,2464,0.0
+2025-03-29,Saturday,Azúcar y Canela,146,146,0,69,16,5.5,False,,2336,0.0
+2025-03-30,Sunday,Azúcar y Canela,146,146,0,68,16,5.5,False,Quincena,2336,0.0
+2025-03-31,Monday,Azúcar y Canela,150,113,37,0,16,5.5,False,Quincena,1808,203.5
+2025-04-01,Tuesday,Azúcar y Canela,153,118,35,0,16,5.5,False,Quincena,1888,192.5
+2025-04-02,Wednesday,Azúcar y Canela,155,118,37,0,16,5.5,False,,1888,203.5
+2025-04-03,Thursday,Azúcar y Canela,153,146,7,0,16,5.5,False,,2336,38.5
+2025-04-04,Friday,Azúcar y Canela,154,154,0,16,16,5.5,False,,2464,0.0
+2025-04-05,Saturday,Azúcar y Canela,156,156,0,49,16,5.5,False,,2496,0.0
+2025-04-06,Sunday,Azúcar y Canela,155,155,0,59,16,5.5,False,,2480,0.0
+2025-04-07,Monday,Azúcar y Canela,155,97,58,0,16,5.5,False,,1552,319.0
+2025-04-08,Tuesday,Azúcar y Canela,153,124,29,0,16,5.5,False,,1984,159.5
+2025-04-09,Wednesday,Azúcar y Canela,153,131,22,0,16,5.5,False,,2096,121.0
+2025-04-10,Thursday,Azúcar y Canela,155,145,10,0,16,5.5,False,,2320,55.0
+2025-04-11,Friday,Azúcar y Canela,155,155,0,57,16,5.5,False,,2480,0.0
+2025-04-12,Saturday,Azúcar y Canela,161,161,0,46,16,5.5,False,,2576,0.0
+2025-04-13,Sunday,Azúcar y Canela,161,161,0,6,16,5.5,False,,2576,0.0
+2025-04-14,Monday,Azúcar y Canela,155,95,60,0,16,5.5,False,,1520,330.0
+2025-04-15,Tuesday,Azúcar y Canela,154,127,27,0,16,5.5,False,Quincena,2032,148.5
+2025-04-16,Wednesday,Azúcar y Canela,155,112,43,0,16,5.5,False,,1792,236.5
+2025-04-17,Thursday,Azúcar y Canela,152,145,7,0,16,5.5,False,,2320,38.5
+2025-04-18,Friday,Azúcar y Canela,152,152,0,18,16,5.5,False,,2432,0.0
+2025-04-19,Saturday,Azúcar y Canela,146,146,0,26,16,5.5,False,,2336,0.0
+2025-04-20,Sunday,Azúcar y Canela,141,141,0,165,16,5.5,False,Feria Local de Primavera,2256,0.0
+2025-04-21,Monday,Azúcar y Canela,161,150,11,0,16,5.5,False,Feria Local de Primavera,2400,60.5
+2025-04-22,Tuesday,Azúcar y Canela,169,169,0,12,16,5.5,False,Feria Local de Primavera,2704,0.0
+2025-04-23,Wednesday,Azúcar y Canela,177,168,9,0,16,5.5,False,Feria Local de Primavera,2688,49.5
+2025-04-24,Thursday,Azúcar y Canela,185,185,0,42,16,5.5,False,Feria Local de Primavera,2960,0.0
+2025-04-25,Friday,Azúcar y Canela,196,196,0,125,16,5.5,False,Feria Local de Primavera,3136,0.0
+2025-04-26,Saturday,Azúcar y Canela,218,218,0,87,16,5.5,False,Feria Local de Primavera,3488,0.0
+2025-04-27,Sunday,Azúcar y Canela,237,237,0,71,16,5.5,False,Feria Local de Primavera,3792,0.0
+2025-04-28,Monday,Azúcar y Canela,237,146,91,0,16,5.5,False,Feria Local de Primavera,2336,500.5
+2025-04-29,Tuesday,Azúcar y Canela,237,174,63,0,16,5.5,False,Feria Local de Primavera,2784,346.5
+2025-04-30,Wednesday,Azúcar y Canela,236,202,34,0,16,5.5,False,Feria Local de Primavera,3232,187.0
+2025-05-01,Thursday,Azúcar y Canela,240,141,99,0,16,5.5,False,Quincena,2256,544.5
+2025-05-02,Friday,Azúcar y Canela,228,228,0,31,16,5.5,True,,3648,0.0
+2025-05-03,Saturday,Azúcar y Canela,219,206,13,0,16,5.5,False,,3296,71.5
+2025-05-04,Sunday,Azúcar y Canela,205,201,4,0,16,5.5,False,,3216,22.0
+2025-05-05,Monday,Azúcar y Canela,190,91,99,0,16,5.5,False,,1456,544.5
+2025-05-06,Tuesday,Azúcar y Canela,182,109,73,0,16,5.5,False,,1744,401.5
+2025-05-07,Wednesday,Azúcar y Canela,173,121,52,0,16,5.5,False,,1936,286.0
+2025-05-08,Thursday,Azúcar y Canela,161,161,0,30,16,5.5,True,,2576,0.0
+2025-05-09,Friday,Azúcar y Canela,168,168,0,32,16,5.5,False,,2688,0.0
+2025-05-10,Saturday,Azúcar y Canela,160,160,0,57,16,5.5,False,,2560,0.0
+2025-05-11,Sunday,Azúcar y Canela,161,161,0,40,16,5.5,False,,2576,0.0
+2025-05-12,Monday,Azúcar y Canela,161,104,57,0,16,5.5,False,,1664,313.5
+2025-05-13,Tuesday,Azúcar y Canela,163,115,48,0,16,5.5,False,,1840,264.0
+2025-05-14,Wednesday,Azúcar y Canela,164,124,40,0,16,5.5,False,,1984,220.0
+2025-05-15,Thursday,Azúcar y Canela,165,165,0,8,16,5.5,False,Quincena,2640,0.0
+2025-05-16,Friday,Azúcar y Canela,162,142,20,0,16,5.5,False,,2272,110.0
+2025-05-17,Saturday,Azúcar y Canela,154,154,0,20,16,5.5,False,,2464,0.0
+2025-05-18,Sunday,Azúcar y Canela,148,148,0,49,16,5.5,False,,2368,0.0
+2025-05-19,Monday,Azúcar y Canela,147,95,52,0,16,5.5,False,,1520,286.0
+2025-05-20,Tuesday,Azúcar y Canela,146,146,0,13,16,5.5,True,,2336,0.0
+2025-05-21,Wednesday,Azúcar y Canela,152,112,40,0,16,5.5,False,,1792,220.0
+2025-05-22,Thursday,Azúcar y Canela,150,150,0,15,16,5.5,False,,2400,0.0
+2025-05-23,Friday,Azúcar y Canela,149,149,0,38,16,5.5,False,,2384,0.0
+2025-05-24,Saturday,Azúcar y Canela,156,156,0,53,16,5.5,False,,2496,0.0
+2025-05-25,Sunday,Azúcar y Canela,161,161,0,44,16,5.5,False,,2576,0.0
+2025-05-26,Monday,Azúcar y Canela,162,105,57,0,16,5.5,False,,1680,313.5
+2025-05-27,Tuesday,Azúcar y Canela,163,115,48,0,16,5.5,False,,1840,264.0
+2025-05-28,Wednesday,Azúcar y Canela,157,129,28,0,16,5.5,False,,2064,154.0
+2025-05-29,Thursday,Azúcar y Canela,159,144,15,0,16,5.5,False,,2304,82.5
+2025-05-30,Friday,Azúcar y Canela,156,156,0,70,16,5.5,False,Quincena,2496,0.0
+2025-05-31,Saturday,Azúcar y Canela,162,162,0,85,16,5.5,False,Quincena,2592,0.0
+2025-06-01,Sunday,Azúcar y Canela,167,167,0,64,16,5.5,False,Quincena,2672,0.0
+2025-06-02,Monday,Azúcar y Canela,171,88,83,0,16,5.5,False,,1408,456.5
+2025-06-03,Tuesday,Azúcar y Canela,169,122,47,0,16,5.5,False,,1952,258.5
+2025-06-04,Wednesday,Azúcar y Canela,170,164,6,0,16,5.5,False,,2624,33.0
+2025-06-05,Thursday,Azúcar y Canela,175,144,31,0,16,5.5,False,,2304,170.5
+2025-06-06,Friday,Azúcar y Canela,175,175,0,326,16,5.5,False,Día Nacional de la Dona,2800,0.0
+2025-06-07,Saturday,Azúcar y Canela,214,214,0,14,16,5.5,False,,3424,0.0
+2025-06-08,Sunday,Azúcar y Canela,211,176,35,0,16,5.5,False,,2816,192.5
+2025-06-09,Monday,Azúcar y Canela,203,105,98,0,16,5.5,False,,1680,539.0
+2025-06-10,Tuesday,Azúcar y Canela,206,100,106,0,16,5.5,False,,1600,583.0
+2025-06-11,Wednesday,Azúcar y Canela,203,111,92,0,16,5.5,False,,1776,506.0
+2025-06-12,Thursday,Azúcar y Canela,195,146,49,0,16,5.5,False,,2336,269.5
+2025-06-13,Friday,Azúcar y Canela,195,191,4,0,16,5.5,False,,3056,22.0
+2025-06-14,Saturday,Azúcar y Canela,151,151,0,70,16,5.5,False,,2416,0.0
+2025-06-15,Sunday,Azúcar y Canela,150,150,0,150,16,5.5,True,Quincena,2400,0.0
+2025-06-16,Monday,Azúcar y Canela,168,120,48,0,16,5.5,False,,1920,264.0
+2025-06-17,Tuesday,Azúcar y Canela,170,130,40,0,16,5.5,False,,2080,220.0
+2025-06-18,Wednesday,Azúcar y Canela,174,120,54,0,16,5.5,False,,1920,297.0
+2025-06-19,Thursday,Azúcar y Canela,175,145,30,0,16,5.5,False,,2320,165.0
+2025-06-20,Friday,Azúcar y Canela,175,175,0,8,16,5.5,False,,2800,0.0
+2025-06-21,Saturday,Azúcar y Canela,174,174,0,59,16,5.5,False,,2784,0.0
+2025-06-22,Sunday,Azúcar y Canela,176,176,0,4,16,5.5,False,,2816,0.0
+2025-06-23,Monday,Azúcar y Canela,159,79,80,0,16,5.5,False,,1264,440.0
+2025-06-24,Tuesday,Azúcar y Canela,153,143,10,0,16,5.5,False,,2288,55.0
+2025-06-25,Wednesday,Azúcar y Canela,155,138,17,0,16,5.5,False,,2208,93.5
+2025-06-26,Thursday,Azúcar y Canela,157,132,25,0,16,5.5,False,,2112,137.5
+2025-06-27,Friday,Azúcar y Canela,155,155,0,30,16,5.5,False,,2480,0.0
+2025-06-28,Saturday,Azúcar y Canela,156,156,0,69,16,5.5,False,,2496,0.0
+2025-06-29,Sunday,Azúcar y Canela,155,155,0,43,16,5.5,False,,2480,0.0
+2025-06-30,Monday,Azúcar y Canela,157,130,27,0,16,5.5,False,Quincena,2080,148.5
+2025-07-01,Tuesday,Azúcar y Canela,164,139,25,0,16,5.5,False,Quincena,2224,137.5
+2025-07-02,Wednesday,Azúcar y Canela,164,111,53,0,16,5.5,False,,1776,291.5
+2025-07-03,Thursday,Azúcar y Canela,160,160,0,36,16,5.5,True,,2560,0.0
+2025-07-04,Friday,Azúcar y Canela,169,169,0,7,16,5.5,False,,2704,0.0
+2025-07-05,Saturday,Azúcar y Canela,168,168,0,36,16,5.5,False,,2688,0.0
+2025-07-06,Sunday,Azúcar y Canela,165,165,0,19,16,5.5,False,,2640,0.0
+2025-07-07,Monday,Azúcar y Canela,163,105,58,0,16,5.5,False,,1680,319.0
+2025-07-08,Tuesday,Azúcar y Canela,159,129,30,0,16,5.5,False,,2064,165.0
+2025-07-09,Wednesday,Azúcar y Canela,158,120,38,0,16,5.5,False,,1920,209.0
+2025-07-10,Thursday,Azúcar y Canela,159,135,24,0,16,5.5,False,,2160,132.0
+2025-07-11,Friday,Azúcar y Canela,150,150,0,47,16,5.5,False,,2400,0.0
+2025-07-12,Saturday,Azúcar y Canela,153,153,0,69,16,5.5,False,,2448,0.0
+2025-07-13,Sunday,Azúcar y Canela,156,156,0,29,16,5.5,False,,2496,0.0
+2025-07-14,Monday,Azúcar y Canela,156,82,74,0,16,5.5,False,,1312,407.0
+2025-07-15,Tuesday,Azúcar y Canela,153,115,38,0,16,5.5,False,Quincena,1840,209.0
+2025-07-16,Wednesday,Azúcar y Canela,151,151,0,18,16,5.5,True,,2416,0.0
+2025-07-17,Thursday,Azúcar y Canela,158,144,14,0,16,5.5,False,,2304,77.0
+2025-07-18,Friday,Azúcar y Canela,159,159,0,27,16,5.5,False,,2544,0.0
+2025-07-19,Saturday,Azúcar y Canela,158,158,0,23,16,5.5,False,,2528,0.0
+2025-07-20,Sunday,Azúcar y Canela,152,152,0,58,16,5.5,False,,2432,0.0
+2025-07-21,Monday,Azúcar y Canela,155,98,57,0,16,5.5,False,,1568,313.5
+2025-07-22,Tuesday,Azúcar y Canela,158,120,38,0,16,5.5,False,,1920,209.0
+2025-07-23,Wednesday,Azúcar y Canela,158,133,25,0,16,5.5,False,,2128,137.5
+2025-07-24,Thursday,Azúcar y Canela,153,148,5,0,16,5.5,False,,2368,27.5
+2025-07-25,Friday,Azúcar y Canela,154,154,0,26,16,5.5,False,,2464,0.0
+2025-07-26,Saturday,Azúcar y Canela,153,153,0,92,16,5.5,False,,2448,0.0
+2025-07-27,Sunday,Azúcar y Canela,162,162,0,115,16,5.5,True,,2592,0.0
+2025-07-28,Monday,Azúcar y Canela,172,97,75,0,16,5.5,False,,1552,412.5
+2025-07-29,Tuesday,Azúcar y Canela,171,127,44,0,16,5.5,False,,2032,242.0
+2025-07-30,Wednesday,Azúcar y Canela,172,141,31,0,16,5.5,False,Quincena,2256,170.5
+2025-07-31,Thursday,Azúcar y Canela,174,168,6,0,16,5.5,False,Quincena,2688,33.0
+2025-08-01,Friday,Azúcar y Canela,176,176,0,68,16,5.5,False,Quincena,2816,0.0
+2025-08-02,Saturday,Azúcar y Canela,186,186,0,21,16,5.5,False,,2976,0.0
+2025-08-03,Sunday,Azúcar y Canela,180,180,0,26,16,5.5,False,,2880,0.0
+2025-08-04,Monday,Azúcar y Canela,170,97,73,0,16,5.5,False,,1552,401.5
+2025-08-05,Tuesday,Azúcar y Canela,170,135,35,0,16,5.5,False,,2160,192.5
+2025-08-06,Wednesday,Azúcar y Canela,171,139,32,0,16,5.5,False,,2224,176.0
+2025-08-07,Thursday,Azúcar y Canela,171,142,29,0,16,5.5,False,,2272,159.5
+2025-08-08,Friday,Azúcar y Canela,167,167,0,101,16,5.5,True,,2672,0.0
+2025-08-09,Saturday,Azúcar y Canela,171,171,0,40,16,5.5,False,,2736,0.0
+2025-08-10,Sunday,Azúcar y Canela,171,171,0,32,16,5.5,False,,2736,0.0
+2025-08-11,Monday,Azúcar y Canela,171,84,87,0,16,5.5,False,,1344,478.5
+2025-08-12,Tuesday,Azúcar y Canela,169,123,46,0,16,5.5,False,,1968,253.0
+2025-08-13,Wednesday,Azúcar y Canela,167,132,35,0,16,5.5,False,,2112,192.5
+2025-08-14,Thursday,Azúcar y Canela,166,130,36,0,16,5.5,False,,2080,198.0
+2025-08-15,Friday,Azúcar y Canela,164,164,0,51,16,5.5,False,Quincena,2624,0.0
+2025-08-16,Saturday,Azúcar y Canela,157,157,0,55,16,5.5,False,,2512,0.0
+2025-08-17,Sunday,Azúcar y Canela,157,157,0,24,16,5.5,False,,2512,0.0
+2025-08-18,Monday,Azúcar y Canela,154,82,72,0,16,5.5,False,,1312,396.0
+2025-08-19,Tuesday,Azúcar y Canela,154,114,40,0,16,5.5,False,,1824,220.0
+2025-08-20,Wednesday,Azúcar y Canela,152,118,34,0,16,5.5,False,,1888,187.0
+2025-08-21,Thursday,Azúcar y Canela,150,150,0,2,16,5.5,False,,2400,0.0
+2025-08-22,Friday,Azúcar y Canela,153,153,0,41,16,5.5,False,,2448,0.0
+2025-08-23,Saturday,Azúcar y Canela,150,150,0,78,16,5.5,False,,2400,0.0
+2025-08-24,Sunday,Azúcar y Canela,153,153,0,37,16,5.5,False,,2448,0.0
+2025-08-25,Monday,Azúcar y Canela,154,99,55,0,16,5.5,False,,1584,302.5
+2025-08-26,Tuesday,Azúcar y Canela,156,135,21,0,16,5.5,False,,2160,115.5
+2025-08-27,Wednesday,Azúcar y Canela,159,109,50,0,16,5.5,False,,1744,275.0
+2025-08-28,Thursday,Azúcar y Canela,158,152,6,0,16,5.5,False,,2432,33.0
+2025-08-29,Friday,Azúcar y Canela,158,150,8,0,16,5.5,False,,2400,44.0
+2025-08-30,Saturday,Azúcar y Canela,152,152,0,104,16,5.5,False,Quincena,2432,0.0
+2025-08-31,Sunday,Azúcar y Canela,156,156,0,62,16,5.5,False,Quincena,2496,0.0
+2025-09-01,Monday,Azúcar y Canela,160,152,8,0,16,5.5,True,Quincena,2432,44.0
+2025-09-02,Tuesday,Azúcar y Canela,167,130,37,0,16,5.5,False,,2080,203.5
+2025-09-03,Wednesday,Azúcar y Canela,167,131,36,0,16,5.5,False,,2096,198.0
+2025-09-04,Thursday,Azúcar y Canela,170,141,29,0,16,5.5,False,,2256,159.5
+2025-09-05,Friday,Azúcar y Canela,168,168,0,25,16,5.5,False,,2688,0.0
+2025-09-06,Saturday,Azúcar y Canela,174,174,0,73,16,5.5,False,,2784,0.0
+2025-09-07,Sunday,Azúcar y Canela,173,172,1,0,16,5.5,False,,2752,5.5
+2025-09-08,Monday,Azúcar y Canela,167,99,68,0,16,5.5,False,,1584,374.0
+2025-09-09,Tuesday,Azúcar y Canela,159,110,49,0,16,5.5,False,,1760,269.5
+2025-09-10,Wednesday,Azúcar y Canela,156,128,28,0,16,5.5,False,,2048,154.0
+2025-09-11,Thursday,Azúcar y Canela,156,135,21,0,16,5.5,False,,2160,115.5
+2025-09-12,Friday,Azúcar y Canela,155,155,0,17,16,5.5,False,,2480,0.0
+2025-09-13,Saturday,Azúcar y Canela,152,152,0,77,16,5.5,False,,2432,0.0
+2025-09-14,Sunday,Azúcar y Canela,149,149,0,73,16,5.5,False,,2384,0.0
+2025-09-15,Monday,Azúcar y Canela,156,153,3,0,16,5.5,True,Quincena,2448,16.5
+2025-09-16,Tuesday,Azúcar y Canela,164,124,40,0,16,5.5,False,,1984,220.0
+2025-09-17,Wednesday,Azúcar y Canela,166,120,46,0,16,5.5,False,,1920,253.0
+2025-09-18,Thursday,Azúcar y Canela,165,139,26,0,16,5.5,False,,2224,143.0
+2025-09-19,Friday,Azúcar y Canela,166,166,0,41,16,5.5,False,,2656,0.0
+2025-09-20,Saturday,Azúcar y Canela,171,171,0,44,16,5.5,False,,2736,0.0
+2025-09-21,Sunday,Azúcar y Canela,169,169,0,24,16,5.5,False,,2704,0.0
+2025-09-22,Monday,Azúcar y Canela,164,102,62,0,16,5.5,False,,1632,341.0
+2025-09-23,Tuesday,Azúcar y Canela,157,127,30,0,16,5.5,False,,2032,165.0
+2025-09-24,Wednesday,Azúcar y Canela,158,123,35,0,16,5.5,False,,1968,192.5
+2025-09-25,Thursday,Azúcar y Canela,158,146,12,0,16,5.5,False,,2336,66.0
+2025-09-26,Friday,Azúcar y Canela,159,159,0,5,16,5.5,False,,2544,0.0
+2025-09-27,Saturday,Azúcar y Canela,153,153,0,90,16,5.5,False,,2448,0.0
+2025-09-28,Sunday,Azúcar y Canela,157,157,0,32,16,5.5,False,,2512,0.0
+2025-09-29,Monday,Azúcar y Canela,156,107,49,0,16,5.5,False,,1712,269.5
+2025-09-30,Tuesday,Azúcar y Canela,157,147,10,0,16,5.5,False,Quincena,2352,55.0
+2025-10-01,Wednesday,Azúcar y Canela,160,133,27,0,16,5.5,False,Quincena,2128,148.5
+2025-10-02,Thursday,Azúcar y Canela,161,141,20,0,16,5.5,False,,2256,110.0
+2025-10-03,Friday,Azúcar y Canela,161,161,0,29,16,5.5,False,,2576,0.0
+2025-10-04,Saturday,Azúcar y Canela,164,164,0,74,16,5.5,False,,2624,0.0
+2025-10-05,Sunday,Azúcar y Canela,164,164,0,45,16,5.5,False,,2624,0.0
+2025-10-06,Monday,Azúcar y Canela,166,95,71,0,16,5.5,False,,1520,390.5
+2025-10-07,Tuesday,Azúcar y Canela,165,110,55,0,16,5.5,False,,1760,302.5
+2025-10-08,Wednesday,Azúcar y Canela,159,141,18,0,16,5.5,False,,2256,99.0
+2025-10-09,Thursday,Azúcar y Canela,161,161,0,8,16,5.5,False,,2576,0.0
+2025-10-10,Friday,Azúcar y Canela,165,165,0,82,16,5.5,True,,2640,0.0
+2025-10-11,Saturday,Azúcar y Canela,173,173,0,45,16,5.5,False,,2768,0.0
+2025-10-12,Sunday,Azúcar y Canela,170,170,0,27,16,5.5,False,,2720,0.0
+2025-10-13,Monday,Azúcar y Canela,168,96,72,0,16,5.5,False,,1536,396.0
+2025-10-14,Tuesday,Azúcar y Canela,168,141,27,0,16,5.5,False,,2256,148.5
+2025-10-15,Wednesday,Azúcar y Canela,173,145,28,0,16,5.5,False,Quincena,2320,154.0
+2025-10-16,Thursday,Azúcar y Canela,173,138,35,0,16,5.5,False,,2208,192.5
+2025-10-17,Friday,Azúcar y Canela,169,169,0,41,16,5.5,False,,2704,0.0
+2025-10-18,Saturday,Azúcar y Canela,164,164,0,37,16,5.5,False,,2624,0.0
+2025-10-19,Sunday,Azúcar y Canela,161,161,0,36,16,5.5,False,,2576,0.0
+2025-10-20,Monday,Azúcar y Canela,161,96,65,0,16,5.5,False,,1536,357.5
+2025-10-21,Tuesday,Azúcar y Canela,161,128,33,0,16,5.5,False,,2048,181.5
+2025-10-22,Wednesday,Azúcar y Canela,159,124,35,0,16,5.5,False,,1984,192.5
+2025-10-23,Thursday,Azúcar y Canela,156,142,14,0,16,5.5,False,,2272,77.0
+2025-10-24,Friday,Azúcar y Canela,157,157,0,13,16,5.5,False,,2512,0.0
+2025-10-25,Saturday,Azúcar y Canela,151,151,0,85,16,5.5,False,,2416,0.0
+2025-10-26,Sunday,Azúcar y Canela,156,156,0,52,16,5.5,False,,2496,0.0
+2025-10-27,Monday,Azúcar y Canela,158,103,55,0,16,5.5,False,,1648,302.5
+2025-10-28,Tuesday,Azúcar y Canela,159,123,36,0,16,5.5,False,,1968,198.0
+2025-10-29,Wednesday,Azúcar y Canela,158,132,26,0,16,5.5,False,,2112,143.0
+2025-10-30,Thursday,Azúcar y Canela,159,159,0,22,16,5.5,False,Quincena,2544,0.0
+2025-10-31,Friday,Azúcar y Canela,165,165,0,64,16,5.5,False,Quincena,2640,0.0
+2025-11-01,Saturday,Azúcar y Canela,173,173,0,103,16,5.5,False,Quincena,2768,0.0
+2025-11-02,Sunday,Azúcar y Canela,179,179,0,23,16,5.5,False,,2864,0.0
+2025-11-03,Monday,Azúcar y Canela,178,131,47,0,16,5.5,False,,2096,258.5
+2025-11-04,Tuesday,Azúcar y Canela,182,118,64,0,16,5.5,False,,1888,352.0
+2025-11-05,Wednesday,Azúcar y Canela,181,146,35,0,16,5.5,False,,2336,192.5
+2025-11-06,Thursday,Azúcar y Canela,183,139,44,0,16,5.5,False,,2224,242.0
+2025-11-07,Friday,Azúcar y Canela,177,170,7,0,16,5.5,False,,2720,38.5
+2025-11-08,Saturday,Azúcar y Canela,169,169,0,33,16,5.5,False,,2704,0.0
+2025-11-09,Sunday,Azúcar y Canela,158,158,0,43,16,5.5,False,,2528,0.0
+2025-11-10,Monday,Azúcar y Canela,158,110,48,0,16,5.5,False,,1760,264.0
+2025-11-11,Tuesday,Azúcar y Canela,155,131,24,0,16,5.5,False,,2096,132.0
+2025-11-12,Wednesday,Azúcar y Canela,157,143,14,0,16,5.5,False,,2288,77.0
+2025-11-13,Thursday,Azúcar y Canela,157,157,0,9,16,5.5,False,,2512,0.0
+2025-11-14,Friday,Azúcar y Canela,160,160,0,34,16,5.5,False,,2560,0.0
+2025-11-15,Saturday,Azúcar y Canela,164,164,0,82,16,5.5,False,Quincena,2624,0.0
+2025-11-16,Sunday,Azúcar y Canela,170,170,0,46,16,5.5,False,,2720,0.0
+2025-11-17,Monday,Azúcar y Canela,172,118,54,0,16,5.5,False,,1888,297.0
+2025-11-18,Tuesday,Azúcar y Canela,173,143,30,0,16,5.5,False,,2288,165.0
+2025-11-19,Wednesday,Azúcar y Canela,175,127,48,0,16,5.5,False,,2032,264.0
+2025-11-20,Thursday,Azúcar y Canela,173,145,28,0,16,5.5,False,,2320,154.0
+2025-11-21,Friday,Azúcar y Canela,170,170,0,65,16,5.5,False,,2720,0.0
+2025-11-22,Saturday,Azúcar y Canela,176,176,0,95,16,5.5,False,,2816,0.0
+2025-11-23,Sunday,Azúcar y Canela,179,179,0,23,16,5.5,False,,2864,0.0
+2025-11-24,Monday,Azúcar y Canela,177,106,71,0,16,5.5,False,,1696,390.5
+2025-11-25,Tuesday,Azúcar y Canela,176,124,52,0,16,5.5,False,,1984,286.0
+2025-11-26,Wednesday,Azúcar y Canela,173,113,60,0,16,5.5,False,,1808,330.0
+2025-11-27,Thursday,Azúcar y Canela,171,146,25,0,16,5.5,False,,2336,137.5
+2025-11-28,Friday,Azúcar y Canela,171,171,0,30,16,5.5,False,,2736,0.0
+2025-11-29,Saturday,Azúcar y Canela,166,166,0,103,16,5.5,True,,2656,0.0
+2025-11-30,Sunday,Azúcar y Canela,166,166,0,76,16,5.5,False,Quincena,2656,0.0
+2025-12-01,Monday,Azúcar y Canela,172,104,68,0,16,5.5,False,Quincena,1664,374.0
+2025-12-02,Tuesday,Azúcar y Canela,171,141,30,0,16,5.5,False,,2256,165.0
+2025-12-03,Wednesday,Azúcar y Canela,174,126,48,0,16,5.5,False,,2016,264.0
+2025-12-04,Thursday,Azúcar y Canela,176,155,21,0,16,5.5,False,,2480,115.5
+2025-12-05,Friday,Azúcar y Canela,177,177,0,8,16,5.5,False,,2832,0.0
+2025-12-06,Saturday,Azúcar y Canela,175,175,0,24,16,5.5,False,,2800,0.0
+2025-12-07,Sunday,Azúcar y Canela,165,165,0,16,16,5.5,False,,2640,0.0
+2025-12-08,Monday,Azúcar y Canela,156,97,59,0,16,5.5,False,,1552,324.5
+2025-12-09,Tuesday,Azúcar y Canela,155,123,32,0,16,5.5,False,,1968,176.0
+2025-12-10,Wednesday,Azúcar y Canela,152,135,17,0,16,5.5,False,,2160,93.5
+2025-12-11,Thursday,Azúcar y Canela,154,154,0,1,16,5.5,False,,2464,0.0
+2025-12-12,Friday,Azúcar y Canela,154,154,0,54,16,5.5,False,,2464,0.0
+2025-12-13,Saturday,Azúcar y Canela,157,157,0,89,16,5.5,False,,2512,0.0
+2025-12-14,Sunday,Azúcar y Canela,164,164,0,126,16,5.5,True,,2624,0.0
+2025-12-15,Monday,Azúcar y Canela,179,91,88,0,16,5.5,False,Quincena,1456,484.0
+2025-12-16,Tuesday,Azúcar y Canela,178,125,53,0,16,5.5,False,,2000,291.5
+2025-12-17,Wednesday,Azúcar y Canela,179,148,31,0,16,5.5,False,,2368,170.5
+2025-12-18,Thursday,Azúcar y Canela,180,144,36,0,16,5.5,False,,2304,198.0
+2025-12-19,Friday,Azúcar y Canela,179,179,0,13,16,5.5,False,,2864,0.0
+2025-12-20,Saturday,Azúcar y Canela,177,177,0,67,16,5.5,False,,2832,0.0
+2025-12-21,Sunday,Azúcar y Canela,176,176,0,18,16,5.5,False,,2816,0.0
+2025-12-22,Monday,Azúcar y Canela,163,102,61,0,16,5.5,False,,1632,335.5
+2025-12-23,Tuesday,Azúcar y Canela,164,135,29,0,16,5.5,False,,2160,159.5
+2025-12-24,Wednesday,Azúcar y Canela,166,142,24,0,16,5.5,False,,2272,132.0
+2025-12-25,Thursday,Azúcar y Canela,165,165,0,17,16,5.5,False,,2640,0.0
+2025-12-26,Friday,Azúcar y Canela,170,170,0,19,16,5.5,False,,2720,0.0
+2025-12-27,Saturday,Azúcar y Canela,170,170,0,46,16,5.5,False,,2720,0.0
+2025-12-28,Sunday,Azúcar y Canela,166,166,0,35,16,5.5,False,,2656,0.0
+2025-12-29,Monday,Azúcar y Canela,167,133,34,0,16,5.5,True,,2128,187.0
+2025-12-30,Tuesday,Azúcar y Canela,171,162,9,0,16,5.5,False,Quincena,2592,49.5
+2025-12-31,Wednesday,Azúcar y Canela,175,175,0,25,16,5.5,True,Quincena,2800,0.0
+2025-01-01,Wednesday,Fresa Rellena,110,105,5,0,24,9.0,False,Quincena,2520,45.0
+2025-01-02,Thursday,Fresa Rellena,105,105,0,3,24,9.0,False,,2520,0.0
+2025-01-03,Friday,Fresa Rellena,106,106,0,34,24,9.0,False,,2544,0.0
+2025-01-04,Saturday,Fresa Rellena,118,118,0,34,24,9.0,False,,2832,0.0
+2025-01-05,Sunday,Fresa Rellena,126,126,0,10,24,9.0,False,,3024,0.0
+2025-01-06,Monday,Fresa Rellena,128,73,55,0,24,9.0,False,,1752,495.0
+2025-01-07,Tuesday,Fresa Rellena,119,97,22,0,24,9.0,False,,2328,198.0
+2025-01-08,Wednesday,Fresa Rellena,116,89,27,0,24,9.0,False,,2136,243.0
+2025-01-09,Thursday,Fresa Rellena,114,114,0,101,24,9.0,False,Día de la Policía,2736,0.0
+2025-01-10,Friday,Fresa Rellena,129,129,0,26,24,9.0,False,,3096,0.0
+2025-01-11,Saturday,Fresa Rellena,131,131,0,11,24,9.0,False,,3144,0.0
+2025-01-12,Sunday,Fresa Rellena,130,130,0,41,24,9.0,False,,3120,0.0
+2025-01-13,Monday,Fresa Rellena,135,72,63,0,24,9.0,False,,1728,567.0
+2025-01-14,Tuesday,Fresa Rellena,134,82,52,0,24,9.0,False,,1968,468.0
+2025-01-15,Wednesday,Fresa Rellena,132,98,34,0,24,9.0,False,Quincena,2352,306.0
+2025-01-16,Thursday,Fresa Rellena,134,92,42,0,24,9.0,False,,2208,378.0
+2025-01-17,Friday,Fresa Rellena,116,116,0,62,24,9.0,True,,2784,0.0
+2025-01-18,Saturday,Fresa Rellena,119,119,0,46,24,9.0,False,,2856,0.0
+2025-01-19,Sunday,Fresa Rellena,123,123,0,29,24,9.0,False,,2952,0.0
+2025-01-20,Monday,Fresa Rellena,120,78,42,0,24,9.0,False,,1872,378.0
+2025-01-21,Tuesday,Fresa Rellena,121,77,44,0,24,9.0,False,,1848,396.0
+2025-01-22,Wednesday,Fresa Rellena,120,86,34,0,24,9.0,False,,2064,306.0
+2025-01-23,Thursday,Fresa Rellena,118,106,12,0,24,9.0,False,,2544,108.0
+2025-01-24,Friday,Fresa Rellena,120,120,0,41,24,9.0,False,,2880,0.0
+2025-01-25,Saturday,Fresa Rellena,118,118,0,48,24,9.0,False,,2832,0.0
+2025-01-26,Sunday,Fresa Rellena,118,118,0,23,24,9.0,False,,2832,0.0
+2025-01-27,Monday,Fresa Rellena,116,71,45,0,24,9.0,False,,1704,405.0
+2025-01-28,Tuesday,Fresa Rellena,115,83,32,0,24,9.0,False,,1992,288.0
+2025-01-29,Wednesday,Fresa Rellena,116,98,18,0,24,9.0,False,,2352,162.0
+2025-01-30,Thursday,Fresa Rellena,118,118,0,1,24,9.0,False,Quincena,2832,0.0
+2025-01-31,Friday,Fresa Rellena,120,120,0,53,24,9.0,False,Quincena,2880,0.0
+2025-02-01,Saturday,Fresa Rellena,122,122,0,115,24,9.0,True,Quincena,2928,0.0
+2025-02-02,Sunday,Fresa Rellena,132,129,3,0,24,9.0,False,,3096,27.0
+2025-02-03,Monday,Fresa Rellena,130,62,68,0,24,9.0,False,,1488,612.0
+2025-02-04,Tuesday,Fresa Rellena,129,87,42,0,24,9.0,False,,2088,378.0
+2025-02-05,Wednesday,Fresa Rellena,129,92,37,0,24,9.0,False,,2208,333.0
+2025-02-06,Thursday,Fresa Rellena,128,97,31,0,24,9.0,False,,2328,279.0
+2025-02-07,Friday,Fresa Rellena,125,125,0,11,24,9.0,False,,3000,0.0
+2025-02-08,Saturday,Fresa Rellena,120,120,0,45,24,9.0,False,,2880,0.0
+2025-02-09,Sunday,Fresa Rellena,110,110,0,26,24,9.0,False,,2640,0.0
+2025-02-10,Monday,Fresa Rellena,111,66,45,0,24,9.0,False,,1584,405.0
+2025-02-11,Tuesday,Fresa Rellena,111,78,33,0,24,9.0,False,,1872,297.0
+2025-02-12,Wednesday,Fresa Rellena,110,86,24,0,24,9.0,False,,2064,216.0
+2025-02-13,Thursday,Fresa Rellena,109,108,1,0,24,9.0,False,,2592,9.0
+2025-02-14,Friday,Fresa Rellena,111,111,0,30,24,9.0,False,,2664,0.0
+2025-02-15,Saturday,Fresa Rellena,111,111,0,62,24,9.0,False,Quincena,2664,0.0
+2025-02-16,Sunday,Fresa Rellena,113,113,0,41,24,9.0,False,,2712,0.0
+2025-02-17,Monday,Fresa Rellena,115,74,41,0,24,9.0,False,,1776,369.0
+2025-02-18,Tuesday,Fresa Rellena,116,79,37,0,24,9.0,False,,1896,333.0
+2025-02-19,Wednesday,Fresa Rellena,116,102,14,0,24,9.0,False,,2448,126.0
+2025-02-20,Thursday,Fresa Rellena,119,94,25,0,24,9.0,False,,2256,225.0
+2025-02-21,Friday,Fresa Rellena,117,117,0,15,24,9.0,False,,2808,0.0
+2025-02-22,Saturday,Fresa Rellena,115,115,0,60,24,9.0,False,,2760,0.0
+2025-02-23,Sunday,Fresa Rellena,116,116,0,18,24,9.0,False,,2784,0.0
+2025-02-24,Monday,Fresa Rellena,113,76,37,0,24,9.0,False,,1824,333.0
+2025-02-25,Tuesday,Fresa Rellena,113,106,7,0,24,9.0,False,,2544,63.0
+2025-02-26,Wednesday,Fresa Rellena,117,95,22,0,24,9.0,False,,2280,198.0
+2025-02-27,Thursday,Fresa Rellena,116,116,0,0,24,9.0,False,,2784,0.0
+2025-02-28,Friday,Fresa Rellena,119,119,0,6,24,9.0,False,,2856,0.0
+2025-03-01,Saturday,Fresa Rellena,118,118,0,122,24,9.0,True,Quincena,2832,0.0
+2025-03-02,Sunday,Fresa Rellena,127,127,0,20,24,9.0,False,,3048,0.0
+2025-03-03,Monday,Fresa Rellena,129,68,61,0,24,9.0,False,,1632,549.0
+2025-03-04,Tuesday,Fresa Rellena,128,68,60,0,24,9.0,False,,1632,540.0
+2025-03-05,Wednesday,Fresa Rellena,123,94,29,0,24,9.0,False,,2256,261.0
+2025-03-06,Thursday,Fresa Rellena,123,114,9,0,24,9.0,False,,2736,81.0
+2025-03-07,Friday,Fresa Rellena,122,122,0,44,24,9.0,False,,2928,0.0
+2025-03-08,Saturday,Fresa Rellena,128,128,0,42,24,9.0,False,,3072,0.0
+2025-03-09,Sunday,Fresa Rellena,118,118,0,37,24,9.0,False,,2832,0.0
+2025-03-10,Monday,Fresa Rellena,119,77,42,0,24,9.0,False,,1848,378.0
+2025-03-11,Tuesday,Fresa Rellena,121,88,33,0,24,9.0,False,,2112,297.0
+2025-03-12,Wednesday,Fresa Rellena,123,93,30,0,24,9.0,False,,2232,270.0
+2025-03-13,Thursday,Fresa Rellena,123,114,9,0,24,9.0,False,,2736,81.0
+2025-03-14,Friday,Fresa Rellena,123,123,0,36,24,9.0,False,,2952,0.0
+2025-03-15,Saturday,Fresa Rellena,122,122,0,73,24,9.0,False,Quincena,2928,0.0
+2025-03-16,Sunday,Fresa Rellena,126,126,0,27,24,9.0,False,,3024,0.0
+2025-03-17,Monday,Fresa Rellena,126,65,61,0,24,9.0,False,,1560,549.0
+2025-03-18,Tuesday,Fresa Rellena,124,77,47,0,24,9.0,False,,1848,423.0
+2025-03-19,Wednesday,Fresa Rellena,122,114,8,0,24,9.0,False,,2736,72.0
+2025-03-20,Thursday,Fresa Rellena,125,110,15,0,24,9.0,False,,2640,135.0
+2025-03-21,Friday,Fresa Rellena,125,125,0,13,24,9.0,False,,3000,0.0
+2025-03-22,Saturday,Fresa Rellena,122,122,0,45,24,9.0,False,,2928,0.0
+2025-03-23,Sunday,Fresa Rellena,118,118,0,23,24,9.0,False,,2832,0.0
+2025-03-24,Monday,Fresa Rellena,116,78,38,0,24,9.0,False,,1872,342.0
+2025-03-25,Tuesday,Fresa Rellena,118,83,35,0,24,9.0,False,,1992,315.0
+2025-03-26,Wednesday,Fresa Rellena,119,105,14,0,24,9.0,False,,2520,126.0
+2025-03-27,Thursday,Fresa Rellena,117,117,0,2,24,9.0,False,,2808,0.0
+2025-03-28,Friday,Fresa Rellena,119,119,0,22,24,9.0,False,,2856,0.0
+2025-03-29,Saturday,Fresa Rellena,119,119,0,50,24,9.0,False,,2856,0.0
+2025-03-30,Sunday,Fresa Rellena,119,119,0,60,24,9.0,False,Quincena,2856,0.0
+2025-03-31,Monday,Fresa Rellena,125,90,35,0,24,9.0,False,Quincena,2160,315.0
+2025-04-01,Tuesday,Fresa Rellena,127,112,15,0,24,9.0,False,Quincena,2688,135.0
+2025-04-02,Wednesday,Fresa Rellena,131,107,24,0,24,9.0,False,,2568,216.0
+2025-04-03,Thursday,Fresa Rellena,131,113,18,0,24,9.0,False,,2712,162.0
+2025-04-04,Friday,Fresa Rellena,130,130,0,13,24,9.0,False,,3120,0.0
+2025-04-05,Saturday,Fresa Rellena,130,130,0,41,24,9.0,False,,3120,0.0
+2025-04-06,Sunday,Fresa Rellena,131,131,0,9,24,9.0,False,,3144,0.0
+2025-04-07,Monday,Fresa Rellena,125,61,64,0,24,9.0,False,,1464,576.0
+2025-04-08,Tuesday,Fresa Rellena,121,96,25,0,24,9.0,False,,2304,225.0
+2025-04-09,Wednesday,Fresa Rellena,119,98,21,0,24,9.0,False,,2352,189.0
+2025-04-10,Thursday,Fresa Rellena,117,117,0,1,24,9.0,False,,2808,0.0
+2025-04-11,Friday,Fresa Rellena,118,118,0,25,24,9.0,False,,2832,0.0
+2025-04-12,Saturday,Fresa Rellena,118,118,0,37,24,9.0,False,,2832,0.0
+2025-04-13,Sunday,Fresa Rellena,116,116,0,50,24,9.0,False,,2784,0.0
+2025-04-14,Monday,Fresa Rellena,120,76,44,0,24,9.0,False,,1824,396.0
+2025-04-15,Tuesday,Fresa Rellena,122,88,34,0,24,9.0,False,Quincena,2112,306.0
+2025-04-16,Wednesday,Fresa Rellena,121,99,22,0,24,9.0,False,,2376,198.0
+2025-04-17,Thursday,Fresa Rellena,121,106,15,0,24,9.0,False,,2544,135.0
+2025-04-18,Friday,Fresa Rellena,119,119,0,26,24,9.0,False,,2856,0.0
+2025-04-19,Saturday,Fresa Rellena,119,119,0,61,24,9.0,False,,2856,0.0
+2025-04-20,Sunday,Fresa Rellena,123,123,0,126,24,9.0,False,Feria Local de Primavera,2952,0.0
+2025-04-21,Monday,Fresa Rellena,135,104,31,0,24,9.0,False,Feria Local de Primavera,2496,279.0
+2025-04-22,Tuesday,Fresa Rellena,139,139,0,18,24,9.0,False,Feria Local de Primavera,3336,0.0
+2025-04-23,Wednesday,Fresa Rellena,149,149,0,14,24,9.0,False,Feria Local de Primavera,3576,0.0
+2025-04-24,Thursday,Fresa Rellena,158,158,0,12,24,9.0,False,Feria Local de Primavera,3792,0.0
+2025-04-25,Friday,Fresa Rellena,167,167,0,117,24,9.0,False,Feria Local de Primavera,4008,0.0
+2025-04-26,Saturday,Fresa Rellena,187,187,0,74,24,9.0,False,Feria Local de Primavera,4488,0.0
+2025-04-27,Sunday,Fresa Rellena,198,198,0,70,24,9.0,False,Feria Local de Primavera,4752,0.0
+2025-04-28,Monday,Fresa Rellena,201,134,67,0,24,9.0,False,Feria Local de Primavera,3216,603.0
+2025-04-29,Tuesday,Fresa Rellena,205,152,53,0,24,9.0,False,Feria Local de Primavera,3648,477.0
+2025-04-30,Wednesday,Fresa Rellena,205,146,59,0,24,9.0,False,Feria Local de Primavera,3504,531.0
+2025-05-01,Thursday,Fresa Rellena,202,115,87,0,24,9.0,False,Quincena,2760,783.0
+2025-05-02,Friday,Fresa Rellena,194,156,38,0,24,9.0,False,,3744,342.0
+2025-05-03,Saturday,Fresa Rellena,176,161,15,0,24,9.0,False,,3864,135.0
+2025-05-04,Sunday,Fresa Rellena,162,161,1,0,24,9.0,False,,3864,9.0
+2025-05-05,Monday,Fresa Rellena,146,76,70,0,24,9.0,False,,1824,630.0
+2025-05-06,Tuesday,Fresa Rellena,138,89,49,0,24,9.0,False,,2136,441.0
+2025-05-07,Wednesday,Fresa Rellena,129,105,24,0,24,9.0,False,,2520,216.0
+2025-05-08,Thursday,Fresa Rellena,123,107,16,0,24,9.0,False,,2568,144.0
+2025-05-09,Friday,Fresa Rellena,122,121,1,0,24,9.0,False,,2904,9.0
+2025-05-10,Saturday,Fresa Rellena,117,117,0,47,24,9.0,False,,2808,0.0
+2025-05-11,Sunday,Fresa Rellena,118,118,0,27,24,9.0,False,,2832,0.0
+2025-05-12,Monday,Fresa Rellena,115,82,33,0,24,9.0,False,,1968,297.0
+2025-05-13,Tuesday,Fresa Rellena,116,94,22,0,24,9.0,False,,2256,198.0
+2025-05-14,Wednesday,Fresa Rellena,117,96,21,0,24,9.0,False,,2304,189.0
+2025-05-15,Thursday,Fresa Rellena,116,116,0,14,24,9.0,False,Quincena,2784,0.0
+2025-05-16,Friday,Fresa Rellena,119,119,0,15,24,9.0,False,,2856,0.0
+2025-05-17,Saturday,Fresa Rellena,121,121,0,41,24,9.0,False,,2904,0.0
+2025-05-18,Sunday,Fresa Rellena,120,120,0,54,24,9.0,False,,2880,0.0
+2025-05-19,Monday,Fresa Rellena,125,77,48,0,24,9.0,False,,1848,432.0
+2025-05-20,Tuesday,Fresa Rellena,124,105,19,0,24,9.0,False,,2520,171.0
+2025-05-21,Wednesday,Fresa Rellena,125,104,21,0,24,9.0,False,,2496,189.0
+2025-05-22,Thursday,Fresa Rellena,127,96,31,0,24,9.0,False,,2304,279.0
+2025-05-23,Friday,Fresa Rellena,122,122,0,20,24,9.0,False,,2928,0.0
+2025-05-24,Saturday,Fresa Rellena,123,123,0,45,24,9.0,False,,2952,0.0
+2025-05-25,Sunday,Fresa Rellena,124,124,0,8,24,9.0,False,,2976,0.0
+2025-05-26,Monday,Fresa Rellena,118,62,56,0,24,9.0,False,,1488,504.0
+2025-05-27,Tuesday,Fresa Rellena,116,81,35,0,24,9.0,False,,1944,315.0
+2025-05-28,Wednesday,Fresa Rellena,112,99,13,0,24,9.0,False,,2376,117.0
+2025-05-29,Thursday,Fresa Rellena,111,111,0,5,24,9.0,False,,2664,0.0
+2025-05-30,Friday,Fresa Rellena,114,114,0,75,24,9.0,False,Quincena,2736,0.0
+2025-05-31,Saturday,Fresa Rellena,121,121,0,88,24,9.0,False,Quincena,2904,0.0
+2025-06-01,Sunday,Fresa Rellena,127,127,0,71,24,9.0,False,Quincena,3048,0.0
+2025-06-02,Monday,Fresa Rellena,136,82,54,0,24,9.0,False,,1968,486.0
+2025-06-03,Tuesday,Fresa Rellena,139,78,61,0,24,9.0,False,,1872,549.0
+2025-06-04,Wednesday,Fresa Rellena,139,97,42,0,24,9.0,False,,2328,378.0
+2025-06-05,Thursday,Fresa Rellena,138,120,18,0,24,9.0,False,,2880,162.0
+2025-06-06,Friday,Fresa Rellena,139,139,0,228,24,9.0,False,Día Nacional de la Dona,3336,0.0
+2025-06-07,Saturday,Fresa Rellena,164,164,0,28,24,9.0,False,,3936,0.0
+2025-06-08,Sunday,Fresa Rellena,162,153,9,0,24,9.0,False,,3672,81.0
+2025-06-09,Monday,Fresa Rellena,156,80,76,0,24,9.0,False,,1920,684.0
+2025-06-10,Tuesday,Fresa Rellena,155,94,61,0,24,9.0,False,,2256,549.0
+2025-06-11,Wednesday,Fresa Rellena,158,103,55,0,24,9.0,False,,2472,495.0
+2025-06-12,Thursday,Fresa Rellena,158,102,56,0,24,9.0,False,,2448,504.0
+2025-06-13,Friday,Fresa Rellena,156,155,1,0,24,9.0,False,,3720,9.0
+2025-06-14,Saturday,Fresa Rellena,126,126,0,49,24,9.0,False,,3024,0.0
+2025-06-15,Sunday,Fresa Rellena,123,123,0,16,24,9.0,False,Quincena,2952,0.0
+2025-06-16,Monday,Fresa Rellena,121,86,35,0,24,9.0,False,,2064,315.0
+2025-06-17,Tuesday,Fresa Rellena,122,90,32,0,24,9.0,False,,2160,288.0
+2025-06-18,Wednesday,Fresa Rellena,121,102,19,0,24,9.0,False,,2448,171.0
+2025-06-19,Thursday,Fresa Rellena,121,119,2,0,24,9.0,False,,2856,18.0
+2025-06-20,Friday,Fresa Rellena,124,124,0,24,24,9.0,False,,2976,0.0
+2025-06-21,Saturday,Fresa Rellena,123,123,0,68,24,9.0,False,,2952,0.0
+2025-06-22,Sunday,Fresa Rellena,125,125,0,37,24,9.0,False,,3000,0.0
+2025-06-23,Monday,Fresa Rellena,128,105,23,0,24,9.0,True,,2520,207.0
+2025-06-24,Tuesday,Fresa Rellena,131,96,35,0,24,9.0,False,,2304,315.0
+2025-06-25,Wednesday,Fresa Rellena,132,105,27,0,24,9.0,False,,2520,243.0
+2025-06-26,Thursday,Fresa Rellena,132,106,26,0,24,9.0,False,,2544,234.0
+2025-06-27,Friday,Fresa Rellena,130,130,0,1,24,9.0,False,,3120,0.0
+2025-06-28,Saturday,Fresa Rellena,128,128,0,33,24,9.0,False,,3072,0.0
+2025-06-29,Sunday,Fresa Rellena,124,124,0,15,24,9.0,False,,2976,0.0
+2025-06-30,Monday,Fresa Rellena,120,120,0,2,24,9.0,True,Quincena,2880,0.0
+2025-07-01,Tuesday,Fresa Rellena,123,98,25,0,24,9.0,False,Quincena,2352,225.0
+2025-07-02,Wednesday,Fresa Rellena,123,92,31,0,24,9.0,False,,2208,279.0
+2025-07-03,Thursday,Fresa Rellena,121,117,4,0,24,9.0,False,,2808,36.0
+2025-07-04,Friday,Fresa Rellena,123,123,0,6,24,9.0,False,,2952,0.0
+2025-07-05,Saturday,Fresa Rellena,123,123,0,59,24,9.0,False,,2952,0.0
+2025-07-06,Sunday,Fresa Rellena,126,126,0,13,24,9.0,False,,3024,0.0
+2025-07-07,Monday,Fresa Rellena,126,77,49,0,24,9.0,False,,1848,441.0
+2025-07-08,Tuesday,Fresa Rellena,119,111,8,0,24,9.0,False,,2664,72.0
+2025-07-09,Wednesday,Fresa Rellena,121,95,26,0,24,9.0,False,,2280,234.0
+2025-07-10,Thursday,Fresa Rellena,121,102,19,0,24,9.0,False,,2448,171.0
+2025-07-11,Friday,Fresa Rellena,119,119,0,43,24,9.0,False,,2856,0.0
+2025-07-12,Saturday,Fresa Rellena,124,124,0,36,24,9.0,False,,2976,0.0
+2025-07-13,Sunday,Fresa Rellena,121,121,0,8,24,9.0,False,,2904,0.0
+2025-07-14,Monday,Fresa Rellena,119,81,38,0,24,9.0,False,,1944,342.0
+2025-07-15,Tuesday,Fresa Rellena,120,106,14,0,24,9.0,False,Quincena,2544,126.0
+2025-07-16,Wednesday,Fresa Rellena,119,112,7,0,24,9.0,False,,2688,63.0
+2025-07-17,Thursday,Fresa Rellena,122,122,0,1,24,9.0,False,,2928,0.0
+2025-07-18,Friday,Fresa Rellena,125,125,0,20,24,9.0,False,,3000,0.0
+2025-07-19,Saturday,Fresa Rellena,122,122,0,51,24,9.0,False,,2928,0.0
+2025-07-20,Sunday,Fresa Rellena,124,124,0,27,24,9.0,False,,2976,0.0
+2025-07-21,Monday,Fresa Rellena,127,72,55,0,24,9.0,False,,1728,495.0
+2025-07-22,Tuesday,Fresa Rellena,126,87,39,0,24,9.0,False,,2088,351.0
+2025-07-23,Wednesday,Fresa Rellena,123,86,37,0,24,9.0,False,,2064,333.0
+2025-07-24,Thursday,Fresa Rellena,120,105,15,0,24,9.0,False,,2520,135.0
+2025-07-25,Friday,Fresa Rellena,117,117,0,23,24,9.0,False,,2808,0.0
+2025-07-26,Saturday,Fresa Rellena,116,116,0,49,24,9.0,False,,2784,0.0
+2025-07-27,Sunday,Fresa Rellena,115,115,0,45,24,9.0,False,,2760,0.0
+2025-07-28,Monday,Fresa Rellena,116,84,32,0,24,9.0,False,,2016,288.0
+2025-07-29,Tuesday,Fresa Rellena,118,90,28,0,24,9.0,False,,2160,252.0
+2025-07-30,Wednesday,Fresa Rellena,119,119,0,8,24,9.0,False,Quincena,2856,0.0
+2025-07-31,Thursday,Fresa Rellena,124,123,1,0,24,9.0,False,Quincena,2952,9.0
+2025-08-01,Friday,Fresa Rellena,127,127,0,74,24,9.0,False,Quincena,3048,0.0
+2025-08-02,Saturday,Fresa Rellena,136,136,0,15,24,9.0,False,,3264,0.0
+2025-08-03,Sunday,Fresa Rellena,134,134,0,19,24,9.0,False,,3216,0.0
+2025-08-04,Monday,Fresa Rellena,133,77,56,0,24,9.0,False,,1848,504.0
+2025-08-05,Tuesday,Fresa Rellena,132,92,40,0,24,9.0,False,,2208,360.0
+2025-08-06,Wednesday,Fresa Rellena,132,92,40,0,24,9.0,False,,2208,360.0
+2025-08-07,Thursday,Fresa Rellena,127,112,15,0,24,9.0,False,,2688,135.0
+2025-08-08,Friday,Fresa Rellena,125,125,0,11,24,9.0,False,,3000,0.0
+2025-08-09,Saturday,Fresa Rellena,116,116,0,70,24,9.0,False,,2784,0.0
+2025-08-10,Sunday,Fresa Rellena,121,121,0,55,24,9.0,False,,2904,0.0
+2025-08-11,Monday,Fresa Rellena,124,76,48,0,24,9.0,False,,1824,432.0
+2025-08-12,Tuesday,Fresa Rellena,124,96,28,0,24,9.0,False,,2304,252.0
+2025-08-13,Wednesday,Fresa Rellena,125,105,20,0,24,9.0,False,,2520,180.0
+2025-08-14,Thursday,Fresa Rellena,127,113,14,0,24,9.0,False,,2712,126.0
+2025-08-15,Friday,Fresa Rellena,127,127,0,26,24,9.0,False,Quincena,3048,0.0
+2025-08-16,Saturday,Fresa Rellena,129,129,0,67,24,9.0,False,,3096,0.0
+2025-08-17,Sunday,Fresa Rellena,131,131,0,28,24,9.0,False,,3144,0.0
+2025-08-18,Monday,Fresa Rellena,128,78,50,0,24,9.0,False,,1872,450.0
+2025-08-19,Tuesday,Fresa Rellena,129,102,27,0,24,9.0,False,,2448,243.0
+2025-08-20,Wednesday,Fresa Rellena,129,100,29,0,24,9.0,False,,2400,261.0
+2025-08-21,Thursday,Fresa Rellena,129,121,8,0,24,9.0,False,,2904,72.0
+2025-08-22,Friday,Fresa Rellena,130,130,0,32,24,9.0,False,,3120,0.0
+2025-08-23,Saturday,Fresa Rellena,131,131,0,36,24,9.0,False,,3144,0.0
+2025-08-24,Sunday,Fresa Rellena,127,127,0,32,24,9.0,False,,3048,0.0
+2025-08-25,Monday,Fresa Rellena,127,88,39,0,24,9.0,False,,2112,351.0
+2025-08-26,Tuesday,Fresa Rellena,128,87,41,0,24,9.0,False,,2088,369.0
+2025-08-27,Wednesday,Fresa Rellena,126,98,28,0,24,9.0,False,,2352,252.0
+2025-08-28,Thursday,Fresa Rellena,126,111,15,0,24,9.0,False,,2664,135.0
+2025-08-29,Friday,Fresa Rellena,125,125,0,33,24,9.0,False,,3000,0.0
+2025-08-30,Saturday,Fresa Rellena,124,124,0,85,24,9.0,False,Quincena,2976,0.0
+2025-08-31,Sunday,Fresa Rellena,130,130,0,48,24,9.0,False,Quincena,3120,0.0
+2025-09-01,Monday,Fresa Rellena,133,89,44,0,24,9.0,False,Quincena,2136,396.0
+2025-09-02,Tuesday,Fresa Rellena,133,89,44,0,24,9.0,False,,2136,396.0
+2025-09-03,Wednesday,Fresa Rellena,133,110,23,0,24,9.0,False,,2640,207.0
+2025-09-04,Thursday,Fresa Rellena,135,120,15,0,24,9.0,False,,2880,135.0
+2025-09-05,Friday,Fresa Rellena,136,136,0,10,24,9.0,False,,3264,0.0
+2025-09-06,Saturday,Fresa Rellena,134,134,0,46,24,9.0,False,,3216,0.0
+2025-09-07,Sunday,Fresa Rellena,130,130,0,45,24,9.0,False,,3120,0.0
+2025-09-08,Monday,Fresa Rellena,130,77,53,0,24,9.0,False,,1848,477.0
+2025-09-09,Tuesday,Fresa Rellena,128,105,23,0,24,9.0,False,,2520,207.0
+2025-09-10,Wednesday,Fresa Rellena,130,100,30,0,24,9.0,False,,2400,270.0
+2025-09-11,Thursday,Fresa Rellena,129,118,11,0,24,9.0,False,,2832,99.0
+2025-09-12,Friday,Fresa Rellena,129,126,3,0,24,9.0,False,,3024,27.0
+2025-09-13,Saturday,Fresa Rellena,126,126,0,31,24,9.0,False,,3024,0.0
+2025-09-14,Sunday,Fresa Rellena,123,123,0,48,24,9.0,False,,2952,0.0
+2025-09-15,Monday,Fresa Rellena,122,80,42,0,24,9.0,False,Quincena,1920,378.0
+2025-09-16,Tuesday,Fresa Rellena,122,110,12,0,24,9.0,False,,2640,108.0
+2025-09-17,Wednesday,Fresa Rellena,123,123,0,1,24,9.0,True,,2952,0.0
+2025-09-18,Thursday,Fresa Rellena,127,121,6,0,24,9.0,False,,2904,54.0
+2025-09-19,Friday,Fresa Rellena,127,127,0,40,24,9.0,False,,3048,0.0
+2025-09-20,Saturday,Fresa Rellena,133,133,0,40,24,9.0,False,,3192,0.0
+2025-09-21,Sunday,Fresa Rellena,135,135,0,21,24,9.0,False,,3240,0.0
+2025-09-22,Monday,Fresa Rellena,133,77,56,0,24,9.0,False,,1848,504.0
+2025-09-23,Tuesday,Fresa Rellena,133,96,37,0,24,9.0,False,,2304,333.0
+2025-09-24,Wednesday,Fresa Rellena,131,92,39,0,24,9.0,False,,2208,351.0
+2025-09-25,Thursday,Fresa Rellena,126,101,25,0,24,9.0,False,,2424,225.0
+2025-09-26,Friday,Fresa Rellena,123,123,0,42,24,9.0,False,,2952,0.0
+2025-09-27,Saturday,Fresa Rellena,123,123,0,75,24,9.0,False,,2952,0.0
+2025-09-28,Sunday,Fresa Rellena,126,126,0,27,24,9.0,False,,3024,0.0
+2025-09-29,Monday,Fresa Rellena,126,79,47,0,24,9.0,False,,1896,423.0
+2025-09-30,Tuesday,Fresa Rellena,126,126,0,2,24,9.0,False,Quincena,3024,0.0
+2025-10-01,Wednesday,Fresa Rellena,131,117,14,0,24,9.0,False,Quincena,2808,126.0
+2025-10-02,Thursday,Fresa Rellena,134,110,24,0,24,9.0,False,,2640,216.0
+2025-10-03,Friday,Fresa Rellena,136,136,0,31,24,9.0,False,,3264,0.0
+2025-10-04,Saturday,Fresa Rellena,136,136,0,55,24,9.0,False,,3264,0.0
+2025-10-05,Sunday,Fresa Rellena,135,135,0,55,24,9.0,False,,3240,0.0
+2025-10-06,Monday,Fresa Rellena,140,81,59,0,24,9.0,False,,1944,531.0
+2025-10-07,Tuesday,Fresa Rellena,141,103,38,0,24,9.0,False,,2472,342.0
+2025-10-08,Wednesday,Fresa Rellena,137,130,7,0,24,9.0,True,,3120,63.0
+2025-10-09,Thursday,Fresa Rellena,139,110,29,0,24,9.0,False,,2640,261.0
+2025-10-10,Friday,Fresa Rellena,139,139,0,23,24,9.0,False,,3336,0.0
+2025-10-11,Saturday,Fresa Rellena,138,138,0,52,24,9.0,False,,3312,0.0
+2025-10-12,Sunday,Fresa Rellena,138,138,0,17,24,9.0,False,,3312,0.0
+2025-10-13,Monday,Fresa Rellena,133,83,50,0,24,9.0,False,,1992,450.0
+2025-10-14,Tuesday,Fresa Rellena,133,99,34,0,24,9.0,False,,2376,306.0
+2025-10-15,Wednesday,Fresa Rellena,133,121,12,0,24,9.0,False,Quincena,2904,108.0
+2025-10-16,Thursday,Fresa Rellena,131,120,11,0,24,9.0,False,,2880,99.0
+2025-10-17,Friday,Fresa Rellena,133,131,2,0,24,9.0,False,,3144,18.0
+2025-10-18,Saturday,Fresa Rellena,128,128,0,60,24,9.0,False,,3072,0.0
+2025-10-19,Sunday,Fresa Rellena,128,128,0,53,24,9.0,False,,3072,0.0
+2025-10-20,Monday,Fresa Rellena,132,92,40,0,24,9.0,False,,2208,360.0
+2025-10-21,Tuesday,Fresa Rellena,133,102,31,0,24,9.0,False,,2448,279.0
+2025-10-22,Wednesday,Fresa Rellena,134,102,32,0,24,9.0,False,,2448,288.0
+2025-10-23,Thursday,Fresa Rellena,131,128,3,0,24,9.0,False,,3072,27.0
+2025-10-24,Friday,Fresa Rellena,132,132,0,42,24,9.0,False,,3168,0.0
+2025-10-25,Saturday,Fresa Rellena,138,138,0,32,24,9.0,False,,3312,0.0
+2025-10-26,Sunday,Fresa Rellena,136,136,0,35,24,9.0,False,,3264,0.0
+2025-10-27,Monday,Fresa Rellena,134,79,55,0,24,9.0,False,,1896,495.0
+2025-10-28,Tuesday,Fresa Rellena,132,93,39,0,24,9.0,False,,2232,351.0
+2025-10-29,Wednesday,Fresa Rellena,131,112,19,0,24,9.0,False,,2688,171.0
+2025-10-30,Thursday,Fresa Rellena,132,115,17,0,24,9.0,False,Quincena,2760,153.0
+2025-10-31,Friday,Fresa Rellena,131,131,0,58,24,9.0,False,Quincena,3144,0.0
+2025-11-01,Saturday,Fresa Rellena,133,133,0,69,24,9.0,False,Quincena,3192,0.0
+2025-11-02,Sunday,Fresa Rellena,137,137,0,14,24,9.0,False,,3288,0.0
+2025-11-03,Monday,Fresa Rellena,134,84,50,0,24,9.0,False,,2016,450.0
+2025-11-04,Tuesday,Fresa Rellena,135,97,38,0,24,9.0,False,,2328,342.0
+2025-11-05,Wednesday,Fresa Rellena,136,109,27,0,24,9.0,False,,2616,243.0
+2025-11-06,Thursday,Fresa Rellena,135,135,0,9,24,9.0,False,,3240,0.0
+2025-11-07,Friday,Fresa Rellena,139,139,0,3,24,9.0,False,,3336,0.0
+2025-11-08,Saturday,Fresa Rellena,133,133,0,44,24,9.0,False,,3192,0.0
+2025-11-09,Sunday,Fresa Rellena,129,129,0,53,24,9.0,False,,3096,0.0
+2025-11-10,Monday,Fresa Rellena,134,78,56,0,24,9.0,False,,1872,504.0
+2025-11-11,Tuesday,Fresa Rellena,133,93,40,0,24,9.0,False,,2232,360.0
+2025-11-12,Wednesday,Fresa Rellena,132,102,30,0,24,9.0,False,,2448,270.0
+2025-11-13,Thursday,Fresa Rellena,131,125,6,0,24,9.0,False,,3000,54.0
+2025-11-14,Friday,Fresa Rellena,128,128,0,14,24,9.0,False,,3072,0.0
+2025-11-15,Saturday,Fresa Rellena,128,128,0,69,24,9.0,False,Quincena,3072,0.0
+2025-11-16,Sunday,Fresa Rellena,131,131,0,41,24,9.0,False,,3144,0.0
+2025-11-17,Monday,Fresa Rellena,130,76,54,0,24,9.0,False,,1824,486.0
+2025-11-18,Tuesday,Fresa Rellena,130,111,19,0,24,9.0,False,,2664,171.0
+2025-11-19,Wednesday,Fresa Rellena,132,113,19,0,24,9.0,False,,2712,171.0
+2025-11-20,Thursday,Fresa Rellena,134,123,11,0,24,9.0,False,,2952,99.0
+2025-11-21,Friday,Fresa Rellena,133,133,0,16,24,9.0,False,,3192,0.0
+2025-11-22,Saturday,Fresa Rellena,134,134,0,66,24,9.0,False,,3216,0.0
+2025-11-23,Sunday,Fresa Rellena,135,135,0,30,24,9.0,False,,3240,0.0
+2025-11-24,Monday,Fresa Rellena,134,74,60,0,24,9.0,False,,1776,540.0
+2025-11-25,Tuesday,Fresa Rellena,134,90,44,0,24,9.0,False,,2160,396.0
+2025-11-26,Wednesday,Fresa Rellena,131,92,39,0,24,9.0,False,,2208,351.0
+2025-11-27,Thursday,Fresa Rellena,128,128,0,10,24,9.0,True,,3072,0.0
+2025-11-28,Friday,Fresa Rellena,130,130,0,30,24,9.0,False,,3120,0.0
+2025-11-29,Saturday,Fresa Rellena,131,131,0,58,24,9.0,False,,3144,0.0
+2025-11-30,Sunday,Fresa Rellena,130,130,0,46,24,9.0,False,Quincena,3120,0.0
+2025-12-01,Monday,Fresa Rellena,131,100,31,0,24,9.0,False,Quincena,2400,279.0
+2025-12-02,Tuesday,Fresa Rellena,135,109,26,0,24,9.0,False,,2616,234.0
+2025-12-03,Wednesday,Fresa Rellena,138,102,36,0,24,9.0,False,,2448,324.0
+2025-12-04,Thursday,Fresa Rellena,139,124,15,0,24,9.0,False,,2976,135.0
+2025-12-05,Friday,Fresa Rellena,137,137,0,24,24,9.0,False,,3288,0.0
+2025-12-06,Saturday,Fresa Rellena,137,137,0,47,24,9.0,False,,3288,0.0
+2025-12-07,Sunday,Fresa Rellena,137,137,0,37,24,9.0,False,,3288,0.0
+2025-12-08,Monday,Fresa Rellena,136,88,48,0,24,9.0,False,,2112,432.0
+2025-12-09,Tuesday,Fresa Rellena,135,109,26,0,24,9.0,False,,2616,234.0
+2025-12-10,Wednesday,Fresa Rellena,135,118,17,0,24,9.0,False,,2832,153.0
+2025-12-11,Thursday,Fresa Rellena,137,126,11,0,24,9.0,False,,3024,99.0
+2025-12-12,Friday,Fresa Rellena,137,137,0,19,24,9.0,False,,3288,0.0
+2025-12-13,Saturday,Fresa Rellena,136,136,0,51,24,9.0,False,,3264,0.0
+2025-12-14,Sunday,Fresa Rellena,137,137,0,13,24,9.0,False,,3288,0.0
+2025-12-15,Monday,Fresa Rellena,133,133,0,5,24,9.0,True,Quincena,3192,0.0
+2025-12-16,Tuesday,Fresa Rellena,141,101,40,0,24,9.0,False,,2424,360.0
+2025-12-17,Wednesday,Fresa Rellena,139,84,55,0,24,9.0,False,,2016,495.0
+2025-12-18,Thursday,Fresa Rellena,135,135,0,7,24,9.0,True,,3240,0.0
+2025-12-19,Friday,Fresa Rellena,137,137,0,50,24,9.0,False,,3288,0.0
+2025-12-20,Saturday,Fresa Rellena,141,141,0,60,24,9.0,False,,3384,0.0
+2025-12-21,Sunday,Fresa Rellena,143,143,0,33,24,9.0,False,,3432,0.0
+2025-12-22,Monday,Fresa Rellena,147,88,59,0,24,9.0,False,,2112,531.0
+2025-12-23,Tuesday,Fresa Rellena,140,106,34,0,24,9.0,False,,2544,306.0
+2025-12-24,Wednesday,Fresa Rellena,141,109,32,0,24,9.0,False,,2616,288.0
+2025-12-25,Thursday,Fresa Rellena,144,124,20,0,24,9.0,False,,2976,180.0
+2025-12-26,Friday,Fresa Rellena,142,142,0,17,24,9.0,False,,3408,0.0
+2025-12-27,Saturday,Fresa Rellena,138,138,0,50,24,9.0,False,,3312,0.0
+2025-12-28,Sunday,Fresa Rellena,136,136,0,41,24,9.0,False,,3264,0.0
+2025-12-29,Monday,Fresa Rellena,136,88,48,0,24,9.0,False,,2112,432.0
+2025-12-30,Tuesday,Fresa Rellena,136,109,27,0,24,9.0,False,Quincena,2616,243.0
+2025-12-31,Wednesday,Fresa Rellena,136,120,16,0,24,9.0,False,Quincena,2880,144.0
+2025-01-01,Wednesday,Multigrano,70,70,0,5,22,8.0,False,Quincena,1540,0.0
+2025-01-02,Thursday,Multigrano,75,70,5,0,22,8.0,False,,1540,40.0
+2025-01-03,Friday,Multigrano,72,72,0,9,22,8.0,False,,1584,0.0
+2025-01-04,Saturday,Multigrano,75,75,0,29,22,8.0,False,,1650,0.0
+2025-01-05,Sunday,Multigrano,82,82,0,12,22,8.0,False,,1804,0.0
+2025-01-06,Monday,Multigrano,85,48,37,0,22,8.0,False,,1056,296.0
+2025-01-07,Tuesday,Multigrano,79,56,23,0,22,8.0,False,,1232,184.0
+2025-01-08,Wednesday,Multigrano,75,56,19,0,22,8.0,False,,1232,152.0
+2025-01-09,Thursday,Multigrano,73,73,0,61,22,8.0,False,Día de la Policía,1606,0.0
+2025-01-10,Friday,Multigrano,82,82,0,18,22,8.0,False,,1804,0.0
+2025-01-11,Saturday,Multigrano,85,85,0,9,22,8.0,False,,1870,0.0
+2025-01-12,Sunday,Multigrano,83,83,0,15,22,8.0,False,,1826,0.0
+2025-01-13,Monday,Multigrano,84,47,37,0,22,8.0,False,,1034,296.0
+2025-01-14,Tuesday,Multigrano,84,74,10,0,22,8.0,True,,1628,80.0
+2025-01-15,Wednesday,Multigrano,86,66,20,0,22,8.0,False,Quincena,1452,160.0
+2025-01-16,Thursday,Multigrano,88,88,0,2,22,8.0,True,,1936,0.0
+2025-01-17,Friday,Multigrano,81,81,0,15,22,8.0,False,,1782,0.0
+2025-01-18,Saturday,Multigrano,81,81,0,39,22,8.0,True,,1782,0.0
+2025-01-19,Sunday,Multigrano,84,84,0,4,22,8.0,False,,1848,0.0
+2025-01-20,Monday,Multigrano,83,44,39,0,22,8.0,False,,968,312.0
+2025-01-21,Tuesday,Multigrano,83,55,28,0,22,8.0,False,,1210,224.0
+2025-01-22,Wednesday,Multigrano,80,61,19,0,22,8.0,False,,1342,152.0
+2025-01-23,Thursday,Multigrano,79,71,8,0,22,8.0,False,,1562,64.0
+2025-01-24,Friday,Multigrano,76,76,0,17,22,8.0,False,,1672,0.0
+2025-01-25,Saturday,Multigrano,76,76,0,20,22,8.0,False,,1672,0.0
+2025-01-26,Sunday,Multigrano,73,73,0,33,22,8.0,False,,1606,0.0
+2025-01-27,Monday,Multigrano,75,52,23,0,22,8.0,False,,1144,184.0
+2025-01-28,Tuesday,Multigrano,76,76,0,1,22,8.0,True,,1672,0.0
+2025-01-29,Wednesday,Multigrano,79,56,23,0,22,8.0,False,,1232,184.0
+2025-01-30,Thursday,Multigrano,79,79,0,6,22,8.0,False,Quincena,1738,0.0
+2025-01-31,Friday,Multigrano,81,81,0,16,22,8.0,False,Quincena,1782,0.0
+2025-02-01,Saturday,Multigrano,81,81,0,42,22,8.0,False,Quincena,1782,0.0
+2025-02-02,Sunday,Multigrano,85,85,0,3,22,8.0,False,,1870,0.0
+2025-02-03,Monday,Multigrano,83,49,34,0,22,8.0,False,,1078,272.0
+2025-02-04,Tuesday,Multigrano,82,59,23,0,22,8.0,False,,1298,184.0
+2025-02-05,Wednesday,Multigrano,80,61,19,0,22,8.0,False,,1342,152.0
+2025-02-06,Thursday,Multigrano,80,68,12,0,22,8.0,False,,1496,96.0
+2025-02-07,Friday,Multigrano,78,78,0,12,22,8.0,False,,1716,0.0
+2025-02-08,Saturday,Multigrano,77,77,0,26,22,8.0,False,,1694,0.0
+2025-02-09,Sunday,Multigrano,74,74,0,6,22,8.0,False,,1628,0.0
+2025-02-10,Monday,Multigrano,73,46,27,0,22,8.0,False,,1012,216.0
+2025-02-11,Tuesday,Multigrano,72,56,16,0,22,8.0,False,,1232,128.0
+2025-02-12,Wednesday,Multigrano,72,65,7,0,22,8.0,False,,1430,56.0
+2025-02-13,Thursday,Multigrano,73,67,6,0,22,8.0,False,,1474,48.0
+2025-02-14,Friday,Multigrano,72,72,0,20,22,8.0,False,,1584,0.0
+2025-02-15,Saturday,Multigrano,73,73,0,50,22,8.0,False,Quincena,1606,0.0
+2025-02-16,Sunday,Multigrano,76,76,0,12,22,8.0,False,,1672,0.0
+2025-02-17,Monday,Multigrano,77,56,21,0,22,8.0,False,,1232,168.0
+2025-02-18,Tuesday,Multigrano,78,58,20,0,22,8.0,False,,1276,160.0
+2025-02-19,Wednesday,Multigrano,78,66,12,0,22,8.0,False,,1452,96.0
+2025-02-20,Thursday,Multigrano,79,61,18,0,22,8.0,False,,1342,144.0
+2025-02-21,Friday,Multigrano,78,78,0,9,22,8.0,False,,1716,0.0
+2025-02-22,Saturday,Multigrano,77,77,0,39,22,8.0,False,,1694,0.0
+2025-02-23,Sunday,Multigrano,76,76,0,25,22,8.0,False,,1672,0.0
+2025-02-24,Monday,Multigrano,78,41,37,0,22,8.0,False,,902,296.0
+2025-02-25,Tuesday,Multigrano,76,59,17,0,22,8.0,False,,1298,136.0
+2025-02-26,Wednesday,Multigrano,76,62,14,0,22,8.0,False,,1364,112.0
+2025-02-27,Thursday,Multigrano,75,61,14,0,22,8.0,False,,1342,112.0
+2025-02-28,Friday,Multigrano,75,75,0,8,22,8.0,False,,1650,0.0
+2025-03-01,Saturday,Multigrano,75,75,0,62,22,8.0,False,Quincena,1650,0.0
+2025-03-02,Sunday,Multigrano,78,78,0,8,22,8.0,False,,1716,0.0
+2025-03-03,Monday,Multigrano,76,48,28,0,22,8.0,False,,1056,224.0
+2025-03-04,Tuesday,Multigrano,77,60,17,0,22,8.0,False,,1320,136.0
+2025-03-05,Wednesday,Multigrano,77,55,22,0,22,8.0,False,,1210,176.0
+2025-03-06,Thursday,Multigrano,76,65,11,0,22,8.0,False,,1430,88.0
+2025-03-07,Friday,Multigrano,76,76,0,5,22,8.0,False,,1672,0.0
+2025-03-08,Saturday,Multigrano,76,76,0,31,22,8.0,False,,1672,0.0
+2025-03-09,Sunday,Multigrano,72,72,0,47,22,8.0,False,,1584,0.0
+2025-03-10,Monday,Multigrano,76,49,27,0,22,8.0,False,,1078,216.0
+2025-03-11,Tuesday,Multigrano,77,58,19,0,22,8.0,False,,1276,152.0
+2025-03-12,Wednesday,Multigrano,76,65,11,0,22,8.0,False,,1430,88.0
+2025-03-13,Thursday,Multigrano,78,64,14,0,22,8.0,False,,1408,112.0
+2025-03-14,Friday,Multigrano,78,78,0,14,22,8.0,False,,1716,0.0
+2025-03-15,Saturday,Multigrano,79,79,0,35,22,8.0,False,Quincena,1738,0.0
+2025-03-16,Sunday,Multigrano,80,80,0,19,22,8.0,False,,1760,0.0
+2025-03-17,Monday,Multigrano,77,46,31,0,22,8.0,False,,1012,248.0
+2025-03-18,Tuesday,Multigrano,77,61,16,0,22,8.0,False,,1342,128.0
+2025-03-19,Wednesday,Multigrano,77,66,11,0,22,8.0,False,,1452,88.0
+2025-03-20,Thursday,Multigrano,77,77,0,2,22,8.0,False,,1694,0.0
+2025-03-21,Friday,Multigrano,80,80,0,5,22,8.0,False,,1760,0.0
+2025-03-22,Saturday,Multigrano,79,79,0,33,22,8.0,False,,1738,0.0
+2025-03-23,Sunday,Multigrano,78,78,0,13,22,8.0,False,,1716,0.0
+2025-03-24,Monday,Multigrano,77,46,31,0,22,8.0,False,,1012,248.0
+2025-03-25,Tuesday,Multigrano,77,55,22,0,22,8.0,False,,1210,176.0
+2025-03-26,Wednesday,Multigrano,76,57,19,0,22,8.0,False,,1254,152.0
+2025-03-27,Thursday,Multigrano,75,75,0,0,22,8.0,False,,1650,0.0
+2025-03-28,Friday,Multigrano,74,74,0,10,22,8.0,False,,1628,0.0
+2025-03-29,Saturday,Multigrano,74,74,0,35,22,8.0,False,,1628,0.0
+2025-03-30,Sunday,Multigrano,74,74,0,40,22,8.0,False,Quincena,1628,0.0
+2025-03-31,Monday,Multigrano,77,60,17,0,22,8.0,False,Quincena,1320,136.0
+2025-04-01,Tuesday,Multigrano,79,68,11,0,22,8.0,False,Quincena,1496,88.0
+2025-04-02,Wednesday,Multigrano,81,62,19,0,22,8.0,False,,1364,152.0
+2025-04-03,Thursday,Multigrano,82,67,15,0,22,8.0,False,,1474,120.0
+2025-04-04,Friday,Multigrano,81,81,0,24,22,8.0,True,,1782,0.0
+2025-04-05,Saturday,Multigrano,84,84,0,31,22,8.0,False,,1848,0.0
+2025-04-06,Sunday,Multigrano,84,84,0,40,22,8.0,True,,1848,0.0
+2025-04-07,Monday,Multigrano,86,52,34,0,22,8.0,False,,1144,272.0
+2025-04-08,Tuesday,Multigrano,85,64,21,0,22,8.0,False,,1408,168.0
+2025-04-09,Wednesday,Multigrano,84,59,25,0,22,8.0,False,,1298,200.0
+2025-04-10,Thursday,Multigrano,84,68,16,0,22,8.0,False,,1496,128.0
+2025-04-11,Friday,Multigrano,84,84,0,12,22,8.0,False,,1848,0.0
+2025-04-12,Saturday,Multigrano,83,83,0,33,22,8.0,False,,1826,0.0
+2025-04-13,Sunday,Multigrano,83,83,0,15,22,8.0,False,,1826,0.0
+2025-04-14,Monday,Multigrano,79,44,35,0,22,8.0,False,,968,280.0
+2025-04-15,Tuesday,Multigrano,78,73,5,0,22,8.0,False,Quincena,1606,40.0
+2025-04-16,Wednesday,Multigrano,79,49,30,0,22,8.0,False,,1078,240.0
+2025-04-17,Thursday,Multigrano,78,69,9,0,22,8.0,False,,1518,72.0
+2025-04-18,Friday,Multigrano,78,78,0,16,22,8.0,False,,1716,0.0
+2025-04-19,Saturday,Multigrano,78,78,0,42,22,8.0,False,,1716,0.0
+2025-04-20,Sunday,Multigrano,78,78,0,74,22,8.0,False,Feria Local de Primavera,1716,0.0
+2025-04-21,Monday,Multigrano,86,79,7,0,22,8.0,False,Feria Local de Primavera,1738,56.0
+2025-04-22,Tuesday,Multigrano,91,91,0,6,22,8.0,False,Feria Local de Primavera,2002,0.0
+2025-04-23,Wednesday,Multigrano,94,89,5,0,22,8.0,False,Feria Local de Primavera,1958,40.0
+2025-04-24,Thursday,Multigrano,100,100,0,14,22,8.0,False,Feria Local de Primavera,2200,0.0
+2025-04-25,Friday,Multigrano,106,106,0,30,22,8.0,False,Feria Local de Primavera,2332,0.0
+2025-04-26,Saturday,Multigrano,112,112,0,34,22,8.0,False,Feria Local de Primavera,2464,0.0
+2025-04-27,Sunday,Multigrano,116,116,0,40,22,8.0,False,Feria Local de Primavera,2552,0.0
+2025-04-28,Monday,Multigrano,117,78,39,0,22,8.0,False,Feria Local de Primavera,1716,312.0
+2025-04-29,Tuesday,Multigrano,117,88,29,0,22,8.0,False,Feria Local de Primavera,1936,232.0
+2025-04-30,Wednesday,Multigrano,115,115,0,23,22,8.0,True,Feria Local de Primavera,2530,0.0
+2025-05-01,Thursday,Multigrano,122,77,45,0,22,8.0,False,Quincena,1694,360.0
+2025-05-02,Friday,Multigrano,117,117,0,0,22,8.0,True,,2574,0.0
+2025-05-03,Saturday,Multigrano,114,114,0,1,22,8.0,False,,2508,0.0
+2025-05-04,Sunday,Multigrano,110,94,16,0,22,8.0,False,,2068,128.0
+2025-05-05,Monday,Multigrano,101,48,53,0,22,8.0,False,,1056,424.0
+2025-05-06,Tuesday,Multigrano,97,57,40,0,22,8.0,False,,1254,320.0
+2025-05-07,Wednesday,Multigrano,92,66,26,0,22,8.0,False,,1452,208.0
+2025-05-08,Thursday,Multigrano,82,71,11,0,22,8.0,False,,1562,88.0
+2025-05-09,Friday,Multigrano,81,81,0,30,22,8.0,False,,1782,0.0
+2025-05-10,Saturday,Multigrano,80,80,0,11,22,8.0,False,,1760,0.0
+2025-05-11,Sunday,Multigrano,77,77,0,27,22,8.0,False,,1694,0.0
+2025-05-12,Monday,Multigrano,78,46,32,0,22,8.0,False,,1012,256.0
+2025-05-13,Tuesday,Multigrano,78,74,4,0,22,8.0,True,,1628,32.0
+2025-05-14,Wednesday,Multigrano,80,64,16,0,22,8.0,False,,1408,128.0
+2025-05-15,Thursday,Multigrano,80,80,0,0,22,8.0,False,Quincena,1760,0.0
+2025-05-16,Friday,Multigrano,81,81,0,14,22,8.0,False,,1782,0.0
+2025-05-17,Saturday,Multigrano,79,79,0,28,22,8.0,False,,1738,0.0
+2025-05-18,Sunday,Multigrano,81,81,0,16,22,8.0,False,,1782,0.0
+2025-05-19,Monday,Multigrano,80,50,30,0,22,8.0,False,,1100,240.0
+2025-05-20,Tuesday,Multigrano,81,59,22,0,22,8.0,False,,1298,176.0
+2025-05-21,Wednesday,Multigrano,79,62,17,0,22,8.0,False,,1364,136.0
+2025-05-22,Thursday,Multigrano,79,62,17,0,22,8.0,False,,1364,136.0
+2025-05-23,Friday,Multigrano,76,76,0,44,22,8.0,True,,1672,0.0
+2025-05-24,Saturday,Multigrano,80,80,0,11,22,8.0,False,,1760,0.0
+2025-05-25,Sunday,Multigrano,77,77,0,10,22,8.0,False,,1694,0.0
+2025-05-26,Monday,Multigrano,76,49,27,0,22,8.0,False,,1078,216.0
+2025-05-27,Tuesday,Multigrano,76,58,18,0,22,8.0,False,,1276,144.0
+2025-05-28,Wednesday,Multigrano,76,63,13,0,22,8.0,False,,1386,104.0
+2025-05-29,Thursday,Multigrano,76,76,0,0,22,8.0,False,,1672,0.0
+2025-05-30,Friday,Multigrano,78,78,0,26,22,8.0,False,Quincena,1716,0.0
+2025-05-31,Saturday,Multigrano,75,75,0,52,22,8.0,False,Quincena,1650,0.0
+2025-06-01,Sunday,Multigrano,81,81,0,26,22,8.0,False,Quincena,1782,0.0
+2025-06-02,Monday,Multigrano,83,43,40,0,22,8.0,False,,946,320.0
+2025-06-03,Tuesday,Multigrano,83,63,20,0,22,8.0,False,,1386,160.0
+2025-06-04,Wednesday,Multigrano,83,58,25,0,22,8.0,False,,1276,200.0
+2025-06-05,Thursday,Multigrano,83,75,8,0,22,8.0,False,,1650,64.0
+2025-06-06,Friday,Multigrano,82,82,0,130,22,8.0,False,Día Nacional de la Dona,1804,0.0
+2025-06-07,Saturday,Multigrano,98,98,0,12,22,8.0,False,,2156,0.0
+2025-06-08,Sunday,Multigrano,95,77,18,0,22,8.0,False,,1694,144.0
+2025-06-09,Monday,Multigrano,91,48,43,0,22,8.0,False,,1056,344.0
+2025-06-10,Tuesday,Multigrano,92,60,32,0,22,8.0,False,,1320,256.0
+2025-06-11,Wednesday,Multigrano,91,62,29,0,22,8.0,False,,1364,232.0
+2025-06-12,Thursday,Multigrano,92,67,25,0,22,8.0,False,,1474,200.0
+2025-06-13,Friday,Multigrano,91,91,0,5,22,8.0,False,,2002,0.0
+2025-06-14,Saturday,Multigrano,74,74,0,9,22,8.0,False,,1628,0.0
+2025-06-15,Sunday,Multigrano,70,70,0,36,22,8.0,False,Quincena,1540,0.0
+2025-06-16,Monday,Multigrano,75,49,26,0,22,8.0,False,,1078,208.0
+2025-06-17,Tuesday,Multigrano,75,54,21,0,22,8.0,False,,1188,168.0
+2025-06-18,Wednesday,Multigrano,74,63,11,0,22,8.0,False,,1386,88.0
+2025-06-19,Thursday,Multigrano,74,74,0,2,22,8.0,False,,1628,0.0
+2025-06-20,Friday,Multigrano,75,75,0,5,22,8.0,False,,1650,0.0
+2025-06-21,Saturday,Multigrano,73,73,0,39,22,8.0,False,,1606,0.0
+2025-06-22,Sunday,Multigrano,77,77,0,7,22,8.0,False,,1694,0.0
+2025-06-23,Monday,Multigrano,74,47,27,0,22,8.0,False,,1034,216.0
+2025-06-24,Tuesday,Multigrano,74,56,18,0,22,8.0,False,,1232,144.0
+2025-06-25,Wednesday,Multigrano,74,64,10,0,22,8.0,False,,1408,80.0
+2025-06-26,Thursday,Multigrano,74,73,1,0,22,8.0,False,,1606,8.0
+2025-06-27,Friday,Multigrano,74,74,0,15,22,8.0,False,,1628,0.0
+2025-06-28,Saturday,Multigrano,75,75,0,41,22,8.0,False,,1650,0.0
+2025-06-29,Sunday,Multigrano,76,76,0,42,22,8.0,False,,1672,0.0
+2025-06-30,Monday,Multigrano,80,46,34,0,22,8.0,False,Quincena,1012,272.0
+2025-07-01,Tuesday,Multigrano,80,66,14,0,22,8.0,False,Quincena,1452,112.0
+2025-07-02,Wednesday,Multigrano,82,59,23,0,22,8.0,False,,1298,184.0
+2025-07-03,Thursday,Multigrano,81,72,9,0,22,8.0,False,,1584,72.0
+2025-07-04,Friday,Multigrano,81,81,0,12,22,8.0,False,,1782,0.0
+2025-07-05,Saturday,Multigrano,81,81,0,42,22,8.0,False,,1782,0.0
+2025-07-06,Sunday,Multigrano,82,82,0,22,22,8.0,False,,1804,0.0
+2025-07-07,Monday,Multigrano,80,42,38,0,22,8.0,False,,924,304.0
+2025-07-08,Tuesday,Multigrano,80,61,19,0,22,8.0,False,,1342,152.0
+2025-07-09,Wednesday,Multigrano,79,62,17,0,22,8.0,False,,1364,136.0
+2025-07-10,Thursday,Multigrano,80,80,0,18,22,8.0,True,,1760,0.0
+2025-07-11,Friday,Multigrano,83,83,0,5,22,8.0,False,,1826,0.0
+2025-07-12,Saturday,Multigrano,83,83,0,15,22,8.0,False,,1826,0.0
+2025-07-13,Sunday,Multigrano,79,79,0,14,22,8.0,False,,1738,0.0
+2025-07-14,Monday,Multigrano,77,52,25,0,22,8.0,False,,1144,200.0
+2025-07-15,Tuesday,Multigrano,79,65,14,0,22,8.0,False,Quincena,1430,112.0
+2025-07-16,Wednesday,Multigrano,79,66,13,0,22,8.0,False,,1452,104.0
+2025-07-17,Thursday,Multigrano,80,75,5,0,22,8.0,False,,1650,40.0
+2025-07-18,Friday,Multigrano,77,77,0,3,22,8.0,False,,1694,0.0
+2025-07-19,Saturday,Multigrano,76,76,0,31,22,8.0,False,,1672,0.0
+2025-07-20,Sunday,Multigrano,77,77,0,23,22,8.0,False,,1694,0.0
+2025-07-21,Monday,Multigrano,78,55,23,0,22,8.0,False,,1210,184.0
+2025-07-22,Tuesday,Multigrano,78,77,1,0,22,8.0,True,,1694,8.0
+2025-07-23,Wednesday,Multigrano,80,59,21,0,22,8.0,False,,1298,168.0
+2025-07-24,Thursday,Multigrano,79,65,14,0,22,8.0,False,,1430,112.0
+2025-07-25,Friday,Multigrano,78,78,0,24,22,8.0,False,,1716,0.0
+2025-07-26,Saturday,Multigrano,81,81,0,30,22,8.0,False,,1782,0.0
+2025-07-27,Sunday,Multigrano,81,81,0,12,22,8.0,False,,1782,0.0
+2025-07-28,Monday,Multigrano,80,50,30,0,22,8.0,False,,1100,240.0
+2025-07-29,Tuesday,Multigrano,80,78,2,0,22,8.0,True,,1716,16.0
+2025-07-30,Wednesday,Multigrano,80,78,2,0,22,8.0,False,Quincena,1716,16.0
+2025-07-31,Thursday,Multigrano,82,82,0,11,22,8.0,False,Quincena,1804,0.0
+2025-08-01,Friday,Multigrano,86,86,0,35,22,8.0,False,Quincena,1892,0.0
+2025-08-02,Saturday,Multigrano,89,89,0,42,22,8.0,False,,1958,0.0
+2025-08-03,Sunday,Multigrano,92,92,0,24,22,8.0,True,,2024,0.0
+2025-08-04,Monday,Multigrano,95,49,46,0,22,8.0,False,,1078,368.0
+2025-08-05,Tuesday,Multigrano,95,65,30,0,22,8.0,False,,1430,240.0
+2025-08-06,Wednesday,Multigrano,93,60,33,0,22,8.0,False,,1320,264.0
+2025-08-07,Thursday,Multigrano,91,80,11,0,22,8.0,False,,1760,88.0
+2025-08-08,Friday,Multigrano,89,89,0,14,22,8.0,False,,1958,0.0
+2025-08-09,Saturday,Multigrano,86,86,0,36,22,8.0,False,,1892,0.0
+2025-08-10,Sunday,Multigrano,85,85,0,16,22,8.0,False,,1870,0.0
+2025-08-11,Monday,Multigrano,83,62,21,0,22,8.0,True,,1364,168.0
+2025-08-12,Tuesday,Multigrano,85,60,25,0,22,8.0,False,,1320,200.0
+2025-08-13,Wednesday,Multigrano,84,57,27,0,22,8.0,False,,1254,216.0
+2025-08-14,Thursday,Multigrano,84,69,15,0,22,8.0,False,,1518,120.0
+2025-08-15,Friday,Multigrano,82,82,0,28,22,8.0,False,Quincena,1804,0.0
+2025-08-16,Saturday,Multigrano,83,83,0,39,22,8.0,False,,1826,0.0
+2025-08-17,Sunday,Multigrano,83,83,0,9,22,8.0,False,,1826,0.0
+2025-08-18,Monday,Multigrano,82,50,32,0,22,8.0,False,,1100,256.0
+2025-08-19,Tuesday,Multigrano,80,61,19,0,22,8.0,False,,1342,152.0
+2025-08-20,Wednesday,Multigrano,80,58,22,0,22,8.0,False,,1276,176.0
+2025-08-21,Thursday,Multigrano,80,70,10,0,22,8.0,False,,1540,80.0
+2025-08-22,Friday,Multigrano,80,80,0,15,22,8.0,False,,1760,0.0
+2025-08-23,Saturday,Multigrano,78,78,0,27,22,8.0,False,,1716,0.0
+2025-08-24,Sunday,Multigrano,76,76,0,29,22,8.0,False,,1672,0.0
+2025-08-25,Monday,Multigrano,78,52,26,0,22,8.0,False,,1144,208.0
+2025-08-26,Tuesday,Multigrano,78,78,0,1,22,8.0,True,,1716,0.0
+2025-08-27,Wednesday,Multigrano,81,62,19,0,22,8.0,False,,1364,152.0
+2025-08-28,Thursday,Multigrano,81,81,0,7,22,8.0,True,,1782,0.0
+2025-08-29,Friday,Multigrano,84,84,0,12,22,8.0,False,,1848,0.0
+2025-08-30,Saturday,Multigrano,84,84,0,54,22,8.0,False,Quincena,1848,0.0
+2025-08-31,Sunday,Multigrano,89,89,0,33,22,8.0,False,Quincena,1958,0.0
+2025-09-01,Monday,Multigrano,91,56,35,0,22,8.0,False,Quincena,1232,280.0
+2025-09-02,Tuesday,Multigrano,92,70,22,0,22,8.0,False,,1540,176.0
+2025-09-03,Wednesday,Multigrano,90,62,28,0,22,8.0,False,,1364,224.0
+2025-09-04,Thursday,Multigrano,90,67,23,0,22,8.0,False,,1474,184.0
+2025-09-05,Friday,Multigrano,87,87,0,4,22,8.0,False,,1914,0.0
+2025-09-06,Saturday,Multigrano,87,87,0,25,22,8.0,False,,1914,0.0
+2025-09-07,Sunday,Multigrano,83,83,0,19,22,8.0,False,,1826,0.0
+2025-09-08,Monday,Multigrano,80,53,27,0,22,8.0,False,,1166,216.0
+2025-09-09,Tuesday,Multigrano,80,60,20,0,22,8.0,False,,1320,160.0
+2025-09-10,Wednesday,Multigrano,78,56,22,0,22,8.0,False,,1232,176.0
+2025-09-11,Thursday,Multigrano,77,72,5,0,22,8.0,False,,1584,40.0
+2025-09-12,Friday,Multigrano,78,73,5,0,22,8.0,False,,1606,40.0
+2025-09-13,Saturday,Multigrano,75,75,0,40,22,8.0,False,,1650,0.0
+2025-09-14,Sunday,Multigrano,76,76,0,24,22,8.0,False,,1672,0.0
+2025-09-15,Monday,Multigrano,76,75,1,0,22,8.0,True,Quincena,1650,8.0
+2025-09-16,Tuesday,Multigrano,79,74,5,0,22,8.0,True,,1628,40.0
+2025-09-17,Wednesday,Multigrano,81,63,18,0,22,8.0,False,,1386,144.0
+2025-09-18,Thursday,Multigrano,82,78,4,0,22,8.0,False,,1716,32.0
+2025-09-19,Friday,Multigrano,83,83,0,12,22,8.0,False,,1826,0.0
+2025-09-20,Saturday,Multigrano,86,86,0,23,22,8.0,False,,1892,0.0
+2025-09-21,Sunday,Multigrano,85,85,0,8,22,8.0,False,,1870,0.0
+2025-09-22,Monday,Multigrano,84,52,32,0,22,8.0,False,,1144,256.0
+2025-09-23,Tuesday,Multigrano,81,54,27,0,22,8.0,False,,1188,216.0
+2025-09-24,Wednesday,Multigrano,78,67,11,0,22,8.0,False,,1474,88.0
+2025-09-25,Thursday,Multigrano,78,76,2,0,22,8.0,False,,1672,16.0
+2025-09-26,Friday,Multigrano,78,78,0,14,22,8.0,False,,1716,0.0
+2025-09-27,Saturday,Multigrano,78,78,0,49,22,8.0,True,,1716,0.0
+2025-09-28,Sunday,Multigrano,80,80,0,19,22,8.0,False,,1760,0.0
+2025-09-29,Monday,Multigrano,81,51,30,0,22,8.0,False,,1122,240.0
+2025-09-30,Tuesday,Multigrano,81,77,4,0,22,8.0,False,Quincena,1694,32.0
+2025-10-01,Wednesday,Multigrano,84,75,9,0,22,8.0,False,Quincena,1650,72.0
+2025-10-02,Thursday,Multigrano,85,74,11,0,22,8.0,False,,1628,88.0
+2025-10-03,Friday,Multigrano,85,85,0,7,22,8.0,False,,1870,0.0
+2025-10-04,Saturday,Multigrano,85,85,0,72,22,8.0,True,,1870,0.0
+2025-10-05,Sunday,Multigrano,89,89,0,7,22,8.0,False,,1958,0.0
+2025-10-06,Monday,Multigrano,89,52,37,0,22,8.0,False,,1144,296.0
+2025-10-07,Tuesday,Multigrano,89,68,21,0,22,8.0,False,,1496,168.0
+2025-10-08,Wednesday,Multigrano,88,68,20,0,22,8.0,False,,1496,160.0
+2025-10-09,Thursday,Multigrano,87,79,8,0,22,8.0,False,,1738,64.0
+2025-10-10,Friday,Multigrano,87,87,0,9,22,8.0,False,,1914,0.0
+2025-10-11,Saturday,Multigrano,88,88,0,81,22,8.0,True,,1936,0.0
+2025-10-12,Sunday,Multigrano,90,90,0,4,22,8.0,False,,1980,0.0
+2025-10-13,Monday,Multigrano,89,54,35,0,22,8.0,False,,1188,280.0
+2025-10-14,Tuesday,Multigrano,90,69,21,0,22,8.0,False,,1518,168.0
+2025-10-15,Wednesday,Multigrano,90,70,20,0,22,8.0,False,Quincena,1540,160.0
+2025-10-16,Thursday,Multigrano,90,69,21,0,22,8.0,False,,1518,168.0
+2025-10-17,Friday,Multigrano,89,89,0,11,22,8.0,False,,1958,0.0
+2025-10-18,Saturday,Multigrano,89,89,0,29,22,8.0,False,,1958,0.0
+2025-10-19,Sunday,Multigrano,82,80,2,0,22,8.0,False,,1760,16.0
+2025-10-20,Monday,Multigrano,80,52,28,0,22,8.0,False,,1144,224.0
+2025-10-21,Tuesday,Multigrano,80,57,23,0,22,8.0,False,,1254,184.0
+2025-10-22,Wednesday,Multigrano,78,61,17,0,22,8.0,False,,1342,136.0
+2025-10-23,Thursday,Multigrano,77,76,1,0,22,8.0,False,,1672,8.0
+2025-10-24,Friday,Multigrano,78,78,0,31,22,8.0,False,,1716,0.0
+2025-10-25,Saturday,Multigrano,79,79,0,24,22,8.0,False,,1738,0.0
+2025-10-26,Sunday,Multigrano,77,77,0,32,22,8.0,False,,1694,0.0
+2025-10-27,Monday,Multigrano,81,49,32,0,22,8.0,False,,1078,256.0
+2025-10-28,Tuesday,Multigrano,81,58,23,0,22,8.0,False,,1276,184.0
+2025-10-29,Wednesday,Multigrano,81,66,15,0,22,8.0,False,,1452,120.0
+2025-10-30,Thursday,Multigrano,81,79,2,0,22,8.0,False,Quincena,1738,16.0
+2025-10-31,Friday,Multigrano,82,82,0,33,22,8.0,False,Quincena,1804,0.0
+2025-11-01,Saturday,Multigrano,83,83,0,46,22,8.0,False,Quincena,1826,0.0
+2025-11-02,Sunday,Multigrano,86,86,0,11,22,8.0,False,,1892,0.0
+2025-11-03,Monday,Multigrano,85,51,34,0,22,8.0,False,,1122,272.0
+2025-11-04,Tuesday,Multigrano,85,50,35,0,22,8.0,False,,1100,280.0
+2025-11-05,Wednesday,Multigrano,84,70,14,0,22,8.0,False,,1540,112.0
+2025-11-06,Thursday,Multigrano,84,69,15,0,22,8.0,False,,1518,120.0
+2025-11-07,Friday,Multigrano,83,83,0,11,22,8.0,False,,1826,0.0
+2025-11-08,Saturday,Multigrano,80,80,0,32,22,8.0,False,,1760,0.0
+2025-11-09,Sunday,Multigrano,78,78,0,24,22,8.0,False,,1716,0.0
+2025-11-10,Monday,Multigrano,78,57,21,0,22,8.0,False,,1254,168.0
+2025-11-11,Tuesday,Multigrano,79,65,14,0,22,8.0,False,,1430,112.0
+2025-11-12,Wednesday,Multigrano,81,69,12,0,22,8.0,False,,1518,96.0
+2025-11-13,Thursday,Multigrano,81,80,1,0,22,8.0,False,,1760,8.0
+2025-11-14,Friday,Multigrano,83,83,0,23,22,8.0,False,,1826,0.0
+2025-11-15,Saturday,Multigrano,84,84,0,41,22,8.0,False,Quincena,1848,0.0
+2025-11-16,Sunday,Multigrano,86,86,0,30,22,8.0,False,,1892,0.0
+2025-11-17,Monday,Multigrano,88,51,37,0,22,8.0,False,,1122,296.0
+2025-11-18,Tuesday,Multigrano,87,59,28,0,22,8.0,False,,1298,224.0
+2025-11-19,Wednesday,Multigrano,87,67,20,0,22,8.0,False,,1474,160.0
+2025-11-20,Thursday,Multigrano,86,75,11,0,22,8.0,False,,1650,88.0
+2025-11-21,Friday,Multigrano,86,86,0,12,22,8.0,False,,1892,0.0
+2025-11-22,Saturday,Multigrano,84,84,0,19,22,8.0,False,,1848,0.0
+2025-11-23,Sunday,Multigrano,81,81,0,20,22,8.0,False,,1782,0.0
+2025-11-24,Monday,Multigrano,79,49,30,0,22,8.0,False,,1078,240.0
+2025-11-25,Tuesday,Multigrano,79,62,17,0,22,8.0,False,,1364,136.0
+2025-11-26,Wednesday,Multigrano,79,69,10,0,22,8.0,False,,1518,80.0
+2025-11-27,Thursday,Multigrano,80,73,7,0,22,8.0,False,,1606,56.0
+2025-11-28,Friday,Multigrano,79,79,0,9,22,8.0,False,,1738,0.0
+2025-11-29,Saturday,Multigrano,78,78,0,40,22,8.0,False,,1716,0.0
+2025-11-30,Sunday,Multigrano,80,80,0,73,22,8.0,True,Quincena,1760,0.0
+2025-12-01,Monday,Multigrano,87,60,27,0,22,8.0,False,Quincena,1320,216.0
+2025-12-02,Tuesday,Multigrano,89,60,29,0,22,8.0,False,,1320,232.0
+2025-12-03,Wednesday,Multigrano,89,74,15,0,22,8.0,False,,1628,120.0
+2025-12-04,Thursday,Multigrano,89,65,24,0,22,8.0,False,,1430,192.0
+2025-12-05,Friday,Multigrano,88,88,0,10,22,8.0,False,,1936,0.0
+2025-12-06,Saturday,Multigrano,90,90,0,32,22,8.0,False,,1980,0.0
+2025-12-07,Sunday,Multigrano,90,90,0,5,22,8.0,False,,1980,0.0
+2025-12-08,Monday,Multigrano,82,44,38,0,22,8.0,False,,968,304.0
+2025-12-09,Tuesday,Multigrano,80,58,22,0,22,8.0,False,,1276,176.0
+2025-12-10,Wednesday,Multigrano,79,64,15,0,22,8.0,False,,1408,120.0
+2025-12-11,Thursday,Multigrano,78,76,2,0,22,8.0,False,,1672,16.0
+2025-12-12,Friday,Multigrano,80,80,0,16,22,8.0,False,,1760,0.0
+2025-12-13,Saturday,Multigrano,79,79,0,27,22,8.0,False,,1738,0.0
+2025-12-14,Sunday,Multigrano,77,77,0,22,22,8.0,False,,1694,0.0
+2025-12-15,Monday,Multigrano,78,59,19,0,22,8.0,False,Quincena,1298,152.0
+2025-12-16,Tuesday,Multigrano,80,60,20,0,22,8.0,False,,1320,160.0
+2025-12-17,Wednesday,Multigrano,80,71,9,0,22,8.0,False,,1562,72.0
+2025-12-18,Thursday,Multigrano,81,70,11,0,22,8.0,False,,1540,88.0
+2025-12-19,Friday,Multigrano,80,80,0,16,22,8.0,False,,1760,0.0
+2025-12-20,Saturday,Multigrano,80,80,0,31,22,8.0,False,,1760,0.0
+2025-12-21,Sunday,Multigrano,81,81,0,37,22,8.0,False,,1782,0.0
+2025-12-22,Monday,Multigrano,84,60,24,0,22,8.0,False,,1320,192.0
+2025-12-23,Tuesday,Multigrano,84,72,12,0,22,8.0,False,,1584,96.0
+2025-12-24,Wednesday,Multigrano,85,64,21,0,22,8.0,False,,1408,168.0
+2025-12-25,Thursday,Multigrano,84,84,0,3,22,8.0,False,,1848,0.0
+2025-12-26,Friday,Multigrano,87,87,0,10,22,8.0,False,,1914,0.0
+2025-12-27,Saturday,Multigrano,87,87,0,26,22,8.0,False,,1914,0.0
+2025-12-28,Sunday,Multigrano,87,87,0,14,22,8.0,False,,1914,0.0
+2025-12-29,Monday,Multigrano,85,54,31,0,22,8.0,False,,1188,248.0
+2025-12-30,Tuesday,Multigrano,84,74,10,0,22,8.0,False,Quincena,1628,80.0
+2025-12-31,Wednesday,Multigrano,84,81,3,0,22,8.0,False,Quincena,1782,24.0
